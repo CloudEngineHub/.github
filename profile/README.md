@@ -1,7 +1,7 @@
 # CloudEngineHub
 
 - 👋 I'm a Robot Algorithm Engineer and interested in robotics, artificial intelligence and robot learning.
-- 👀 This organization aims to collect and archive the famous useful repositories and projects.
+- 👀 This organization aims to collect and deploy the famous useful repositories and projects in the cloud for IaaS, PaaS and SaaS.
 - 📫 You can keep in touch with the owner using email jade.cong@qq.com or jade.cong.me@gmail.com.
 
 ## Know More About Me
