@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 env:
-  GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+  GH_TOKEN: ${{ secrets.GH_PAT }}
 
 defaults:
   run:
@@ -39,7 +39,7 @@ jobs:
       - name: Run script gen-forks-list
         run: echo "CloudEngineHub" | ./gen-forks-list.sh
         env:
-          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
       
       - name: Commit changes
         run: |
@@ -50,4 +50,4 @@ jobs:
       - name: Push changes
         run: git push
         env:
-          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
