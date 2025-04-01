@@ -344,6 +344,7 @@ CloudEngineHub/dust3r[main]: https://github.com/CloudEngineHub/dust3r.git -> htt
 CloudEngineHub/dvo_slam[fuerte]: https://github.com/CloudEngineHub/dvo_slam.git -> https://github.com/tum-vision/dvo_slam.git
 CloudEngineHub/Dyn-HaMR[main]: https://github.com/CloudEngineHub/Dyn-HaMR.git -> https://github.com/ZhengdiYu/Dyn-HaMR.git
 CloudEngineHub/dynamic-gaussian-marbles[main]: https://github.com/CloudEngineHub/dynamic-gaussian-marbles.git -> https://github.com/coltonstearns/dynamic-gaussian-marbles.git
+CloudEngineHub/Easi3R[main]: https://github.com/CloudEngineHub/Easi3R.git -> https://github.com/Inception3D/Easi3R.git
 CloudEngineHub/easy-rl[master]: https://github.com/CloudEngineHub/easy-rl.git -> https://github.com/datawhalechina/easy-rl.git
 CloudEngineHub/easyquant[master]: https://github.com/CloudEngineHub/easyquant.git -> https://github.com/shidenggui/easyquant.git
 CloudEngineHub/EasySpider[master]: https://github.com/CloudEngineHub/EasySpider.git -> https://github.com/NaiboWang/EasySpider.git
@@ -362,6 +363,7 @@ CloudEngineHub/electron[main]: https://github.com/CloudEngineHub/electron.git ->
 CloudEngineHub/ElegantRL[master]: https://github.com/CloudEngineHub/ElegantRL.git -> https://github.com/AI4Finance-Foundation/ElegantRL.git
 CloudEngineHub/ell[main]: https://github.com/CloudEngineHub/ell.git -> https://github.com/MadcowD/ell.git
 CloudEngineHub/EmbodiedScan[main]: https://github.com/CloudEngineHub/EmbodiedScan.git -> https://github.com/OpenRobotLab/EmbodiedScan.git
+CloudEngineHub/embodied_reasoner[main]: https://github.com/CloudEngineHub/embodied_reasoner.git -> https://github.com/zwq2018/embodied_reasoner.git
 CloudEngineHub/Emu3[main]: https://github.com/CloudEngineHub/Emu3.git -> https://github.com/baaivision/Emu3.git
 CloudEngineHub/equibot[main]: https://github.com/CloudEngineHub/equibot.git -> https://github.com/yjy0625/equibot.git
 CloudEngineHub/ES-PTAM[main]: https://github.com/CloudEngineHub/ES-PTAM.git -> https://github.com/tub-rip/ES-PTAM.git
@@ -489,6 +491,7 @@ CloudEngineHub/google-research[master]: https://github.com/CloudEngineHub/google
 CloudEngineHub/GOT-OCR2.0[main]: https://github.com/CloudEngineHub/GOT-OCR2.0.git -> https://github.com/Ucas-HaoranWei/GOT-OCR2.0.git
 CloudEngineHub/gpt-2[master]: https://github.com/CloudEngineHub/gpt-2.git -> https://github.com/openai/gpt-2.git
 CloudEngineHub/gpt-3[master]: https://github.com/CloudEngineHub/gpt-3.git -> https://github.com/openai/gpt-3.git
+CloudEngineHub/gpt-4-for-code[main]: https://github.com/CloudEngineHub/gpt-4-for-code.git -> https://github.com/anysphere/gpt-4-for-code.git
 CloudEngineHub/gpt-code-clippy[camera-ready]: https://github.com/CloudEngineHub/gpt-code-clippy.git -> https://github.com/CodedotAl/gpt-code-clippy.git
 CloudEngineHub/gpt-computer-assistant[master]: https://github.com/CloudEngineHub/gpt-computer-assistant.git -> https://github.com/Upsonic/Upsonic.git
 CloudEngineHub/gpt-engineer[main]: https://github.com/CloudEngineHub/gpt-engineer.git -> https://github.com/AntonOsika/gpt-engineer.git
@@ -551,6 +554,7 @@ CloudEngineHub/HRNet-Bottom-Up-Pose-Estimation[master]: https://github.com/Cloud
 CloudEngineHub/HRNet-Human-Pose-Estimation[master]: https://github.com/CloudEngineHub/HRNet-Human-Pose-Estimation.git -> https://github.com/HRNet/HRNet-Human-Pose-Estimation.git
 CloudEngineHub/HRNet-Image-Classification[master]: https://github.com/CloudEngineHub/HRNet-Image-Classification.git -> https://github.com/HRNet/HRNet-Image-Classification.git
 CloudEngineHub/HRNet-Semantic-Segmentation[HRNet-OCR]: https://github.com/CloudEngineHub/HRNet-Semantic-Segmentation.git -> https://github.com/HRNet/HRNet-Semantic-Segmentation.git
+CloudEngineHub/HSMR[main]: https://github.com/CloudEngineHub/HSMR.git -> https://github.com/IsshikiHugh/HSMR.git
 CloudEngineHub/httpie-cli[master]: https://github.com/CloudEngineHub/httpie-cli.git -> https://github.com/httpie/cli.git
 CloudEngineHub/huaweimind[master]: https://github.com/CloudEngineHub/huaweimind.git -> https://github.com/benmahr/huaweimind.git
 CloudEngineHub/hugging-llm[main]: https://github.com/CloudEngineHub/hugging-llm.git -> https://github.com/datawhalechina/hugging-llm.git
@@ -667,6 +671,7 @@ CloudEngineHub/LIO-SAM[master]: https://github.com/CloudEngineHub/LIO-SAM.git ->
 CloudEngineHub/liquid_time_constant_networks[master]: https://github.com/CloudEngineHub/liquid_time_constant_networks.git -> https://github.com/raminmh/liquid_time_constant_networks.git
 CloudEngineHub/Lite-HRNet[hrnet]: https://github.com/CloudEngineHub/Lite-HRNet.git -> https://github.com/HRNet/Lite-HRNet.git
 CloudEngineHub/lite.ai.toolkit[main]: https://github.com/CloudEngineHub/lite.ai.toolkit.git -> https://github.com/xlite-dev/lite.ai.toolkit.git
+CloudEngineHub/litellm[main]: https://github.com/CloudEngineHub/litellm.git -> https://github.com/BerriAI/litellm.git
 CloudEngineHub/LiteOS[master]: https://github.com/CloudEngineHub/LiteOS.git -> https://github.com/LiteOS/LiteOS.git
 CloudEngineHub/LivePortrait[main]: https://github.com/CloudEngineHub/LivePortrait.git -> https://github.com/KwaiVGI/LivePortrait.git
 CloudEngineHub/llama[main]: https://github.com/CloudEngineHub/llama.git -> https://github.com/meta-llama/llama.git
@@ -732,6 +737,8 @@ CloudEngineHub/Mastering-GitHub-Copilot-for-Paired-Programming[main]: https://gi
 CloudEngineHub/mattergen[main]: https://github.com/CloudEngineHub/mattergen.git -> https://github.com/microsoft/mattergen.git
 CloudEngineHub/MaxKB[main]: https://github.com/CloudEngineHub/MaxKB.git -> https://github.com/1Panel-dev/MaxKB.git
 CloudEngineHub/maxun[master]: https://github.com/CloudEngineHub/maxun.git -> https://github.com/getmaxun/maxun.git
+CloudEngineHub/mcp-agent[main]: https://github.com/CloudEngineHub/mcp-agent.git -> https://github.com/lastmile-ai/mcp-agent.git
+CloudEngineHub/mcp-directory[main]: https://github.com/CloudEngineHub/mcp-directory.git -> https://github.com/chatmcp/mcp-directory.git
 CloudEngineHub/MD3-Windows[main]: https://github.com/CloudEngineHub/MD3-Windows.git -> https://github.com/Runixe786/MD3-Windows.git
 CloudEngineHub/mediapipe[master]: https://github.com/CloudEngineHub/mediapipe.git -> https://github.com/google-ai-edge/mediapipe.git
 CloudEngineHub/Medical-SAM2[main]: https://github.com/CloudEngineHub/Medical-SAM2.git -> https://github.com/SuperMedIntel/Medical-SAM2.git
@@ -841,6 +848,8 @@ CloudEngineHub/NeMo-Framework-Launcher[main]: https://github.com/CloudEngineHub/
 CloudEngineHub/neovim[master]: https://github.com/CloudEngineHub/neovim.git -> https://github.com/neovim/neovim.git
 CloudEngineHub/nerf[master]: https://github.com/CloudEngineHub/nerf.git -> https://github.com/bmild/nerf.git
 CloudEngineHub/netron[main]: https://github.com/CloudEngineHub/netron.git -> https://github.com/lutzroeder/netron.git
+CloudEngineHub/NeuPAN[main]: https://github.com/CloudEngineHub/NeuPAN.git -> https://github.com/hanruihua/NeuPAN.git
+CloudEngineHub/neupan_ros[main]: https://github.com/CloudEngineHub/neupan_ros.git -> https://github.com/hanruihua/neupan_ros.git
 CloudEngineHub/Neural-PDE-Solver[main]: https://github.com/CloudEngineHub/Neural-PDE-Solver.git -> https://github.com/bitzhangcy/Neural-PDE-Solver.git
 CloudEngineHub/neuralfeels[main]: https://github.com/CloudEngineHub/neuralfeels.git -> https://github.com/facebookresearch/neuralfeels.git
 CloudEngineHub/neuralgcm[main]: https://github.com/CloudEngineHub/neuralgcm.git -> https://github.com/neuralgcm/neuralgcm.git
@@ -994,6 +1003,7 @@ CloudEngineHub/PRefLexOR[main]: https://github.com/CloudEngineHub/PRefLexOR.git 
 CloudEngineHub/prettygraph[main]: https://github.com/CloudEngineHub/prettygraph.git -> https://github.com/yoheinakajima/prettygraph.git
 CloudEngineHub/prime[main]: https://github.com/CloudEngineHub/prime.git -> https://github.com/PrimeIntellect-ai/prime.git
 CloudEngineHub/primevue[master]: https://github.com/CloudEngineHub/primevue.git -> https://github.com/primefaces/primevue.git
+CloudEngineHub/priompt[main]: https://github.com/CloudEngineHub/priompt.git -> https://github.com/anysphere/priompt.git
 CloudEngineHub/pro-tracker[new]: https://github.com/CloudEngineHub/pro-tracker.git -> https://github.com/Michaelszj/pro-tracker.git
 CloudEngineHub/ProactiveAgent[main]: https://github.com/CloudEngineHub/ProactiveAgent.git -> https://github.com/thunlp/ProactiveAgent.git
 CloudEngineHub/ProAgent[main]: https://github.com/CloudEngineHub/ProAgent.git -> https://github.com/OpenBMB/ProAgent.git
