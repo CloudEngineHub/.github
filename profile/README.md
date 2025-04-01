@@ -9,7 +9,7 @@
 <!-- Socials -->
 <p align="center">
     <kbd>
-        <a href="https://huggingface.co/JadeCong" title="Hugging Face - JadeCong"><img src="https://img.shields.io/badge/-Jade_Cong-F9CF38?style=flat&logo=Huggingface&logoColor=white" /></a>
+        <a href="https://huggingface.co/CloudEngineHub" title="Hugging Face - CloudEngineHub"><img src="https://img.shields.io/badge/-CloudEngineHub-F9CF38?style=flat&logo=Huggingface&logoColor=white" /></a>
         <a href="https://www.zhihu.com/people/Jade_Cong" title="ZhiHu - JadeCong"><img src="https://img.shields.io/badge/-JadeCong-1953DC?style=flat&logo=Zhihu&logoColor=white" /></a>
         <a href="https://www.youtube.com/channel/UCtjkpErjX9X7VocnIJkIuZg" title="YouTube - @jadecong"><img src="https://img.shields.io/badge/-Jade_Cong-EE0000?style=flat&logo=Youtube&logoColor=white" /></a>
         <a href="https://space.bilibili.com/383666733" title="BiliBili - Jade_Cong"><img src="https://img.shields.io/badge/-Jade_Cong-F0648C?style=flat&logo=Bilibili&logoColor=white" /></a>
