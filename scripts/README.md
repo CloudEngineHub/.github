@@ -21,6 +21,12 @@
 > 
 > Run: sh ./scripts/pull-updates.sh
 
+### (3) gen-forks-list
+
+> Goal: Generation for GitHub Repository Forks List with given owner(user or organization).
+>
+> Run: sh ./scripts/gen-forks-list.sh
+
 ## 3. Custom Actions
 
 ### (1) sync-forks-cloudenginehub
@@ -28,6 +34,12 @@
 > Goal: Synchronization of GitHub Repository Forks for CloudEngineHub.
 >
 > Result: All GitHub Repository Forks sync with the upstreams for CloudEngineHub(https://github.com/CloudEngineHub).
+
+### (2) gen-forks-list-cloudenginehub
+
+> Goal: Generation of GitHub Repository Forks List for CloudEngineHub.
+> 
+> Result: assets/docs/Forks-List-CloudEngineHub.md
 
 ---
 
