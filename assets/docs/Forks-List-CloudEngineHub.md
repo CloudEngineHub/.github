@@ -34,6 +34,7 @@ CloudEngineHub/ai-by-hand-excel[main]: https://github.com/CloudEngineHub/ai-by-h
 CloudEngineHub/AI-For-Beginners[main]: https://github.com/CloudEngineHub/AI-For-Beginners.git -> https://github.com/microsoft/AI-For-Beginners.git
 CloudEngineHub/ai-for-grant-writing[main]: https://github.com/CloudEngineHub/ai-for-grant-writing.git -> https://github.com/eseckel/ai-for-grant-writing.git
 CloudEngineHub/AI-Scientist[main]: https://github.com/CloudEngineHub/AI-Scientist.git -> https://github.com/SakanaAI/AI-Scientist.git
+CloudEngineHub/AI-System[main]: https://github.com/CloudEngineHub/AI-System.git -> https://github.com/microsoft/AI-System.git
 CloudEngineHub/ai-town[main]: https://github.com/CloudEngineHub/ai-town.git -> https://github.com/a16z-infra/ai-town.git
 CloudEngineHub/aider[main]: https://github.com/CloudEngineHub/aider.git -> https://github.com/Aider-AI/aider.git
 CloudEngineHub/AIOS[main]: https://github.com/CloudEngineHub/AIOS.git -> https://github.com/agiresearch/AIOS.git
@@ -468,6 +469,7 @@ CloudEngineHub/generative-ai-for-beginners[main]: https://github.com/CloudEngine
 CloudEngineHub/generative-manim[main]: https://github.com/CloudEngineHub/generative-manim.git -> https://github.com/marcelo-earth/generative-manim.git
 CloudEngineHub/Genesis[main]: https://github.com/CloudEngineHub/Genesis.git -> https://github.com/Genesis-Embodied-AI/Genesis.git
 CloudEngineHub/GenesisEnvs[master]: https://github.com/CloudEngineHub/GenesisEnvs.git -> https://github.com/RochelleNi/GenesisEnvs.git
+CloudEngineHub/GenFusion[main]: https://github.com/CloudEngineHub/GenFusion.git -> https://github.com/Inception3D/GenFusion.git
 CloudEngineHub/geometry-of-truth[main]: https://github.com/CloudEngineHub/geometry-of-truth.git -> https://github.com/saprmarks/geometry-of-truth.git
 CloudEngineHub/geospy[main]: https://github.com/CloudEngineHub/geospy.git -> https://github.com/atiilla/geospy.git
 CloudEngineHub/get_zero[main]: https://github.com/CloudEngineHub/get_zero.git -> https://github.com/real-stanford/get_zero.git
@@ -728,6 +730,7 @@ CloudEngineHub/Magma[main]: https://github.com/CloudEngineHub/Magma.git -> https
 CloudEngineHub/mamba[main]: https://github.com/CloudEngineHub/mamba.git -> https://github.com/state-spaces/mamba.git
 CloudEngineHub/MangaNinjia[main]: https://github.com/CloudEngineHub/MangaNinjia.git -> https://github.com/ali-vilab/MangaNinjia.git
 CloudEngineHub/manim[main]: https://github.com/CloudEngineHub/manim.git -> https://github.com/ManimCommunity/manim.git
+CloudEngineHub/ManipTrans[main]: https://github.com/CloudEngineHub/ManipTrans.git -> https://github.com/ManipTrans/ManipTrans.git
 CloudEngineHub/manipulate-anything[main]: https://github.com/CloudEngineHub/manipulate-anything.git -> https://github.com/Robot-MA/manipulate-anything.git
 CloudEngineHub/MarkEdit[main]: https://github.com/CloudEngineHub/MarkEdit.git -> https://github.com/MarkEdit-app/MarkEdit.git
 CloudEngineHub/marker[master]: https://github.com/CloudEngineHub/marker.git -> https://github.com/VikParuchuri/marker.git
@@ -759,6 +762,7 @@ CloudEngineHub/metahuman-stream[main]: https://github.com/CloudEngineHub/metahum
 CloudEngineHub/metamotivo[main]: https://github.com/CloudEngineHub/metamotivo.git -> https://github.com/facebookresearch/metamotivo.git
 CloudEngineHub/metaurban[main]: https://github.com/CloudEngineHub/metaurban.git -> https://github.com/metadriverse/metaurban.git
 CloudEngineHub/metaworld[master]: https://github.com/CloudEngineHub/metaworld.git -> https://github.com/Farama-Foundation/Metaworld.git
+CloudEngineHub/metrics[master]: https://github.com/CloudEngineHub/metrics.git -> https://github.com/lowlighter/metrics.git
 CloudEngineHub/MiaoYan[master]: https://github.com/CloudEngineHub/MiaoYan.git -> https://github.com/tw93/MiaoYan.git
 CloudEngineHub/micro-agent[main]: https://github.com/CloudEngineHub/micro-agent.git -> https://github.com/BuilderIO/micro-agent.git
 CloudEngineHub/Microsoft-Activation-Scripts[master]: https://github.com/CloudEngineHub/Microsoft-Activation-Scripts.git -> https://github.com/massgravel/Microsoft-Activation-Scripts.git
@@ -825,6 +829,7 @@ CloudEngineHub/mujoco[main]: https://github.com/CloudEngineHub/mujoco.git -> htt
 CloudEngineHub/mujoco-py[master]: https://github.com/CloudEngineHub/mujoco-py.git -> https://github.com/openai/mujoco-py.git
 CloudEngineHub/mujoco_mpc[main]: https://github.com/CloudEngineHub/mujoco_mpc.git -> https://github.com/google-deepmind/mujoco_mpc.git
 CloudEngineHub/mujoco_playground[main]: https://github.com/CloudEngineHub/mujoco_playground.git -> https://github.com/google-deepmind/mujoco_playground.git
+CloudEngineHub/Murre[main]: https://github.com/CloudEngineHub/Murre.git -> https://github.com/zju3dv/Murre.git
 CloudEngineHub/MusePose[main]: https://github.com/CloudEngineHub/MusePose.git -> https://github.com/TMElyralab/MusePose.git
 CloudEngineHub/MuseTalk[main]: https://github.com/CloudEngineHub/MuseTalk.git -> https://github.com/TMElyralab/MuseTalk.git
 CloudEngineHub/MuseV[main]: https://github.com/CloudEngineHub/MuseV.git -> https://github.com/TMElyralab/MuseV.git
@@ -1147,6 +1152,7 @@ CloudEngineHub/sawyer_robot[master]: https://github.com/CloudEngineHub/sawyer_ro
 CloudEngineHub/scepter[main]: https://github.com/CloudEngineHub/scepter.git -> https://github.com/modelscope/scepter.git
 CloudEngineHub/sconegym[main]: https://github.com/CloudEngineHub/sconegym.git -> https://github.com/tgeijten/sconegym.git
 CloudEngineHub/ScreenAgent[main]: https://github.com/CloudEngineHub/ScreenAgent.git -> https://github.com/niuzaisheng/ScreenAgent.git
+CloudEngineHub/screenpipe[main]: https://github.com/CloudEngineHub/screenpipe.git -> https://github.com/mediar-ai/screenpipe.git
 CloudEngineHub/screenshot-to-code[main]: https://github.com/CloudEngineHub/screenshot-to-code.git -> https://github.com/abi/screenshot-to-code.git
 CloudEngineHub/SDS[master]: https://github.com/CloudEngineHub/SDS.git -> https://github.com/RPL-CS-UCL/SDS.git
 CloudEngineHub/Security-101[main]: https://github.com/CloudEngineHub/Security-101.git -> https://github.com/microsoft/Security-101.git
@@ -1305,6 +1311,7 @@ CloudEngineHub/titans-pytorch[main]: https://github.com/CloudEngineHub/titans-py
 CloudEngineHub/tldraw[main]: https://github.com/CloudEngineHub/tldraw.git -> https://github.com/tldraw/tldraw.git
 CloudEngineHub/toddlerbot[main]: https://github.com/CloudEngineHub/toddlerbot.git -> https://github.com/hshi74/toddlerbot.git
 CloudEngineHub/TokenFormer[main]: https://github.com/CloudEngineHub/TokenFormer.git -> https://github.com/Haiyang-W/TokenFormer.git
+CloudEngineHub/TokenHSI[main]: https://github.com/CloudEngineHub/TokenHSI.git -> https://github.com/liangpan99/TokenHSI.git
 CloudEngineHub/top-rss-list[main]: https://github.com/CloudEngineHub/top-rss-list.git -> https://github.com/weekend-project-space/top-rss-list.git
 CloudEngineHub/TOPS[main]: https://github.com/CloudEngineHub/TOPS.git -> https://github.com/aaedmusa/TOPS.git
 CloudEngineHub/Tora[main]: https://github.com/CloudEngineHub/Tora.git -> https://github.com/alibaba/Tora.git
