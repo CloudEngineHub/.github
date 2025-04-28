@@ -24,6 +24,7 @@ CloudEngineHub/adk-python[main]: https://github.com/CloudEngineHub/adk-python.gi
 CloudEngineHub/AFFiNE[canary]: https://github.com/CloudEngineHub/AFFiNE.git -> https://github.com/toeverything/AFFiNE.git
 CloudEngineHub/ag2[main]: https://github.com/CloudEngineHub/ag2.git -> https://github.com/ag2ai/ag2.git
 CloudEngineHub/agent-as-a-judge[main]: https://github.com/CloudEngineHub/agent-as-a-judge.git -> https://github.com/metauto-ai/agent-as-a-judge.git
+CloudEngineHub/Agent-S[main]: https://github.com/CloudEngineHub/Agent-S.git -> https://github.com/simular-ai/Agent-S.git
 CloudEngineHub/agent.exe[main]: https://github.com/CloudEngineHub/agent.exe.git -> https://github.com/corbt/agent.exe.git
 CloudEngineHub/AgentBench[main]: https://github.com/CloudEngineHub/AgentBench.git -> https://github.com/THUDM/AgentBench.git
 CloudEngineHub/AgentGPT[main]: https://github.com/CloudEngineHub/AgentGPT.git -> https://github.com/reworkd/AgentGPT.git
@@ -402,6 +403,7 @@ CloudEngineHub/ESLib[master]: https://github.com/CloudEngineHub/ESLib.git -> htt
 CloudEngineHub/esm[main]: https://github.com/CloudEngineHub/esm.git -> https://github.com/facebookresearch/esm.git
 CloudEngineHub/Eureka[main]: https://github.com/CloudEngineHub/Eureka.git -> https://github.com/eureka-research/Eureka.git
 CloudEngineHub/eurekaverse[main]: https://github.com/CloudEngineHub/eurekaverse.git -> https://github.com/eureka-research/eurekaverse.git
+CloudEngineHub/Ev-DeblurVSR[main]: https://github.com/CloudEngineHub/Ev-DeblurVSR.git -> https://github.com/DachunKai/Ev-DeblurVSR.git
 CloudEngineHub/evals[main]: https://github.com/CloudEngineHub/evals.git -> https://github.com/openai/evals.git
 CloudEngineHub/evo2[main]: https://github.com/CloudEngineHub/evo2.git -> https://github.com/ArcInstitute/evo2.git
 CloudEngineHub/Evolutionary-Algorithm[master]: https://github.com/CloudEngineHub/Evolutionary-Algorithm.git -> https://github.com/MorvanZhou/Evolutionary-Algorithm.git
@@ -463,6 +465,7 @@ CloudEngineHub/folx[main]: https://github.com/CloudEngineHub/folx.git -> https:/
 CloudEngineHub/Fooocus[main]: https://github.com/CloudEngineHub/Fooocus.git -> https://github.com/lllyasviel/Fooocus.git
 CloudEngineHub/force_torque_tools[kinetic]: https://github.com/CloudEngineHub/force_torque_tools.git -> https://github.com/kth-ros-pkg/force_torque_tools.git
 CloudEngineHub/FoundationStereo[master]: https://github.com/CloudEngineHub/FoundationStereo.git -> https://github.com/NVlabs/FoundationStereo.git
+CloudEngineHub/FourierHardwareOpen[main]: https://github.com/CloudEngineHub/FourierHardwareOpen.git -> https://github.com/FFTAI/FourierHardwareOpen.git
 CloudEngineHub/fprime[devel]: https://github.com/CloudEngineHub/fprime.git -> https://github.com/nasa/fprime.git
 CloudEngineHub/FramePack[main]: https://github.com/CloudEngineHub/FramePack.git -> https://github.com/lllyasviel/FramePack.git
 CloudEngineHub/franka_ros[develop]: https://github.com/CloudEngineHub/franka_ros.git -> https://github.com/frankaemika/franka_ros.git
@@ -641,7 +644,7 @@ CloudEngineHub/Internal-Cycloidal-Actuator[main]: https://github.com/CloudEngine
 CloudEngineHub/InternVideo[main]: https://github.com/CloudEngineHub/InternVideo.git -> https://github.com/OpenGVLab/InternVideo.git
 CloudEngineHub/InternVL[main]: https://github.com/CloudEngineHub/InternVL.git -> https://github.com/OpenGVLab/InternVL.git
 CloudEngineHub/IoT-For-Beginners[main]: https://github.com/CloudEngineHub/IoT-For-Beginners.git -> https://github.com/microsoft/IoT-For-Beginners.git
-CloudEngineHub/irreader[master]: https://github.com/CloudEngineHub/irreader.git -> https://github.com/aceimnorstuvwxz/irreader.git
+CloudEngineHub/irreader[master]: https://github.com/CloudEngineHub/irreader.git -> https://github.com/huoxingdeguoguo/irreader.git
 CloudEngineHub/Isaac-GR00T[main]: https://github.com/CloudEngineHub/Isaac-GR00T.git -> https://github.com/NVIDIA/Isaac-GR00T.git
 CloudEngineHub/IsaacGymEnvs[main]: https://github.com/CloudEngineHub/IsaacGymEnvs.git -> https://github.com/isaac-sim/IsaacGymEnvs.git
 CloudEngineHub/IsaacLab[main]: https://github.com/CloudEngineHub/IsaacLab.git -> https://github.com/isaac-sim/IsaacLab.git
@@ -670,6 +673,7 @@ CloudEngineHub/keras-rl[master]: https://github.com/CloudEngineHub/keras-rl.git 
 CloudEngineHub/keras-rl2[master]: https://github.com/CloudEngineHub/keras-rl2.git -> https://github.com/inarikami/keras-rl2.git
 CloudEngineHub/khoj[master]: https://github.com/CloudEngineHub/khoj.git -> https://github.com/khoj-ai/khoj.git
 CloudEngineHub/Kiln[main]: https://github.com/CloudEngineHub/Kiln.git -> https://github.com/Kiln-AI/Kiln.git
+CloudEngineHub/Kimi-Audio[master]: https://github.com/CloudEngineHub/Kimi-Audio.git -> https://github.com/MoonshotAI/Kimi-Audio.git
 CloudEngineHub/Kimi-k1.5[main]: https://github.com/CloudEngineHub/Kimi-k1.5.git -> https://github.com/MoonshotAI/Kimi-k1.5.git
 CloudEngineHub/Kinova-kortex2_Gen3_G3L[master]: https://github.com/CloudEngineHub/Kinova-kortex2_Gen3_G3L.git -> https://github.com/Kinovarobotics/Kinova-kortex2_Gen3_G3L.git
 CloudEngineHub/kinova-ros[noetic-devel]: https://github.com/CloudEngineHub/kinova-ros.git -> https://github.com/Kinovarobotics/kinova-ros.git
@@ -683,6 +687,7 @@ CloudEngineHub/kit-extension-template[main]: https://github.com/CloudEngineHub/k
 CloudEngineHub/kit-extension-template-cpp[main]: https://github.com/CloudEngineHub/kit-extension-template-cpp.git -> https://github.com/NVIDIA-Omniverse/kit-extension-template-cpp.git
 CloudEngineHub/kit-osc[main]: https://github.com/CloudEngineHub/kit-osc.git -> https://github.com/NVIDIA-Omniverse/kit-osc.git
 CloudEngineHub/kit-project-template[main]: https://github.com/CloudEngineHub/kit-project-template.git -> https://github.com/NVIDIA-Omniverse/kit-project-template.git
+CloudEngineHub/kkFileView[master]: https://github.com/CloudEngineHub/kkFileView.git -> https://github.com/kekingcn/kkFileView.git
 CloudEngineHub/Klampt[master]: https://github.com/CloudEngineHub/Klampt.git -> https://github.com/krishauser/Klampt.git
 CloudEngineHub/KrillinAI[master]: https://github.com/CloudEngineHub/KrillinAI.git -> https://github.com/krillinai/KrillinAI.git
 CloudEngineHub/krita-ai-diffusion[main]: https://github.com/CloudEngineHub/krita-ai-diffusion.git -> https://github.com/Acly/krita-ai-diffusion.git
@@ -794,7 +799,7 @@ CloudEngineHub/mattergen[main]: https://github.com/CloudEngineHub/mattergen.git 
 CloudEngineHub/MaxKB[main]: https://github.com/CloudEngineHub/MaxKB.git -> https://github.com/1Panel-dev/MaxKB.git
 CloudEngineHub/maxun[master]: https://github.com/CloudEngineHub/maxun.git -> https://github.com/getmaxun/maxun.git
 CloudEngineHub/mcp-agent[main]: https://github.com/CloudEngineHub/mcp-agent.git -> https://github.com/lastmile-ai/mcp-agent.git
-CloudEngineHub/mcp-directory[main]: https://github.com/CloudEngineHub/mcp-directory.git -> https://github.com/chatmcp/mcp-directory.git
+CloudEngineHub/mcp-directory[main]: https://github.com/CloudEngineHub/mcp-directory.git -> https://github.com/chatmcp/mcpso.git
 CloudEngineHub/mcpo[main]: https://github.com/CloudEngineHub/mcpo.git -> https://github.com/open-webui/mcpo.git
 CloudEngineHub/MD3-Windows[main]: https://github.com/CloudEngineHub/MD3-Windows.git -> https://github.com/Runixe786/MD3-Windows.git
 CloudEngineHub/mediapipe[master]: https://github.com/CloudEngineHub/mediapipe.git -> https://github.com/google-ai-edge/mediapipe.git
@@ -1516,6 +1521,8 @@ CloudEngineHub/Whisper-Input[main]: https://github.com/CloudEngineHub/Whisper-In
 CloudEngineHub/whisper-keyboard[main]: https://github.com/CloudEngineHub/whisper-keyboard.git -> https://github.com/vlad-ds/whisper-keyboard.git
 CloudEngineHub/why-think-step-by-step[main]: https://github.com/CloudEngineHub/why-think-step-by-step.git -> https://github.com/benpry/why-think-step-by-step.git
 CloudEngineHub/wiki[main]: https://github.com/CloudEngineHub/wiki.git -> https://github.com/requarks/wiki.git
+CloudEngineHub/Wiki-GRx-Deploy[FourierN1]: https://github.com/CloudEngineHub/Wiki-GRx-Deploy.git -> https://github.com/FFTAI/Wiki-GRx-Deploy.git
+CloudEngineHub/Wiki-GRx-Gym[FourierN1]: https://github.com/CloudEngineHub/Wiki-GRx-Gym.git -> https://github.com/FFTAI/Wiki-GRx-Gym.git
 CloudEngineHub/WiLoR[main]: https://github.com/CloudEngineHub/WiLoR.git -> https://github.com/rolpotamias/WiLoR.git
 CloudEngineHub/win12[main]: https://github.com/CloudEngineHub/win12.git -> https://github.com/tjy-gitnub/win12.git
 CloudEngineHub/windows[master]: https://github.com/CloudEngineHub/windows.git -> https://github.com/dockur/windows.git
