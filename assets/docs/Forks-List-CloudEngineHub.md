@@ -13,6 +13,7 @@ CloudEngineHub/A1-QP-MPC-Controller[main]: https://github.com/CloudEngineHub/A1-
 CloudEngineHub/abu[master]: https://github.com/CloudEngineHub/abu.git -> https://github.com/bbfamily/abu.git
 CloudEngineHub/academicpages.github.io[master]: https://github.com/CloudEngineHub/academicpages.github.io.git -> https://github.com/academicpages/academicpages.github.io.git
 CloudEngineHub/ACETeleop[main]: https://github.com/CloudEngineHub/ACETeleop.git -> https://github.com/ACETeleop/ACETeleop.git
+CloudEngineHub/acezero[main]: https://github.com/CloudEngineHub/acezero.git -> https://github.com/nianticlabs/acezero.git
 CloudEngineHub/achievements[main]: https://github.com/CloudEngineHub/achievements.git -> https://github.com/gomzyakov/achievements.git
 CloudEngineHub/acme[master]: https://github.com/CloudEngineHub/acme.git -> https://github.com/google-deepmind/acme.git
 CloudEngineHub/acqdp[main]: https://github.com/CloudEngineHub/acqdp.git -> https://github.com/alibaba/acqdp.git
@@ -21,6 +22,7 @@ CloudEngineHub/act-bigym-aloha[main]: https://github.com/CloudEngineHub/act-bigy
 CloudEngineHub/act-plus-plus[main]: https://github.com/CloudEngineHub/act-plus-plus.git -> https://github.com/MarkFzp/act-plus-plus.git
 CloudEngineHub/ADAS[main]: https://github.com/CloudEngineHub/ADAS.git -> https://github.com/ShengranHu/ADAS.git
 CloudEngineHub/adk-python[main]: https://github.com/CloudEngineHub/adk-python.git -> https://github.com/google/adk-python.git
+CloudEngineHub/Aether[main]: https://github.com/CloudEngineHub/Aether.git -> https://github.com/OpenRobotLab/Aether.git
 CloudEngineHub/AFFiNE[canary]: https://github.com/CloudEngineHub/AFFiNE.git -> https://github.com/toeverything/AFFiNE.git
 CloudEngineHub/ag2[main]: https://github.com/CloudEngineHub/ag2.git -> https://github.com/ag2ai/ag2.git
 CloudEngineHub/agent-as-a-judge[main]: https://github.com/CloudEngineHub/agent-as-a-judge.git -> https://github.com/metauto-ai/agent-as-a-judge.git
@@ -203,6 +205,7 @@ CloudEngineHub/chainlit[main]: https://github.com/CloudEngineHub/chainlit.git ->
 CloudEngineHub/champ[master]: https://github.com/CloudEngineHub/champ.git -> https://github.com/chvmp/champ.git
 CloudEngineHub/changedetection.io[master]: https://github.com/CloudEngineHub/changedetection.io.git -> https://github.com/dgtlmoon/changedetection.io.git
 CloudEngineHub/CharacterGen[main]: https://github.com/CloudEngineHub/CharacterGen.git -> https://github.com/zjp-shadow/CharacterGen.git
+CloudEngineHub/Chat2DB[main]: https://github.com/CloudEngineHub/Chat2DB.git -> https://github.com/CodePhiliaX/Chat2DB.git
 CloudEngineHub/chatbox[main]: https://github.com/CloudEngineHub/chatbox.git -> https://github.com/chatboxai/chatbox.git
 CloudEngineHub/ChatDev[main]: https://github.com/CloudEngineHub/ChatDev.git -> https://github.com/OpenBMB/ChatDev.git
 CloudEngineHub/ChatGLM-6B[main]: https://github.com/CloudEngineHub/ChatGLM-6B.git -> https://github.com/THUDM/ChatGLM-6B.git
@@ -227,6 +230,7 @@ CloudEngineHub/circuit_training[main]: https://github.com/CloudEngineHub/circuit
 CloudEngineHub/ClearerVoice-Studio[main]: https://github.com/CloudEngineHub/ClearerVoice-Studio.git -> https://github.com/modelscope/ClearerVoice-Studio.git
 CloudEngineHub/cli[trunk]: https://github.com/CloudEngineHub/cli.git -> https://github.com/cli/cli.git
 CloudEngineHub/cline[main]: https://github.com/CloudEngineHub/cline.git -> https://github.com/cline/cline.git
+CloudEngineHub/clinica[dev]: https://github.com/CloudEngineHub/clinica.git -> https://github.com/aramis-lab/clinica.git
 CloudEngineHub/CLIP[main]: https://github.com/CloudEngineHub/CLIP.git -> https://github.com/openai/CLIP.git
 CloudEngineHub/CMake[master]: https://github.com/CloudEngineHub/CMake.git -> https://github.com/Kitware/CMake.git
 CloudEngineHub/cmake-examples[master]: https://github.com/CloudEngineHub/cmake-examples.git -> https://github.com/ttroy50/cmake-examples.git
@@ -296,6 +300,7 @@ CloudEngineHub/Deep-Reinforcement-Learning-Hands-On-Second-Edition[master]: http
 CloudEngineHub/deep-research[main]: https://github.com/CloudEngineHub/deep-research.git -> https://github.com/dzhng/deep-research.git
 CloudEngineHub/deep-tempest[main]: https://github.com/CloudEngineHub/deep-tempest.git -> https://github.com/emidan19/deep-tempest.git
 CloudEngineHub/DeepCAD[master]: https://github.com/CloudEngineHub/DeepCAD.git -> https://github.com/ChrisWu1997/DeepCAD.git
+CloudEngineHub/deepchem[master]: https://github.com/CloudEngineHub/deepchem.git -> https://github.com/deepchem/deepchem.git
 CloudEngineHub/DeepClaude[main]: https://github.com/CloudEngineHub/DeepClaude.git -> https://github.com/ErlichLiu/DeepClaude.git
 CloudEngineHub/DeepEP[main]: https://github.com/CloudEngineHub/DeepEP.git -> https://github.com/deepseek-ai/DeepEP.git
 CloudEngineHub/DeepMesh[main]: https://github.com/CloudEngineHub/DeepMesh.git -> https://github.com/zhaorw02/DeepMesh.git
@@ -380,6 +385,7 @@ CloudEngineHub/dvo_slam[fuerte]: https://github.com/CloudEngineHub/dvo_slam.git 
 CloudEngineHub/Dyn-HaMR[main]: https://github.com/CloudEngineHub/Dyn-HaMR.git -> https://github.com/ZhengdiYu/Dyn-HaMR.git
 CloudEngineHub/dynamic[master]: https://github.com/CloudEngineHub/dynamic.git -> https://github.com/echonet/dynamic.git
 CloudEngineHub/dynamic-gaussian-marbles[main]: https://github.com/CloudEngineHub/dynamic-gaussian-marbles.git -> https://github.com/coltonstearns/dynamic-gaussian-marbles.git
+CloudEngineHub/earthworm[main]: https://github.com/CloudEngineHub/earthworm.git -> https://github.com/cuixueshe/earthworm.git
 CloudEngineHub/Easi3R[main]: https://github.com/CloudEngineHub/Easi3R.git -> https://github.com/Inception3D/Easi3R.git
 CloudEngineHub/easy-rl[master]: https://github.com/CloudEngineHub/easy-rl.git -> https://github.com/datawhalechina/easy-rl.git
 CloudEngineHub/easyquant[master]: https://github.com/CloudEngineHub/easyquant.git -> https://github.com/shidenggui/easyquant.git
@@ -411,6 +417,7 @@ CloudEngineHub/ESAM[main]: https://github.com/CloudEngineHub/ESAM.git -> https:/
 CloudEngineHub/EscherNet[main]: https://github.com/CloudEngineHub/EscherNet.git -> https://github.com/kxhit/EscherNet.git
 CloudEngineHub/ESLib[master]: https://github.com/CloudEngineHub/ESLib.git -> https://github.com/HRI-EU/ESLib.git
 CloudEngineHub/esm[main]: https://github.com/CloudEngineHub/esm.git -> https://github.com/facebookresearch/esm.git
+CloudEngineHub/ET-SEED[main]: https://github.com/CloudEngineHub/ET-SEED.git -> https://github.com/yuechen0614/ET-SEED.git
 CloudEngineHub/Eureka[main]: https://github.com/CloudEngineHub/Eureka.git -> https://github.com/eureka-research/Eureka.git
 CloudEngineHub/eurekaverse[main]: https://github.com/CloudEngineHub/eurekaverse.git -> https://github.com/eureka-research/eurekaverse.git
 CloudEngineHub/Ev-DeblurVSR[main]: https://github.com/CloudEngineHub/Ev-DeblurVSR.git -> https://github.com/DachunKai/Ev-DeblurVSR.git
@@ -421,6 +428,7 @@ CloudEngineHub/ewokos[master]: https://github.com/CloudEngineHub/ewokos.git -> h
 CloudEngineHub/ExAvatar_RELEASE[main]: https://github.com/CloudEngineHub/ExAvatar_RELEASE.git -> https://github.com/mks0601/ExAvatar_RELEASE.git
 CloudEngineHub/excalidraw[master]: https://github.com/CloudEngineHub/excalidraw.git -> https://github.com/excalidraw/excalidraw.git
 CloudEngineHub/exo[main]: https://github.com/CloudEngineHub/exo.git -> https://github.com/exo-explore/exo.git
+CloudEngineHub/Ezy-Parking[main]: https://github.com/CloudEngineHub/Ezy-Parking.git -> https://github.com/prathimacode-hub/Ezy-Parking.git
 CloudEngineHub/F5-TTS[main]: https://github.com/CloudEngineHub/F5-TTS.git -> https://github.com/SWivid/F5-TTS.git
 CloudEngineHub/facefusion[master]: https://github.com/CloudEngineHub/facefusion.git -> https://github.com/facefusion/facefusion.git
 CloudEngineHub/fairino-cpp-sdk[main]: https://github.com/CloudEngineHub/fairino-cpp-sdk.git -> https://github.com/FAIR-INNOVATION/fairino-cpp-sdk.git
@@ -625,6 +633,7 @@ CloudEngineHub/human-eval[master]: https://github.com/CloudEngineHub/human-eval.
 CloudEngineHub/human2humanoid[main]: https://github.com/CloudEngineHub/human2humanoid.git -> https://github.com/LeCAR-Lab/human2humanoid.git
 CloudEngineHub/human2sim2robot[main]: https://github.com/CloudEngineHub/human2sim2robot.git -> https://github.com/tylerlum/human2sim2robot.git
 CloudEngineHub/humanoid-bench[main]: https://github.com/CloudEngineHub/humanoid-bench.git -> https://github.com/carlosferrazza/humanoid-bench.git
+CloudEngineHub/humanoid-control[main]: https://github.com/CloudEngineHub/humanoid-control.git -> https://github.com/pocketxjl/humanoid-control.git
 CloudEngineHub/humanoid-gym[main]: https://github.com/CloudEngineHub/humanoid-gym.git -> https://github.com/roboterax/humanoid-gym.git
 CloudEngineHub/Humanoid-Teleoperation[main]: https://github.com/CloudEngineHub/Humanoid-Teleoperation.git -> https://github.com/YanjieZe/Humanoid-Teleoperation.git
 CloudEngineHub/humanplus[main]: https://github.com/CloudEngineHub/humanplus.git -> https://github.com/MarkFzp/humanplus.git
@@ -655,6 +664,7 @@ CloudEngineHub/infini-attention[main]: https://github.com/CloudEngineHub/infini-
 CloudEngineHub/Infinite-Mobility[main]: https://github.com/CloudEngineHub/Infinite-Mobility.git -> https://github.com/OpenRobotLab/Infinite-Mobility.git
 CloudEngineHub/InfiniteYou[main]: https://github.com/CloudEngineHub/InfiniteYou.git -> https://github.com/bytedance/InfiniteYou.git
 CloudEngineHub/inkrss[main]: https://github.com/CloudEngineHub/inkrss.git -> https://github.com/pureink/inkrss.git
+CloudEngineHub/insert-anything[main]: https://github.com/CloudEngineHub/insert-anything.git -> https://github.com/song-wensong/insert-anything.git
 CloudEngineHub/inspira-ui[main]: https://github.com/CloudEngineHub/inspira-ui.git -> https://github.com/unovue/inspira-ui.git
 CloudEngineHub/InstantCharacter[main]: https://github.com/CloudEngineHub/InstantCharacter.git -> https://github.com/Tencent/InstantCharacter.git
 CloudEngineHub/instructor[main]: https://github.com/CloudEngineHub/instructor.git -> https://github.com/instructor-ai/instructor.git
@@ -812,6 +822,7 @@ CloudEngineHub/manim[main]: https://github.com/CloudEngineHub/manim.git -> https
 CloudEngineHub/manipgen[master]: https://github.com/CloudEngineHub/manipgen.git -> https://github.com/mihdalal/manipgen.git
 CloudEngineHub/ManipTrans[main]: https://github.com/CloudEngineHub/ManipTrans.git -> https://github.com/ManipTrans/ManipTrans.git
 CloudEngineHub/manipulate-anything[main]: https://github.com/CloudEngineHub/manipulate-anything.git -> https://github.com/Robot-MA/manipulate-anything.git
+CloudEngineHub/manydepth[master]: https://github.com/CloudEngineHub/manydepth.git -> https://github.com/nianticlabs/manydepth.git
 CloudEngineHub/MarkEdit[main]: https://github.com/CloudEngineHub/MarkEdit.git -> https://github.com/MarkEdit-app/MarkEdit.git
 CloudEngineHub/marker[master]: https://github.com/CloudEngineHub/marker.git -> https://github.com/VikParuchuri/marker.git
 CloudEngineHub/markitdown[main]: https://github.com/CloudEngineHub/markitdown.git -> https://github.com/microsoft/markitdown.git
@@ -846,6 +857,8 @@ CloudEngineHub/metaurban[main]: https://github.com/CloudEngineHub/metaurban.git 
 CloudEngineHub/metaworld[master]: https://github.com/CloudEngineHub/metaworld.git -> https://github.com/Farama-Foundation/Metaworld.git
 CloudEngineHub/metrics[master]: https://github.com/CloudEngineHub/metrics.git -> https://github.com/lowlighter/metrics.git
 CloudEngineHub/MiaoYan[master]: https://github.com/CloudEngineHub/MiaoYan.git -> https://github.com/tw93/MiaoYan.git
+CloudEngineHub/mickey[main]: https://github.com/CloudEngineHub/mickey.git -> https://github.com/nianticlabs/mickey.git
+CloudEngineHub/micro[master]: https://github.com/CloudEngineHub/micro.git -> https://github.com/zyedidia/micro.git
 CloudEngineHub/micro-agent[main]: https://github.com/CloudEngineHub/micro-agent.git -> https://github.com/BuilderIO/micro-agent.git
 CloudEngineHub/Microsoft-Activation-Scripts[master]: https://github.com/CloudEngineHub/Microsoft-Activation-Scripts.git -> https://github.com/massgravel/Microsoft-Activation-Scripts.git
 CloudEngineHub/MIDI[main]: https://github.com/CloudEngineHub/MIDI.git -> https://github.com/huanngzh/MIDI.git
@@ -900,6 +913,7 @@ CloudEngineHub/MoGe[main]: https://github.com/CloudEngineHub/MoGe.git -> https:/
 CloudEngineHub/momask-codes[main]: https://github.com/CloudEngineHub/momask-codes.git -> https://github.com/EricGuo5513/momask-codes.git
 CloudEngineHub/MoneyPrinterTurbo[main]: https://github.com/CloudEngineHub/MoneyPrinterTurbo.git -> https://github.com/harry0703/MoneyPrinterTurbo.git
 CloudEngineHub/mongo[master]: https://github.com/CloudEngineHub/mongo.git -> https://github.com/mongodb/mongo.git
+CloudEngineHub/monodepth2[master]: https://github.com/CloudEngineHub/monodepth2.git -> https://github.com/nianticlabs/monodepth2.git
 CloudEngineHub/monoio[master]: https://github.com/CloudEngineHub/monoio.git -> https://github.com/bytedance/monoio.git
 CloudEngineHub/MonSter[main]: https://github.com/CloudEngineHub/MonSter.git -> https://github.com/Junda24/MonSter.git
 CloudEngineHub/moonshine[main]: https://github.com/CloudEngineHub/moonshine.git -> https://github.com/usefulsensors/moonshine.git
@@ -907,6 +921,7 @@ CloudEngineHub/morse-transmitter[main]: https://github.com/CloudEngineHub/morse-
 CloudEngineHub/motif[main]: https://github.com/CloudEngineHub/motif.git -> https://github.com/Minyoung1005/motif.git
 CloudEngineHub/motion[main]: https://github.com/CloudEngineHub/motion.git -> https://github.com/motiondivision/motion.git
 CloudEngineHub/MotionClone[main]: https://github.com/CloudEngineHub/MotionClone.git -> https://github.com/LPengYang/MotionClone.git
+CloudEngineHub/MotionCritic[main]: https://github.com/CloudEngineHub/MotionCritic.git -> https://github.com/ou524u/MotionCritic.git
 CloudEngineHub/mra7a[indigo-devel]: https://github.com/CloudEngineHub/mra7a.git -> https://github.com/AuboRobot/mra7a.git
 CloudEngineHub/mra7a_tutorials[indigo-devel]: https://github.com/CloudEngineHub/mra7a_tutorials.git -> https://github.com/AuboRobot/mra7a_tutorials.git
 CloudEngineHub/MS-DOS[main]: https://github.com/CloudEngineHub/MS-DOS.git -> https://github.com/microsoft/MS-DOS.git
@@ -919,6 +934,7 @@ CloudEngineHub/Murre[main]: https://github.com/CloudEngineHub/Murre.git -> https
 CloudEngineHub/MusePose[main]: https://github.com/CloudEngineHub/MusePose.git -> https://github.com/TMElyralab/MusePose.git
 CloudEngineHub/MuseTalk[main]: https://github.com/CloudEngineHub/MuseTalk.git -> https://github.com/TMElyralab/MuseTalk.git
 CloudEngineHub/MuseV[main]: https://github.com/CloudEngineHub/MuseV.git -> https://github.com/TMElyralab/MuseV.git
+CloudEngineHub/mvsanywhere[main]: https://github.com/CloudEngineHub/mvsanywhere.git -> https://github.com/nianticlabs/mvsanywhere.git
 CloudEngineHub/mx-DeepIM[master]: https://github.com/CloudEngineHub/mx-DeepIM.git -> https://github.com/liyi14/mx-DeepIM.git
 CloudEngineHub/my-website[master]: https://github.com/CloudEngineHub/my-website.git -> https://github.com/Lissy93/my-website.git
 CloudEngineHub/MyIP[main]: https://github.com/CloudEngineHub/MyIP.git -> https://github.com/jason5ng32/MyIP.git
@@ -959,6 +975,7 @@ CloudEngineHub/nlink_parser[master]: https://github.com/CloudEngineHub/nlink_par
 CloudEngineHub/nndl.github.io[master]: https://github.com/CloudEngineHub/nndl.github.io.git -> https://github.com/nndl/nndl.github.io.git
 CloudEngineHub/nn_vis[master]: https://github.com/CloudEngineHub/nn_vis.git -> https://github.com/julrog/nn_vis.git
 CloudEngineHub/nocodb[develop]: https://github.com/CloudEngineHub/nocodb.git -> https://github.com/nocodb/nocodb.git
+CloudEngineHub/nodezator[main]: https://github.com/CloudEngineHub/nodezator.git -> https://github.com/IndieSmiths/nodezator.git
 CloudEngineHub/NormalCrafter[main]: https://github.com/CloudEngineHub/NormalCrafter.git -> https://github.com/Binyr/NormalCrafter.git
 CloudEngineHub/NotaGen[main]: https://github.com/CloudEngineHub/NotaGen.git -> https://github.com/ElectricAlexis/NotaGen.git
 CloudEngineHub/Nuitka[develop]: https://github.com/CloudEngineHub/Nuitka.git -> https://github.com/Nuitka/Nuitka.git
@@ -1063,12 +1080,14 @@ CloudEngineHub/paper-reviewer[main]: https://github.com/CloudEngineHub/paper-rev
 CloudEngineHub/paperless-ngx[dev]: https://github.com/CloudEngineHub/paperless-ngx.git -> https://github.com/paperless-ngx/paperless-ngx.git
 CloudEngineHub/parkour[main]: https://github.com/CloudEngineHub/parkour.git -> https://github.com/ZiwenZhuang/parkour.git
 CloudEngineHub/part-affinity[master]: https://github.com/CloudEngineHub/part-affinity.git -> https://github.com/NiteshBharadwaj/part-affinity.git
+CloudEngineHub/Part_HOE[main]: https://github.com/CloudEngineHub/Part_HOE.git -> https://github.com/zhaojieting/Part_HOE.git
 CloudEngineHub/pasa[main]: https://github.com/CloudEngineHub/pasa.git -> https://github.com/bytedance/pasa.git
 CloudEngineHub/payload[main]: https://github.com/CloudEngineHub/payload.git -> https://github.com/payloadcms/payload.git
 CloudEngineHub/PC-Agent[main]: https://github.com/CloudEngineHub/PC-Agent.git -> https://github.com/GAIR-NLP/PC-Agent.git
 CloudEngineHub/pcl-learning[master]: https://github.com/CloudEngineHub/pcl-learning.git -> https://github.com/HuangCongQing/pcl-learning.git
 CloudEngineHub/PDF-Extract-Kit[main]: https://github.com/CloudEngineHub/PDF-Extract-Kit.git -> https://github.com/opendatalab/PDF-Extract-Kit.git
 CloudEngineHub/PDF-Guru[main]: https://github.com/CloudEngineHub/PDF-Guru.git -> https://github.com/kevin2li/PDF-Guru.git
+CloudEngineHub/PDFMathTranslate[main]: https://github.com/CloudEngineHub/PDFMathTranslate.git -> https://github.com/Byaidu/PDFMathTranslate.git
 CloudEngineHub/PDP[main]: https://github.com/CloudEngineHub/PDP.git -> https://github.com/Stanford-TML/PDP.git
 CloudEngineHub/PE3R[main]: https://github.com/CloudEngineHub/PE3R.git -> https://github.com/hujiecpp/PE3R.git
 CloudEngineHub/penrose[main]: https://github.com/CloudEngineHub/penrose.git -> https://github.com/penrose/penrose.git
@@ -1224,6 +1243,8 @@ CloudEngineHub/RoboTwin[main]: https://github.com/CloudEngineHub/RoboTwin.git ->
 CloudEngineHub/RoboVerse[main]: https://github.com/CloudEngineHub/RoboVerse.git -> https://github.com/RoboVerseOrg/RoboVerse.git
 CloudEngineHub/RoboVLMs[main]: https://github.com/CloudEngineHub/RoboVLMs.git -> https://github.com/Robot-VLAs/RoboVLMs.git
 CloudEngineHub/Robyn[main]: https://github.com/CloudEngineHub/Robyn.git -> https://github.com/sparckles/Robyn.git
+CloudEngineHub/roller-grasper-v3[main]: https://github.com/CloudEngineHub/roller-grasper-v3.git -> https://github.com/yuanshenli/roller-grasper-v3.git
+CloudEngineHub/RollerGrasperV2[master]: https://github.com/CloudEngineHub/RollerGrasperV2.git -> https://github.com/yuanshenli/RollerGrasperV2.git
 CloudEngineHub/RollingDepth[main]: https://github.com/CloudEngineHub/RollingDepth.git -> https://github.com/prs-eth/RollingDepth.git
 CloudEngineHub/ROLO[main]: https://github.com/CloudEngineHub/ROLO.git -> https://github.com/sdwyc/ROLO.git
 CloudEngineHub/Roo-Code[main]: https://github.com/CloudEngineHub/Roo-Code.git -> https://github.com/RooVetGit/Roo-Code.git
@@ -1307,6 +1328,7 @@ CloudEngineHub/shopify.github.com[main]: https://github.com/CloudEngineHub/shopi
 CloudEngineHub/ShortGPT[stable]: https://github.com/CloudEngineHub/ShortGPT.git -> https://github.com/RayVentura/ShortGPT.git
 CloudEngineHub/siasun_ws[master]: https://github.com/CloudEngineHub/siasun_ws.git -> https://github.com/wxflamy/siasun_ws.git
 CloudEngineHub/siemens_tutorials[master]: https://github.com/CloudEngineHub/siemens_tutorials.git -> https://github.com/ros-industrial-attic/siemens_tutorials.git
+CloudEngineHub/siglens[develop]: https://github.com/CloudEngineHub/siglens.git -> https://github.com/siglens/siglens.git
 CloudEngineHub/simple-evals[main]: https://github.com/CloudEngineHub/simple-evals.git -> https://github.com/glaive-ai/simple-evals.git
 CloudEngineHub/simulator[master]: https://github.com/CloudEngineHub/simulator.git -> https://github.com/lgsvl/simulator.git
 CloudEngineHub/siri-ultra[main]: https://github.com/CloudEngineHub/siri-ultra.git -> https://github.com/fatwang2/siri-ultra.git
@@ -1343,6 +1365,7 @@ CloudEngineHub/spring-boot[main]: https://github.com/CloudEngineHub/spring-boot.
 CloudEngineHub/spring-reading[master]: https://github.com/CloudEngineHub/spring-reading.git -> https://github.com/xuchengsheng/spring-reading.git
 CloudEngineHub/SpringAll[master]: https://github.com/CloudEngineHub/SpringAll.git -> https://github.com/wuyouzhuguli/SpringAll.git
 CloudEngineHub/SpringCloudLearning[master]: https://github.com/CloudEngineHub/SpringCloudLearning.git -> https://github.com/forezp/SpringCloudLearning.git
+CloudEngineHub/spz[main]: https://github.com/CloudEngineHub/spz.git -> https://github.com/nianticlabs/spz.git
 CloudEngineHub/sql-server-samples[master]: https://github.com/CloudEngineHub/sql-server-samples.git -> https://github.com/microsoft/sql-server-samples.git
 CloudEngineHub/sqlite[master]: https://github.com/CloudEngineHub/sqlite.git -> https://github.com/sqlite/sqlite.git
 CloudEngineHub/SSD[master]: https://github.com/CloudEngineHub/SSD.git -> https://github.com/lufficc/SSD.git
@@ -1397,6 +1420,7 @@ CloudEngineHub/SynthMoCap[main]: https://github.com/CloudEngineHub/SynthMoCap.gi
 CloudEngineHub/system-design-primer[master]: https://github.com/CloudEngineHub/system-design-primer.git -> https://github.com/donnemartin/system-design-primer.git
 CloudEngineHub/system-prompts-and-models-of-ai-tools[main]: https://github.com/CloudEngineHub/system-prompts-and-models-of-ai-tools.git -> https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools.git
 CloudEngineHub/T-Rex[trex2]: https://github.com/CloudEngineHub/T-Rex.git -> https://github.com/IDEA-Research/T-Rex.git
+CloudEngineHub/Tactile-Reactive-Roller-Grasper[main]: https://github.com/CloudEngineHub/Tactile-Reactive-Roller-Grasper.git -> https://github.com/yuanshenli/Tactile-Reactive-Roller-Grasper.git
 CloudEngineHub/taichi[master]: https://github.com/CloudEngineHub/taichi.git -> https://github.com/taichi-dev/taichi.git
 CloudEngineHub/TAPIP3D[main]: https://github.com/CloudEngineHub/TAPIP3D.git -> https://github.com/zbw001/TAPIP3D.git
 CloudEngineHub/taro[main]: https://github.com/CloudEngineHub/taro.git -> https://github.com/NervJS/taro.git
@@ -1413,6 +1437,7 @@ CloudEngineHub/tensorflow-resnet[master]: https://github.com/CloudEngineHub/tens
 CloudEngineHub/tensorflow-yolov4-tflite[master]: https://github.com/CloudEngineHub/tensorflow-yolov4-tflite.git -> https://github.com/hunglc007/tensorflow-yolov4-tflite.git
 CloudEngineHub/terminal[main]: https://github.com/CloudEngineHub/terminal.git -> https://github.com/microsoft/terminal.git
 CloudEngineHub/tesla-api[master]: https://github.com/CloudEngineHub/tesla-api.git -> https://github.com/timdorr/tesla-api.git
+CloudEngineHub/TesserAct[main]: https://github.com/CloudEngineHub/TesserAct.git -> https://github.com/UMass-Embodied-AGI/TesserAct.git
 CloudEngineHub/test-your-sysadmin-skills[master]: https://github.com/CloudEngineHub/test-your-sysadmin-skills.git -> https://github.com/trimstray/test-your-sysadmin-skills.git
 CloudEngineHub/Text2Diagram[main]: https://github.com/CloudEngineHub/Text2Diagram.git -> https://github.com/bhaskatripathi/Text2Diagram.git
 CloudEngineHub/the-algorithm[main]: https://github.com/CloudEngineHub/the-algorithm.git -> https://github.com/twitter/the-algorithm.git
