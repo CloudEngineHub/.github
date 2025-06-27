@@ -10,6 +10,7 @@ CloudEngineHub/6dgs[main]: https://github.com/CloudEngineHub/6dgs.git -> https:/
 CloudEngineHub/996.ICU[master]: https://github.com/CloudEngineHub/996.ICU.git -> https://github.com/996icu/996.ICU.git
 CloudEngineHub/A-lightweight-prosthetic-hand[main]: https://github.com/CloudEngineHub/A-lightweight-prosthetic-hand.git -> https://github.com/Yanghao0506/A-lightweight-prosthetic-hand.git
 CloudEngineHub/A-LOAM[devel]: https://github.com/CloudEngineHub/A-LOAM.git -> https://github.com/HKUST-Aerial-Robotics/A-LOAM.git
+CloudEngineHub/A0[master]: https://github.com/CloudEngineHub/A0.git -> https://github.com/A-embodied/A0.git
 CloudEngineHub/A1-QP-MPC-Controller[main]: https://github.com/CloudEngineHub/A1-QP-MPC-Controller.git -> https://github.com/ShuoYangRobotics/A1-QP-MPC-Controller.git
 CloudEngineHub/abu[master]: https://github.com/CloudEngineHub/abu.git -> https://github.com/bbfamily/abu.git
 CloudEngineHub/academicpages.github.io[master]: https://github.com/CloudEngineHub/academicpages.github.io.git -> https://github.com/academicpages/academicpages.github.io.git
@@ -385,6 +386,7 @@ CloudEngineHub/dexhand_gesture_controller[main]: https://github.com/CloudEngineH
 CloudEngineHub/dexhand_llm_control[main]: https://github.com/CloudEngineHub/dexhand_llm_control.git -> https://github.com/iotdesignshop/dexhand_llm_control.git
 CloudEngineHub/dexhand_ros2_meta[main]: https://github.com/CloudEngineHub/dexhand_ros2_meta.git -> https://github.com/iotdesignshop/dexhand_ros2_meta.git
 CloudEngineHub/dexhand_usb_serial[main]: https://github.com/CloudEngineHub/dexhand_usb_serial.git -> https://github.com/iotdesignshop/dexhand_usb_serial.git
+CloudEngineHub/DexHub[main]: https://github.com/CloudEngineHub/DexHub.git -> https://github.com/BinaryDex/DexHub.git
 CloudEngineHub/dexmachina[main]: https://github.com/CloudEngineHub/dexmachina.git -> https://github.com/MandiZhao/dexmachina.git
 CloudEngineHub/dexrobot_isaac[main]: https://github.com/CloudEngineHub/dexrobot_isaac.git -> https://github.com/DexRobot/dexrobot_isaac.git
 CloudEngineHub/dexrobot_python_sdk[main]: https://github.com/CloudEngineHub/dexrobot_python_sdk.git -> https://github.com/DexRobot/dexrobot_python_sdk.git
@@ -462,6 +464,7 @@ CloudEngineHub/easyquant[master]: https://github.com/CloudEngineHub/easyquant.gi
 CloudEngineHub/EasySpider[master]: https://github.com/CloudEngineHub/EasySpider.git -> https://github.com/NaiboWang/EasySpider.git
 CloudEngineHub/easytrader[master]: https://github.com/CloudEngineHub/easytrader.git -> https://github.com/shidenggui/easytrader.git
 CloudEngineHub/EasyVolcap[main]: https://github.com/CloudEngineHub/EasyVolcap.git -> https://github.com/zju3dv/EasyVolcap.git
+CloudEngineHub/ebook-treasure-chest[main]: https://github.com/CloudEngineHub/ebook-treasure-chest.git -> https://github.com/jbiaojerry/ebook-treasure-chest.git
 CloudEngineHub/echarts[master]: https://github.com/CloudEngineHub/echarts.git -> https://github.com/apache/echarts.git
 CloudEngineHub/EchoMimic[main]: https://github.com/CloudEngineHub/EchoMimic.git -> https://github.com/antgroup/echomimic.git
 CloudEngineHub/echomimic_v2[main]: https://github.com/CloudEngineHub/echomimic_v2.git -> https://github.com/antgroup/echomimic_v2.git
@@ -618,6 +621,7 @@ CloudEngineHub/GaussianDreamerPro[main]: https://github.com/CloudEngineHub/Gauss
 CloudEngineHub/gazelle[main]: https://github.com/CloudEngineHub/gazelle.git -> https://github.com/fkryan/gazelle.git
 CloudEngineHub/gello_mechanical[main]: https://github.com/CloudEngineHub/gello_mechanical.git -> https://github.com/wuphilipp/gello_mechanical.git
 CloudEngineHub/gello_software[main]: https://github.com/CloudEngineHub/gello_software.git -> https://github.com/wuphilipp/gello_software.git
+CloudEngineHub/gemini-cli[main]: https://github.com/CloudEngineHub/gemini-cli.git -> https://github.com/google-gemini/gemini-cli.git
 CloudEngineHub/gemini-fullstack-langgraph-quickstart[main]: https://github.com/CloudEngineHub/gemini-fullstack-langgraph-quickstart.git -> https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart.git
 CloudEngineHub/gemma[main]: https://github.com/CloudEngineHub/gemma.git -> https://github.com/google-deepmind/gemma.git
 CloudEngineHub/gemma_pytorch[main]: https://github.com/CloudEngineHub/gemma_pytorch.git -> https://github.com/google/gemma_pytorch.git
@@ -709,6 +713,7 @@ CloudEngineHub/Helpful-Doggybot[main]: https://github.com/CloudEngineHub/Helpful
 CloudEngineHub/hertz-dev[main]: https://github.com/CloudEngineHub/hertz-dev.git -> https://github.com/Standard-Intelligence/hertz-dev.git
 CloudEngineHub/hetty[main]: https://github.com/CloudEngineHub/hetty.git -> https://github.com/dstotijn/hetty.git
 CloudEngineHub/hexapod[main]: https://github.com/CloudEngineHub/hexapod.git -> https://github.com/MakeYourPet/hexapod.git
+CloudEngineHub/hexhub[master]: https://github.com/CloudEngineHub/hexhub.git -> https://github.com/EdikKing/hexhub.git
 CloudEngineHub/hexo[master]: https://github.com/CloudEngineHub/hexo.git -> https://github.com/hexojs/hexo.git
 CloudEngineHub/HeyGem.ai[main]: https://github.com/CloudEngineHub/HeyGem.ai.git -> https://github.com/duixcom/Duix.Heygem.git
 CloudEngineHub/HFish[master]: https://github.com/CloudEngineHub/HFish.git -> https://github.com/hacklcx/HFish.git
@@ -1166,6 +1171,7 @@ CloudEngineHub/olmocr[main]: https://github.com/CloudEngineHub/olmocr.git -> htt
 CloudEngineHub/OmegaFold[main]: https://github.com/CloudEngineHub/OmegaFold.git -> https://github.com/HeliXonProtein/OmegaFold.git
 CloudEngineHub/OmniFusion[main]: https://github.com/CloudEngineHub/OmniFusion.git -> https://github.com/yuliangguo/OmniFusion.git
 CloudEngineHub/OmniGen[main]: https://github.com/CloudEngineHub/OmniGen.git -> https://github.com/VectorSpaceLab/OmniGen.git
+CloudEngineHub/OmniGen2[main]: https://github.com/CloudEngineHub/OmniGen2.git -> https://github.com/VectorSpaceLab/OmniGen2.git
 CloudEngineHub/OmniIsaacGymEnvs[main]: https://github.com/CloudEngineHub/OmniIsaacGymEnvs.git -> https://github.com/isaac-sim/OmniIsaacGymEnvs.git
 CloudEngineHub/omniparse[main]: https://github.com/CloudEngineHub/omniparse.git -> https://github.com/adithya-s-k/omniparse.git
 CloudEngineHub/OmniParser[master]: https://github.com/CloudEngineHub/OmniParser.git -> https://github.com/microsoft/OmniParser.git
@@ -1185,6 +1191,7 @@ CloudEngineHub/open-source-mac-os-apps[master]: https://github.com/CloudEngineHu
 CloudEngineHub/open-webui[main]: https://github.com/CloudEngineHub/open-webui.git -> https://github.com/open-webui/open-webui.git
 CloudEngineHub/OpenAGI[main]: https://github.com/CloudEngineHub/OpenAGI.git -> https://github.com/agiresearch/OpenAGI.git
 CloudEngineHub/openai-cookbook[main]: https://github.com/CloudEngineHub/openai-cookbook.git -> https://github.com/openai/openai-cookbook.git
+CloudEngineHub/openai-cs-agents-demo[main]: https://github.com/CloudEngineHub/openai-cs-agents-demo.git -> https://github.com/openai/openai-cs-agents-demo.git
 CloudEngineHub/openai-python[main]: https://github.com/CloudEngineHub/openai-python.git -> https://github.com/openai/openai-python.git
 CloudEngineHub/openai-realtime-agents[main]: https://github.com/CloudEngineHub/openai-realtime-agents.git -> https://github.com/openai/openai-realtime-agents.git
 CloudEngineHub/OpenArm[main]: https://github.com/CloudEngineHub/OpenArm.git -> https://github.com/reazon-research/OpenArm.git
@@ -1250,7 +1257,7 @@ CloudEngineHub/Paddle[develop]: https://github.com/CloudEngineHub/Paddle.git -> 
 CloudEngineHub/Paddle-Lite[develop]: https://github.com/CloudEngineHub/Paddle-Lite.git -> https://github.com/PaddlePaddle/Paddle-Lite.git
 CloudEngineHub/PaddleDetection[release/2.2]: https://github.com/CloudEngineHub/PaddleDetection.git -> https://github.com/PaddlePaddle/PaddleDetection.git
 CloudEngineHub/PaddleGAN[develop]: https://github.com/CloudEngineHub/PaddleGAN.git -> https://github.com/PaddlePaddle/PaddleGAN.git
-CloudEngineHub/PaddleHub[release/v2.1]: https://github.com/CloudEngineHub/PaddleHub.git -> https://github.com/PaddlePaddle/PaddleHub.git
+CloudEngineHub/PaddleHub[release/v2.1]: https://github.com/CloudEngineHub/PaddleHub.git -> https://github.com/PaddlePaddle/PaddleFormers.git
 CloudEngineHub/PaddleNLP[develop]: https://github.com/CloudEngineHub/PaddleNLP.git -> https://github.com/PaddlePaddle/PaddleNLP.git
 CloudEngineHub/PaddleOCR[release/2.3]: https://github.com/CloudEngineHub/PaddleOCR.git -> https://github.com/PaddlePaddle/PaddleOCR.git
 CloudEngineHub/PaddleRec[release/2.1.0]: https://github.com/CloudEngineHub/PaddleRec.git -> https://github.com/PaddlePaddle/PaddleRec.git
@@ -1303,6 +1310,7 @@ CloudEngineHub/playwright[main]: https://github.com/CloudEngineHub/playwright.gi
 CloudEngineHub/playwright-mcp[main]: https://github.com/CloudEngineHub/playwright-mcp.git -> https://github.com/microsoft/playwright-mcp.git
 CloudEngineHub/plugins[main]: https://github.com/CloudEngineHub/plugins.git -> https://github.com/flutter/plugins.git
 CloudEngineHub/plyr[master]: https://github.com/CloudEngineHub/plyr.git -> https://github.com/sampotts/plyr.git
+CloudEngineHub/PocketFlow[main]: https://github.com/CloudEngineHub/PocketFlow.git -> https://github.com/The-Pocket/PocketFlow.git
 CloudEngineHub/podman[main]: https://github.com/CloudEngineHub/podman.git -> https://github.com/containers/podman.git
 CloudEngineHub/PointLLM[master]: https://github.com/CloudEngineHub/PointLLM.git -> https://github.com/OpenRobotLab/PointLLM.git
 CloudEngineHub/poppy-humanoid[master]: https://github.com/CloudEngineHub/poppy-humanoid.git -> https://github.com/poppy-project/poppy-humanoid.git
