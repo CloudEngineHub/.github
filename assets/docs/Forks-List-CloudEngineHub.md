@@ -435,6 +435,7 @@ CloudEngineHub/dotbot[master]: https://github.com/CloudEngineHub/dotbot.git -> h
 CloudEngineHub/dotfiles[main]: https://github.com/CloudEngineHub/dotfiles.git -> https://github.com/mathiasbynens/dotfiles.git
 CloudEngineHub/dots.llm1[main]: https://github.com/CloudEngineHub/dots.llm1.git -> https://github.com/rednote-hilab/dots.llm1.git
 CloudEngineHub/doughnet[main]: https://github.com/CloudEngineHub/doughnet.git -> https://github.com/dornik/doughnet.git
+CloudEngineHub/doxygen[master]: https://github.com/CloudEngineHub/doxygen.git -> https://github.com/doxygen/doxygen.git
 CloudEngineHub/dppo[main]: https://github.com/CloudEngineHub/dppo.git -> https://github.com/irom-princeton/dppo.git
 CloudEngineHub/dragonfly[main]: https://github.com/CloudEngineHub/dragonfly.git -> https://github.com/dragonflydb/dragonfly.git
 CloudEngineHub/drake[master]: https://github.com/CloudEngineHub/drake.git -> https://github.com/RobotLocomotion/drake.git
@@ -520,6 +521,9 @@ CloudEngineHub/exo[main]: https://github.com/CloudEngineHub/exo.git -> https://g
 CloudEngineHub/Ezy-Parking[main]: https://github.com/CloudEngineHub/Ezy-Parking.git -> https://github.com/prathimacode-hub/Ezy-Parking.git
 CloudEngineHub/F5-TTS[main]: https://github.com/CloudEngineHub/F5-TTS.git -> https://github.com/SWivid/F5-TTS.git
 CloudEngineHub/facefusion[master]: https://github.com/CloudEngineHub/facefusion.git -> https://github.com/facefusion/facefusion.git
+CloudEngineHub/FACTR[main]: https://github.com/CloudEngineHub/FACTR.git -> https://github.com/RaindragonD/FACTR.git
+CloudEngineHub/FACTR_Hardware[main]: https://github.com/CloudEngineHub/FACTR_Hardware.git -> https://github.com/JasonJZLiu/FACTR_Hardware.git
+CloudEngineHub/FACTR_Teleop[main]: https://github.com/CloudEngineHub/FACTR_Teleop.git -> https://github.com/RaindragonD/FACTR_Teleop.git
 CloudEngineHub/fairino-cpp-sdk[main]: https://github.com/CloudEngineHub/fairino-cpp-sdk.git -> https://github.com/FAIR-INNOVATION/fairino-cpp-sdk.git
 CloudEngineHub/fairino-python-sdk[main]: https://github.com/CloudEngineHub/fairino-python-sdk.git -> https://github.com/FAIR-INNOVATION/fairino-python-sdk.git
 CloudEngineHub/FairyGen[main]: https://github.com/CloudEngineHub/FairyGen.git -> https://github.com/GVCLab/FairyGen.git
@@ -540,6 +544,7 @@ CloudEngineHub/FAST_LIO[main]: https://github.com/CloudEngineHub/FAST_LIO.git ->
 CloudEngineHub/fault-tolerant-flight-control-drl[master]: https://github.com/CloudEngineHub/fault-tolerant-flight-control-drl.git -> https://github.com/kdally/fault-tolerant-flight-control-drl.git
 CloudEngineHub/fb.resnet.torch[master]: https://github.com/CloudEngineHub/fb.resnet.torch.git -> https://github.com/facebookarchive/fb.resnet.torch.git
 CloudEngineHub/fdm[main]: https://github.com/CloudEngineHub/fdm.git -> https://github.com/leggedrobotics/fdm.git
+CloudEngineHub/feeding-deployment[main]: https://github.com/CloudEngineHub/feeding-deployment.git -> https://github.com/empriselab/feeding-deployment.git
 CloudEngineHub/feeling-responsive[gh-pages]: https://github.com/CloudEngineHub/feeling-responsive.git -> https://github.com/Phlow/feeling-responsive.git
 CloudEngineHub/FestingerVault[main]: https://github.com/CloudEngineHub/FestingerVault.git -> https://github.com/FestingerVault/FestingerVault.git
 CloudEngineHub/FFmpeg[master]: https://github.com/CloudEngineHub/FFmpeg.git -> https://github.com/FFmpeg/FFmpeg.git
@@ -710,6 +715,7 @@ CloudEngineHub/HAMSTER_beta[main]: https://github.com/CloudEngineHub/HAMSTER_bet
 CloudEngineHub/Hands-On-Large-Language-Models[main]: https://github.com/CloudEngineHub/Hands-On-Large-Language-Models.git -> https://github.com/HandsOnLLM/Hands-On-Large-Language-Models.git
 CloudEngineHub/Hands-On-Large-Language-Models-CN[master]: https://github.com/CloudEngineHub/Hands-On-Large-Language-Models-CN.git -> https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN.git
 CloudEngineHub/hand_eye_calibration[main]: https://github.com/CloudEngineHub/hand_eye_calibration.git -> https://github.com/RealManRobot/hand_eye_calibration.git
+CloudEngineHub/happy-llm[main]: https://github.com/CloudEngineHub/happy-llm.git -> https://github.com/datawhalechina/happy-llm.git
 CloudEngineHub/HarmonyOS[master]: https://github.com/CloudEngineHub/HarmonyOS.git -> https://github.com/Awesome-HarmonyOS/HarmonyOS.git
 CloudEngineHub/harmonyos-tutorial[master]: https://github.com/CloudEngineHub/harmonyos-tutorial.git -> https://github.com/waylau/harmonyos-tutorial.git
 CloudEngineHub/ha_xiaomi_home[main]: https://github.com/CloudEngineHub/ha_xiaomi_home.git -> https://github.com/XiaoMi/ha_xiaomi_home.git
@@ -754,6 +760,7 @@ CloudEngineHub/HuLa[master]: https://github.com/CloudEngineHub/HuLa.git -> https
 CloudEngineHub/human-dex[main]: https://github.com/CloudEngineHub/human-dex.git -> https://github.com/linkerbotai/human-dex.git
 CloudEngineHub/human-eval[master]: https://github.com/CloudEngineHub/human-eval.git -> https://github.com/openai/human-eval.git
 CloudEngineHub/human2humanoid[main]: https://github.com/CloudEngineHub/human2humanoid.git -> https://github.com/LeCAR-Lab/human2humanoid.git
+CloudEngineHub/Human2LocoMan[main]: https://github.com/CloudEngineHub/Human2LocoMan.git -> https://github.com/chrisyrniu/Human2LocoMan.git
 CloudEngineHub/human2sim2robot[main]: https://github.com/CloudEngineHub/human2sim2robot.git -> https://github.com/tylerlum/human2sim2robot.git
 CloudEngineHub/humanoid-bench[main]: https://github.com/CloudEngineHub/humanoid-bench.git -> https://github.com/carlosferrazza/humanoid-bench.git
 CloudEngineHub/humanoid-control[main]: https://github.com/CloudEngineHub/humanoid-control.git -> https://github.com/pocketxjl/humanoid-control.git
@@ -1168,6 +1175,7 @@ CloudEngineHub/nodezator[main]: https://github.com/CloudEngineHub/nodezator.git 
 CloudEngineHub/NormalCrafter[main]: https://github.com/CloudEngineHub/NormalCrafter.git -> https://github.com/Binyr/NormalCrafter.git
 CloudEngineHub/not-pure-poole[master]: https://github.com/CloudEngineHub/not-pure-poole.git -> https://github.com/vszhub/not-pure-poole.git
 CloudEngineHub/NotaGen[main]: https://github.com/CloudEngineHub/NotaGen.git -> https://github.com/ElectricAlexis/NotaGen.git
+CloudEngineHub/note-gen[dev]: https://github.com/CloudEngineHub/note-gen.git -> https://github.com/codexu/note-gen.git
 CloudEngineHub/nps[master]: https://github.com/CloudEngineHub/nps.git -> https://github.com/ehang-io/nps.git
 CloudEngineHub/Nuitka[develop]: https://github.com/CloudEngineHub/Nuitka.git -> https://github.com/Nuitka/Nuitka.git
 CloudEngineHub/numpy-ml[master]: https://github.com/CloudEngineHub/numpy-ml.git -> https://github.com/ddbourgin/numpy-ml.git
@@ -1219,6 +1227,7 @@ CloudEngineHub/OpenDevin[main]: https://github.com/CloudEngineHub/OpenDevin.git 
 CloudEngineHub/openfold[main]: https://github.com/CloudEngineHub/openfold.git -> https://github.com/aqlaboratory/openfold.git
 CloudEngineHub/OpenGlass[main]: https://github.com/CloudEngineHub/OpenGlass.git -> https://github.com/BasedHardware/OpenGlass.git
 CloudEngineHub/opengpts[main]: https://github.com/CloudEngineHub/opengpts.git -> https://github.com/langchain-ai/opengpts.git
+CloudEngineHub/openhand-hardware[master]: https://github.com/CloudEngineHub/openhand-hardware.git -> https://github.com/grablab/openhand-hardware.git
 CloudEngineHub/OpenHands[main]: https://github.com/CloudEngineHub/OpenHands.git -> https://github.com/All-Hands-AI/OpenHands.git
 CloudEngineHub/OpenHarmony[master]: https://github.com/CloudEngineHub/OpenHarmony.git -> https://github.com/fenwii/OpenHarmony.git
 CloudEngineHub/OpenHomie[main]: https://github.com/CloudEngineHub/OpenHomie.git -> https://github.com/OpenRobotLab/OpenHomie.git
@@ -1340,6 +1349,7 @@ CloudEngineHub/povar[main]: https://github.com/CloudEngineHub/povar.git -> https
 CloudEngineHub/PowerToys[main]: https://github.com/CloudEngineHub/PowerToys.git -> https://github.com/microsoft/PowerToys.git
 CloudEngineHub/PPO-PyTorch[master]: https://github.com/CloudEngineHub/PPO-PyTorch.git -> https://github.com/nikhilbarhate99/PPO-PyTorch.git
 CloudEngineHub/PRefLexOR[main]: https://github.com/CloudEngineHub/PRefLexOR.git -> https://github.com/lamm-mit/PRefLexOR.git
+CloudEngineHub/preserve-cd[master]: https://github.com/CloudEngineHub/preserve-cd.git -> https://github.com/skywind3000/preserve-cd.git
 CloudEngineHub/prettygraph[main]: https://github.com/CloudEngineHub/prettygraph.git -> https://github.com/yoheinakajima/prettygraph.git
 CloudEngineHub/prime[main]: https://github.com/CloudEngineHub/prime.git -> https://github.com/PrimeIntellect-ai/prime.git
 CloudEngineHub/primevue[master]: https://github.com/CloudEngineHub/primevue.git -> https://github.com/primefaces/primevue.git
@@ -1567,6 +1577,7 @@ CloudEngineHub/Shadowsocks-Tutorial[main]: https://github.com/CloudEngineHub/Sha
 CloudEngineHub/Shadowsocks-VPN-Wiki[master]: https://github.com/CloudEngineHub/Shadowsocks-VPN-Wiki.git -> https://github.com/sonywork/Shadowsocks-VPN-Wiki.git
 CloudEngineHub/shadowsocks-windows[v4]: https://github.com/CloudEngineHub/shadowsocks-windows.git -> https://github.com/shadowsocks/shadowsocks-windows.git
 CloudEngineHub/ShadowsocksX-NG[develop]: https://github.com/CloudEngineHub/ShadowsocksX-NG.git -> https://github.com/shadowsocks/ShadowsocksX-NG.git
+CloudEngineHub/Shape-for-Motion[main]: https://github.com/CloudEngineHub/Shape-for-Motion.git -> https://github.com/yuhaoliu7456/Shape-for-Motion.git
 CloudEngineHub/shape-of-motion[main]: https://github.com/CloudEngineHub/shape-of-motion.git -> https://github.com/vye16/shape-of-motion.git
 CloudEngineHub/ShareX[develop]: https://github.com/CloudEngineHub/ShareX.git -> https://github.com/ShareX/ShareX.git
 CloudEngineHub/shields[master]: https://github.com/CloudEngineHub/shields.git -> https://github.com/badges/shields.git
@@ -1827,6 +1838,7 @@ CloudEngineHub/VINS-Fusion[master]: https://github.com/CloudEngineHub/VINS-Fusio
 CloudEngineHub/VINS-Mobile[master]: https://github.com/CloudEngineHub/VINS-Mobile.git -> https://github.com/HKUST-Aerial-Robotics/VINS-Mobile.git
 CloudEngineHub/VINS-Mono[master]: https://github.com/CloudEngineHub/VINS-Mono.git -> https://github.com/HKUST-Aerial-Robotics/VINS-Mono.git
 CloudEngineHub/vision-in-action[main]: https://github.com/CloudEngineHub/vision-in-action.git -> https://github.com/haoyu-x/vision-in-action.git
+CloudEngineHub/Vision_Force_Estimation[main]: https://github.com/CloudEngineHub/Vision_Force_Estimation.git -> https://github.com/ZXP-S-works/Vision_Force_Estimation.git
 CloudEngineHub/vision_transformer[main]: https://github.com/CloudEngineHub/vision_transformer.git -> https://github.com/google-research/vision_transformer.git
 CloudEngineHub/VistaDream[main]: https://github.com/CloudEngineHub/VistaDream.git -> https://github.com/WHU-USI3DV/VistaDream.git
 CloudEngineHub/visual-servo[main]: https://github.com/CloudEngineHub/visual-servo.git -> https://github.com/RealManRobot/visual-servo.git
@@ -1880,11 +1892,13 @@ CloudEngineHub/Winds[master]: https://github.com/CloudEngineHub/Winds.git -> htt
 CloudEngineHub/winutil[main]: https://github.com/CloudEngineHub/winutil.git -> https://github.com/ChrisTitusTech/winutil.git
 CloudEngineHub/wiseflow[master]: https://github.com/CloudEngineHub/wiseflow.git -> https://github.com/TeamWiseFlow/wiseflow.git
 CloudEngineHub/WordPress[master]: https://github.com/CloudEngineHub/WordPress.git -> https://github.com/WordPress/WordPress.git
+CloudEngineHub/workflow-use[main]: https://github.com/CloudEngineHub/workflow-use.git -> https://github.com/browser-use/workflow-use.git
 CloudEngineHub/workout-cool[main]: https://github.com/CloudEngineHub/workout-cool.git -> https://github.com/Snouzy/workout-cool.git
 CloudEngineHub/WorldScore[main]: https://github.com/CloudEngineHub/WorldScore.git -> https://github.com/haoyi-duan/WorldScore.git
 CloudEngineHub/WorldVLA[main]: https://github.com/CloudEngineHub/WorldVLA.git -> https://github.com/alibaba-damo-academy/WorldVLA.git
 CloudEngineHub/WrenAI[main]: https://github.com/CloudEngineHub/WrenAI.git -> https://github.com/Canner/WrenAI.git
 CloudEngineHub/WSL[master]: https://github.com/CloudEngineHub/WSL.git -> https://github.com/microsoft/WSL.git
+CloudEngineHub/wsrl[main]: https://github.com/CloudEngineHub/wsrl.git -> https://github.com/zhouzypaul/wsrl.git
 CloudEngineHub/x[main]: https://github.com/CloudEngineHub/x.git -> https://github.com/ant-design/x.git
 CloudEngineHub/X-Dyna[main]: https://github.com/CloudEngineHub/X-Dyna.git -> https://github.com/bytedance/X-Dyna.git
 CloudEngineHub/x-humanoid-robomind.github.io[main]: https://github.com/CloudEngineHub/x-humanoid-robomind.github.io.git -> https://github.com/x-humanoid-robomind/x-humanoid-robomind.github.io.git
