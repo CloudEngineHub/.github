@@ -200,6 +200,7 @@ CloudEngineHub/BEVSee[master]: https://github.com/CloudEngineHub/BEVSee.git -> h
 CloudEngineHub/Bidex_Manus_Teleop[main]: https://github.com/CloudEngineHub/Bidex_Manus_Teleop.git -> https://github.com/leap-hand/Bidex_Manus_Teleop.git
 CloudEngineHub/BigDataView[master]: https://github.com/CloudEngineHub/BigDataView.git -> https://github.com/iGaoWei/BigDataView.git
 CloudEngineHub/BiliNote[master]: https://github.com/CloudEngineHub/BiliNote.git -> https://github.com/JefferyHcool/BiliNote.git
+CloudEngineHub/BiliTools[master]: https://github.com/CloudEngineHub/BiliTools.git -> https://github.com/btjawa/BiliTools.git
 CloudEngineHub/billd-desk[main]: https://github.com/CloudEngineHub/billd-desk.git -> https://github.com/galaxy-s10/billd-desk.git
 CloudEngineHub/biome[main]: https://github.com/CloudEngineHub/biome.git -> https://github.com/biomejs/biome.git
 CloudEngineHub/BiRefNet[main]: https://github.com/CloudEngineHub/BiRefNet.git -> https://github.com/ZhengPeng7/BiRefNet.git
@@ -927,6 +928,7 @@ CloudEngineHub/Lite-HRNet[hrnet]: https://github.com/CloudEngineHub/Lite-HRNet.g
 CloudEngineHub/lite.ai.toolkit[main]: https://github.com/CloudEngineHub/lite.ai.toolkit.git -> https://github.com/xlite-dev/lite.ai.toolkit.git
 CloudEngineHub/litellm[main]: https://github.com/CloudEngineHub/litellm.git -> https://github.com/BerriAI/litellm.git
 CloudEngineHub/LiteOS[master]: https://github.com/CloudEngineHub/LiteOS.git -> https://github.com/LiteOS/LiteOS.git
+CloudEngineHub/LiteReality[main]: https://github.com/CloudEngineHub/LiteReality.git -> https://github.com/LiteReality/LiteReality.git
 CloudEngineHub/LivePortrait[main]: https://github.com/CloudEngineHub/LivePortrait.git -> https://github.com/KwaiVGI/LivePortrait.git
 CloudEngineHub/llama[main]: https://github.com/CloudEngineHub/llama.git -> https://github.com/meta-llama/llama.git
 CloudEngineHub/llama-coder[main]: https://github.com/CloudEngineHub/llama-coder.git -> https://github.com/ex3ndr/llama-coder.git
@@ -1234,8 +1236,8 @@ CloudEngineHub/openai-cookbook[main]: https://github.com/CloudEngineHub/openai-c
 CloudEngineHub/openai-cs-agents-demo[main]: https://github.com/CloudEngineHub/openai-cs-agents-demo.git -> https://github.com/openai/openai-cs-agents-demo.git
 CloudEngineHub/openai-python[main]: https://github.com/CloudEngineHub/openai-python.git -> https://github.com/openai/openai-python.git
 CloudEngineHub/openai-realtime-agents[main]: https://github.com/CloudEngineHub/openai-realtime-agents.git -> https://github.com/openai/openai-realtime-agents.git
-CloudEngineHub/OpenArm[main]: https://github.com/CloudEngineHub/OpenArm.git -> https://github.com/reazon-research/OpenArm.git
-CloudEngineHub/openarm_ros2[main]: https://github.com/CloudEngineHub/openarm_ros2.git -> https://github.com/reazon-research/openarm_ros2.git
+CloudEngineHub/OpenArm[main]: https://github.com/CloudEngineHub/OpenArm.git -> https://github.com/enactic/openarm.git
+CloudEngineHub/openarm_ros2[main]: https://github.com/CloudEngineHub/openarm_ros2.git -> https://github.com/enactic/openarm_ros2.git
 CloudEngineHub/OpenBB[develop]: https://github.com/CloudEngineHub/OpenBB.git -> https://github.com/OpenBB-finance/OpenBB.git
 CloudEngineHub/opencode[dev]: https://github.com/CloudEngineHub/opencode.git -> https://github.com/sst/opencode.git
 CloudEngineHub/opencv-mobile[master]: https://github.com/CloudEngineHub/opencv-mobile.git -> https://github.com/nihui/opencv-mobile.git
@@ -1316,6 +1318,8 @@ CloudEngineHub/PanoHead[main]: https://github.com/CloudEngineHub/PanoHead.git ->
 CloudEngineHub/paper-qa[main]: https://github.com/CloudEngineHub/paper-qa.git -> https://github.com/Future-House/paper-qa.git
 CloudEngineHub/paper-reviewer[main]: https://github.com/CloudEngineHub/paper-reviewer.git -> https://github.com/deep-diver/paper-reviewer.git
 CloudEngineHub/paperless-ngx[dev]: https://github.com/CloudEngineHub/paperless-ngx.git -> https://github.com/paperless-ngx/paperless-ngx.git
+CloudEngineHub/PAPRAS-V0-Public[master]: https://github.com/CloudEngineHub/PAPRAS-V0-Public.git -> https://github.com/uiuckimlab/PAPRAS-V0-Public.git
+CloudEngineHub/PAPRLE[main]: https://github.com/CloudEngineHub/PAPRLE.git -> https://github.com/uiuckimlab/PAPRLE.git
 CloudEngineHub/parkour[main]: https://github.com/CloudEngineHub/parkour.git -> https://github.com/ZiwenZhuang/parkour.git
 CloudEngineHub/part-affinity[master]: https://github.com/CloudEngineHub/part-affinity.git -> https://github.com/NiteshBharadwaj/part-affinity.git
 CloudEngineHub/Part_HOE[main]: https://github.com/CloudEngineHub/Part_HOE.git -> https://github.com/zhaojieting/Part_HOE.git
@@ -1870,6 +1874,7 @@ CloudEngineHub/VistaDream[main]: https://github.com/CloudEngineHub/VistaDream.gi
 CloudEngineHub/visual-servo[main]: https://github.com/CloudEngineHub/visual-servo.git -> https://github.com/RealManRobot/visual-servo.git
 CloudEngineHub/visual_stabilization[main]: https://github.com/CloudEngineHub/visual_stabilization.git -> https://github.com/tub-rip/visual_stabilization.git
 CloudEngineHub/vit-pytorch[main]: https://github.com/CloudEngineHub/vit-pytorch.git -> https://github.com/lucidrains/vit-pytorch.git
+CloudEngineHub/ViTacFormer[main]: https://github.com/CloudEngineHub/ViTacFormer.git -> https://github.com/RoboVerseOrg/ViTacFormer.git
 CloudEngineHub/ViTaL[main]: https://github.com/CloudEngineHub/ViTaL.git -> https://github.com/Exiam6/ViTaL.git
 CloudEngineHub/vite-plugin-vue-mcp[main]: https://github.com/CloudEngineHub/vite-plugin-vue-mcp.git -> https://github.com/webfansplz/vite-plugin-vue-mcp.git
 CloudEngineHub/vitepress[main]: https://github.com/CloudEngineHub/vitepress.git -> https://github.com/vuejs/vitepress.git
