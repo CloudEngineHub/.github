@@ -256,7 +256,7 @@ CloudEngineHub/CharacterGen[main]: https://github.com/CloudEngineHub/CharacterGe
 CloudEngineHub/Chat2DB[main]: https://github.com/CloudEngineHub/Chat2DB.git -> https://github.com/CodePhiliaX/Chat2DB.git
 CloudEngineHub/chatbox[main]: https://github.com/CloudEngineHub/chatbox.git -> https://github.com/chatboxai/chatbox.git
 CloudEngineHub/ChatDev[main]: https://github.com/CloudEngineHub/ChatDev.git -> https://github.com/OpenBMB/ChatDev.git
-CloudEngineHub/ChatGLM-6B[main]: https://github.com/CloudEngineHub/ChatGLM-6B.git -> https://github.com/THUDM/ChatGLM-6B.git
+CloudEngineHub/ChatGLM-6B[main]: https://github.com/CloudEngineHub/ChatGLM-6B.git -> https://github.com/zai-org/ChatGLM-6B.git
 CloudEngineHub/ChatGPT[main]: https://github.com/CloudEngineHub/ChatGPT.git -> https://github.com/acheong08/ChatGPT.git
 CloudEngineHub/chatgpt-advanced[main]: https://github.com/CloudEngineHub/chatgpt-advanced.git -> https://github.com/interstellard/chatgpt-advanced.git
 CloudEngineHub/ChatGPT-API-Faucet[main]: https://github.com/CloudEngineHub/ChatGPT-API-Faucet.git -> https://github.com/terobox/ChatGPT-API-Faucet.git
@@ -296,10 +296,10 @@ CloudEngineHub/codex[main]: https://github.com/CloudEngineHub/codex.git -> https
 CloudEngineHub/coding-interview-university[main]: https://github.com/CloudEngineHub/coding-interview-university.git -> https://github.com/jwasham/coding-interview-university.git
 CloudEngineHub/cofounder[main]: https://github.com/CloudEngineHub/cofounder.git -> https://github.com/raidendotai/cofounder.git
 CloudEngineHub/CogACT[main]: https://github.com/CloudEngineHub/CogACT.git -> https://github.com/microsoft/CogACT.git
-CloudEngineHub/CogAgent[main]: https://github.com/CloudEngineHub/CogAgent.git -> https://github.com/THUDM/CogAgent.git
-CloudEngineHub/CogVideo[main]: https://github.com/CloudEngineHub/CogVideo.git -> https://github.com/THUDM/CogVideo.git
-CloudEngineHub/CogView4[main]: https://github.com/CloudEngineHub/CogView4.git -> https://github.com/THUDM/CogView4.git
-CloudEngineHub/CogVLM2[main]: https://github.com/CloudEngineHub/CogVLM2.git -> https://github.com/THUDM/CogVLM2.git
+CloudEngineHub/CogAgent[main]: https://github.com/CloudEngineHub/CogAgent.git -> https://github.com/zai-org/CogAgent.git
+CloudEngineHub/CogVideo[main]: https://github.com/CloudEngineHub/CogVideo.git -> https://github.com/zai-org/CogVideo.git
+CloudEngineHub/CogView4[main]: https://github.com/CloudEngineHub/CogView4.git -> https://github.com/zai-org/CogView4.git
+CloudEngineHub/CogVLM2[main]: https://github.com/CloudEngineHub/CogVLM2.git -> https://github.com/zai-org/CogVLM2.git
 CloudEngineHub/cohere-toolkit[main]: https://github.com/CloudEngineHub/cohere-toolkit.git -> https://github.com/cohere-ai/cohere-toolkit.git
 CloudEngineHub/CoI-Agent[main]: https://github.com/CloudEngineHub/CoI-Agent.git -> https://github.com/DAMO-NLP-SG/CoI-Agent.git
 CloudEngineHub/Collection_TianYa[main]: https://github.com/CloudEngineHub/Collection_TianYa.git -> https://github.com/als3453/Collection_TianYa.git
@@ -682,8 +682,8 @@ CloudEngineHub/github-mcp-server[main]: https://github.com/CloudEngineHub/github
 CloudEngineHub/github-readme-activity-graph[main]: https://github.com/CloudEngineHub/github-readme-activity-graph.git -> https://github.com/Ashutosh00710/github-readme-activity-graph.git
 CloudEngineHub/github-readme-stats[master]: https://github.com/CloudEngineHub/github-readme-stats.git -> https://github.com/anuraghazra/github-readme-stats.git
 CloudEngineHub/GLEE[main]: https://github.com/CloudEngineHub/GLEE.git -> https://github.com/FoundationVision/GLEE.git
-CloudEngineHub/GLM-4[main]: https://github.com/CloudEngineHub/GLM-4.git -> https://github.com/THUDM/GLM-4.git
-CloudEngineHub/GLM-4-Voice[main]: https://github.com/CloudEngineHub/GLM-4-Voice.git -> https://github.com/THUDM/GLM-4-Voice.git
+CloudEngineHub/GLM-4[main]: https://github.com/CloudEngineHub/GLM-4.git -> https://github.com/zai-org/GLM-4.git
+CloudEngineHub/GLM-4-Voice[main]: https://github.com/CloudEngineHub/GLM-4-Voice.git -> https://github.com/zai-org/GLM-4-Voice.git
 CloudEngineHub/Go[master]: https://github.com/CloudEngineHub/Go.git -> https://github.com/TheAlgorithms/Go.git
 CloudEngineHub/go-cursor-help[master]: https://github.com/CloudEngineHub/go-cursor-help.git -> https://github.com/yuaotian/go-cursor-help.git
 CloudEngineHub/go-ethereum[master]: https://github.com/CloudEngineHub/go-ethereum.git -> https://github.com/ethereum/go-ethereum.git
