@@ -245,6 +245,7 @@ CloudEngineHub/Building-llama3-from-scratch[main]: https://github.com/CloudEngin
 CloudEngineHub/bullet3[master]: https://github.com/CloudEngineHub/bullet3.git -> https://github.com/bulletphysics/bullet3.git
 CloudEngineHub/BunnyVisionPro[main]: https://github.com/CloudEngineHub/BunnyVisionPro.git -> https://github.com/Dingry/BunnyVisionPro.git
 CloudEngineHub/burpFakeIP[master]: https://github.com/CloudEngineHub/burpFakeIP.git -> https://github.com/TheKingOfDuck/burpFakeIP.git
+CloudEngineHub/bytebot[main]: https://github.com/CloudEngineHub/bytebot.git -> https://github.com/bytebot-ai/bytebot.git
 CloudEngineHub/C-Plus-Plus[master]: https://github.com/CloudEngineHub/C-Plus-Plus.git -> https://github.com/TheAlgorithms/C-Plus-Plus.git
 CloudEngineHub/caddy[master]: https://github.com/CloudEngineHub/caddy.git -> https://github.com/caddyserver/caddy.git
 CloudEngineHub/cake[main]: https://github.com/CloudEngineHub/cake.git -> https://github.com/evilsocket/cake.git
@@ -557,6 +558,7 @@ CloudEngineHub/ExAvatar_RELEASE[main]: https://github.com/CloudEngineHub/ExAvata
 CloudEngineHub/excalidraw[master]: https://github.com/CloudEngineHub/excalidraw.git -> https://github.com/excalidraw/excalidraw.git
 CloudEngineHub/exo[main]: https://github.com/CloudEngineHub/exo.git -> https://github.com/exo-explore/exo.git
 CloudEngineHub/Ezy-Parking[main]: https://github.com/CloudEngineHub/Ezy-Parking.git -> https://github.com/prathimacode-hub/Ezy-Parking.git
+CloudEngineHub/f2[main]: https://github.com/CloudEngineHub/f2.git -> https://github.com/Johnserf-Seed/f2.git
 CloudEngineHub/F5-TTS[main]: https://github.com/CloudEngineHub/F5-TTS.git -> https://github.com/SWivid/F5-TTS.git
 CloudEngineHub/facefusion[master]: https://github.com/CloudEngineHub/facefusion.git -> https://github.com/facefusion/facefusion.git
 CloudEngineHub/FACTR[main]: https://github.com/CloudEngineHub/FACTR.git -> https://github.com/RaindragonD/FACTR.git
@@ -590,6 +592,7 @@ CloudEngineHub/feel-the-force[main]: https://github.com/CloudEngineHub/feel-the-
 CloudEngineHub/feeling-responsive[gh-pages]: https://github.com/CloudEngineHub/feeling-responsive.git -> https://github.com/Phlow/feeling-responsive.git
 CloudEngineHub/FestingerVault[main]: https://github.com/CloudEngineHub/FestingerVault.git -> https://github.com/FestingerVault/FestingerVault.git
 CloudEngineHub/FFmpeg[master]: https://github.com/CloudEngineHub/FFmpeg.git -> https://github.com/FFmpeg/FFmpeg.git
+CloudEngineHub/file-transfer-go[main]: https://github.com/CloudEngineHub/file-transfer-go.git -> https://github.com/MatrixSeven/file-transfer-go.git
 CloudEngineHub/filepizza[main]: https://github.com/CloudEngineHub/filepizza.git -> https://github.com/kern/filepizza.git
 CloudEngineHub/filestash[master]: https://github.com/CloudEngineHub/filestash.git -> https://github.com/mickael-kerjean/filestash.git
 CloudEngineHub/FinGeniusAPP[main]: https://github.com/CloudEngineHub/FinGeniusAPP.git -> https://github.com/FinGeniusAPP/FinGeniusAPP.git
@@ -665,6 +668,7 @@ CloudEngineHub/FunASR[main]: https://github.com/CloudEngineHub/FunASR.git -> htt
 CloudEngineHub/FunClip[main]: https://github.com/CloudEngineHub/FunClip.git -> https://github.com/modelscope/FunClip.git
 CloudEngineHub/funsearch[main]: https://github.com/CloudEngineHub/funsearch.git -> https://github.com/google-deepmind/funsearch.git
 CloudEngineHub/fusion[main]: https://github.com/CloudEngineHub/fusion.git -> https://github.com/0x2E/fusion.git
+CloudEngineHub/G0[main]: https://github.com/CloudEngineHub/G0.git -> https://github.com/OpenGalaxea/G0.git
 CloudEngineHub/g2o[master]: https://github.com/CloudEngineHub/g2o.git -> https://github.com/RainerKuemmerle/g2o.git
 CloudEngineHub/Gaga[main]: https://github.com/CloudEngineHub/Gaga.git -> https://github.com/weijielyu/Gaga.git
 CloudEngineHub/galaxy[main]: https://github.com/CloudEngineHub/galaxy.git -> https://github.com/uiverse-io/galaxy.git
@@ -841,6 +845,7 @@ CloudEngineHub/hydejack[master]: https://github.com/CloudEngineHub/hydejack.git 
 CloudEngineHub/hydejack-site[master]: https://github.com/CloudEngineHub/hydejack-site.git -> https://github.com/hydecorp/hydejack-site.git
 CloudEngineHub/hydejack-starter-kit[master]: https://github.com/CloudEngineHub/hydejack-starter-kit.git -> https://github.com/hydecorp/hydejack-starter-kit.git
 CloudEngineHub/hyperbrowserai-examples[main]: https://github.com/CloudEngineHub/hyperbrowserai-examples.git -> https://github.com/hyperbrowserai/examples.git
+CloudEngineHub/hyprnote[main]: https://github.com/CloudEngineHub/hyprnote.git -> https://github.com/fastrepl/hyprnote.git
 CloudEngineHub/IC-Light[main]: https://github.com/CloudEngineHub/IC-Light.git -> https://github.com/lllyasviel/IC-Light.git
 CloudEngineHub/ichigo[main]: https://github.com/CloudEngineHub/ichigo.git -> https://github.com/menloresearch/ichigo.git
 CloudEngineHub/icons[main]: https://github.com/CloudEngineHub/icons.git -> https://github.com/pqoqubbw/icons.git
@@ -976,6 +981,7 @@ CloudEngineHub/libmodbus[master]: https://github.com/CloudEngineHub/libmodbus.gi
 CloudEngineHub/librealsense[master]: https://github.com/CloudEngineHub/librealsense.git -> https://github.com/IntelRealSense/librealsense.git
 CloudEngineHub/lifelike-agility-and-play[master]: https://github.com/CloudEngineHub/lifelike-agility-and-play.git -> https://github.com/Tencent-RoboticsX/lifelike-agility-and-play.git
 CloudEngineHub/Light-A-Video[main]: https://github.com/CloudEngineHub/Light-A-Video.git -> https://github.com/bcmi/Light-A-Video.git
+CloudEngineHub/linux[master]: https://github.com/CloudEngineHub/linux.git -> https://github.com/torvalds/linux.git
 CloudEngineHub/LinuxMirrors[main]: https://github.com/CloudEngineHub/LinuxMirrors.git -> https://github.com/SuperManito/LinuxMirrors.git
 CloudEngineHub/LIO-SAM[master]: https://github.com/CloudEngineHub/LIO-SAM.git -> https://github.com/TixiaoShan/LIO-SAM.git
 CloudEngineHub/liquid_time_constant_networks[master]: https://github.com/CloudEngineHub/liquid_time_constant_networks.git -> https://github.com/raminmh/liquid_time_constant_networks.git
@@ -1249,6 +1255,7 @@ CloudEngineHub/NewsBlur[master]: https://github.com/CloudEngineHub/NewsBlur.git 
 CloudEngineHub/newsnow[main]: https://github.com/CloudEngineHub/newsnow.git -> https://github.com/ourongxing/newsnow.git
 CloudEngineHub/newton[main]: https://github.com/CloudEngineHub/newton.git -> https://github.com/newton-physics/newton.git
 CloudEngineHub/next.js[canary]: https://github.com/CloudEngineHub/next.js.git -> https://github.com/vercel/next.js.git
+CloudEngineHub/NextChat[main]: https://github.com/CloudEngineHub/NextChat.git -> https://github.com/ChatGPTNextWeb/NextChat.git
 CloudEngineHub/Nexus-Gen[main]: https://github.com/CloudEngineHub/Nexus-Gen.git -> https://github.com/modelscope/Nexus-Gen.git
 CloudEngineHub/NexusGS[main]: https://github.com/CloudEngineHub/NexusGS.git -> https://github.com/USMizuki/NexusGS.git
 CloudEngineHub/NGD-SLAM[main]: https://github.com/CloudEngineHub/NGD-SLAM.git -> https://github.com/yuhaozhang7/NGD-SLAM.git
@@ -1437,6 +1444,7 @@ CloudEngineHub/pinocchio_ros_example[master]: https://github.com/CloudEngineHub/
 CloudEngineHub/pinokio[main]: https://github.com/CloudEngineHub/pinokio.git -> https://github.com/pinokiocomputer/pinokio.git
 CloudEngineHub/pipecat[main]: https://github.com/CloudEngineHub/pipecat.git -> https://github.com/pipecat-ai/pipecat.git
 CloudEngineHub/pippo[main]: https://github.com/CloudEngineHub/pippo.git -> https://github.com/facebookresearch/pippo.git
+CloudEngineHub/Pixelle-MCP[main]: https://github.com/CloudEngineHub/Pixelle-MCP.git -> https://github.com/AIDC-AI/Pixelle-MCP.git
 CloudEngineHub/plate[main]: https://github.com/CloudEngineHub/plate.git -> https://github.com/udecode/plate.git
 CloudEngineHub/playwright[main]: https://github.com/CloudEngineHub/playwright.git -> https://github.com/microsoft/playwright.git
 CloudEngineHub/playwright-mcp[main]: https://github.com/CloudEngineHub/playwright-mcp.git -> https://github.com/microsoft/playwright-mcp.git
