@@ -1057,6 +1057,7 @@ CloudEngineHub/maml[master]: https://github.com/CloudEngineHub/maml.git -> https
 CloudEngineHub/maml_rl[master]: https://github.com/CloudEngineHub/maml_rl.git -> https://github.com/cbfinn/maml_rl.git
 CloudEngineHub/MangaNinjia[main]: https://github.com/CloudEngineHub/MangaNinjia.git -> https://github.com/ali-vilab/MangaNinjia.git
 CloudEngineHub/manibox[main]: https://github.com/CloudEngineHub/manibox.git -> https://github.com/thkkk/manibox.git
+CloudEngineHub/ManiFlow_Policy[main]: https://github.com/CloudEngineHub/ManiFlow_Policy.git -> https://github.com/geyan21/ManiFlow_Policy.git
 CloudEngineHub/manim[main]: https://github.com/CloudEngineHub/manim.git -> https://github.com/ManimCommunity/manim.git
 CloudEngineHub/manipgen[master]: https://github.com/CloudEngineHub/manipgen.git -> https://github.com/mihdalal/manipgen.git
 CloudEngineHub/ManipTrans[main]: https://github.com/CloudEngineHub/ManipTrans.git -> https://github.com/ManipTrans/ManipTrans.git
@@ -1084,7 +1085,7 @@ CloudEngineHub/MD3-Windows[main]: https://github.com/CloudEngineHub/MD3-Windows.
 CloudEngineHub/mechaverse[main]: https://github.com/CloudEngineHub/mechaverse.git -> https://github.com/jurmy24/mechaverse.git
 CloudEngineHub/MediaCrawler[main]: https://github.com/CloudEngineHub/MediaCrawler.git -> https://github.com/NanmiCoder/MediaCrawler.git
 CloudEngineHub/mediapipe[master]: https://github.com/CloudEngineHub/mediapipe.git -> https://github.com/google-ai-edge/mediapipe.git
-CloudEngineHub/Medical-SAM2[main]: https://github.com/CloudEngineHub/Medical-SAM2.git -> https://github.com/SuperMedIntel/Medical-SAM2.git
+CloudEngineHub/Medical-SAM2[main]: https://github.com/CloudEngineHub/Medical-SAM2.git -> https://github.com/ImprintLab/Medical-SAM2.git
 CloudEngineHub/MedSAM[main]: https://github.com/CloudEngineHub/MedSAM.git -> https://github.com/bowang-lab/MedSAM.git
 CloudEngineHub/meeting-minutes[main]: https://github.com/CloudEngineHub/meeting-minutes.git -> https://github.com/Zackriya-Solutions/meeting-minutes.git
 CloudEngineHub/mega-sam[main]: https://github.com/CloudEngineHub/mega-sam.git -> https://github.com/mega-sam/mega-sam.git
