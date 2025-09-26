@@ -368,6 +368,7 @@ CloudEngineHub/curobo[main]: https://github.com/CloudEngineHub/curobo.git -> htt
 CloudEngineHub/cursor[main]: https://github.com/CloudEngineHub/cursor.git -> https://github.com/cursor/cursor.git
 CloudEngineHub/cursor-free-vip[main]: https://github.com/CloudEngineHub/cursor-free-vip.git -> https://github.com/yeongpin/cursor-free-vip.git
 CloudEngineHub/CVPR2016_HandPoseEstimation[master]: https://github.com/CloudEngineHub/CVPR2016_HandPoseEstimation.git -> https://github.com/geliuhao/CVPR2016_HandPoseEstimation.git
+CloudEngineHub/cwm[main]: https://github.com/CloudEngineHub/cwm.git -> https://github.com/facebookresearch/cwm.git
 CloudEngineHub/Cycle3D[main]: https://github.com/CloudEngineHub/Cycle3D.git -> https://github.com/PKU-YuanGroup/Cycle3D.git
 CloudEngineHub/CycleGAN[master]: https://github.com/CloudEngineHub/CycleGAN.git -> https://github.com/junyanz/CycleGAN.git
 CloudEngineHub/D-FINE[master]: https://github.com/CloudEngineHub/D-FINE.git -> https://github.com/Peterande/D-FINE.git
@@ -1072,6 +1073,7 @@ CloudEngineHub/MAGI-1[main]: https://github.com/CloudEngineHub/MAGI-1.git -> htt
 CloudEngineHub/magic[master]: https://github.com/CloudEngineHub/magic.git -> https://github.com/dtyq/magic.git
 CloudEngineHub/magic-mcp[main]: https://github.com/CloudEngineHub/magic-mcp.git -> https://github.com/21st-dev/magic-mcp.git
 CloudEngineHub/Magic-TryOn[main]: https://github.com/CloudEngineHub/Magic-TryOn.git -> https://github.com/vivoCameraResearch/Magic-TryOn.git
+CloudEngineHub/MagicMirror[master]: https://github.com/CloudEngineHub/MagicMirror.git -> https://github.com/MagicMirrorOrg/MagicMirror.git
 CloudEngineHub/MagicMotion[main]: https://github.com/CloudEngineHub/MagicMotion.git -> https://github.com/quanhaol/MagicMotion.git
 CloudEngineHub/MagicQuill[main]: https://github.com/CloudEngineHub/MagicQuill.git -> https://github.com/ant-research/MagicQuill.git
 CloudEngineHub/Magma[main]: https://github.com/CloudEngineHub/Magma.git -> https://github.com/microsoft/Magma.git
@@ -1322,7 +1324,7 @@ CloudEngineHub/olmocr[main]: https://github.com/CloudEngineHub/olmocr.git -> htt
 CloudEngineHub/OmegaFold[main]: https://github.com/CloudEngineHub/OmegaFold.git -> https://github.com/HeliXonProtein/OmegaFold.git
 CloudEngineHub/OmniFusion[main]: https://github.com/CloudEngineHub/OmniFusion.git -> https://github.com/yuliangguo/OmniFusion.git
 CloudEngineHub/OmniGen[main]: https://github.com/CloudEngineHub/OmniGen.git -> https://github.com/VectorSpaceLab/OmniGen.git
-CloudEngineHub/OmniGen2[main]: https://github.com/CloudEngineHub/OmniGen2.git -> https://github.com/VectorSpaceLab/OmniGen2.git
+CloudEngineHub/OmniGen2[main]: https://github.com/CloudEngineHub/OmniGen2.git -> https://github.com/AlonzoLeeeooo/OmniGen2.git
 CloudEngineHub/Omnigrasp[master]: https://github.com/CloudEngineHub/Omnigrasp.git -> https://github.com/ZhengyiLuo/Omnigrasp.git
 CloudEngineHub/OmniIsaacGymEnvs[main]: https://github.com/CloudEngineHub/OmniIsaacGymEnvs.git -> https://github.com/isaac-sim/OmniIsaacGymEnvs.git
 CloudEngineHub/omnimap[master]: https://github.com/CloudEngineHub/omnimap.git -> https://github.com/BIT-DYN/omnimap.git
@@ -1558,6 +1560,7 @@ CloudEngineHub/quad-sdk[main]: https://github.com/CloudEngineHub/quad-sdk.git ->
 CloudEngineHub/quant-trading[master]: https://github.com/CloudEngineHub/quant-trading.git -> https://github.com/je-suis-tm/quant-trading.git
 CloudEngineHub/quarkdown[main]: https://github.com/CloudEngineHub/quarkdown.git -> https://github.com/iamgio/quarkdown.git
 CloudEngineHub/quest2_ros_msg[main]: https://github.com/CloudEngineHub/quest2_ros_msg.git -> https://github.com/vision-tactile-manip/quest2_ros_msg.git
+CloudEngineHub/Qwen-Image[main]: https://github.com/CloudEngineHub/Qwen-Image.git -> https://github.com/QwenLM/Qwen-Image.git
 CloudEngineHub/Qwen-VL[master]: https://github.com/CloudEngineHub/Qwen-VL.git -> https://github.com/QwenLM/Qwen-VL.git
 CloudEngineHub/Qwen2[main]: https://github.com/CloudEngineHub/Qwen2.git -> https://github.com/QwenLM/Qwen3.git
 CloudEngineHub/Qwen2-VL[main]: https://github.com/CloudEngineHub/Qwen2-VL.git -> https://github.com/QwenLM/Qwen3-VL.git
@@ -1700,7 +1703,7 @@ CloudEngineHub/RWKV-LM[main]: https://github.com/CloudEngineHub/RWKV-LM.git -> h
 CloudEngineHub/rx1[master]: https://github.com/CloudEngineHub/rx1.git -> https://github.com/Red-Rabbit-Robotics/rx1.git
 CloudEngineHub/rx1_bom[master]: https://github.com/CloudEngineHub/rx1_bom.git -> https://github.com/Red-Rabbit-Robotics/rx1_bom.git
 CloudEngineHub/rx1_servo_hardware[master]: https://github.com/CloudEngineHub/rx1_servo_hardware.git -> https://github.com/Red-Rabbit-Robotics/rx1_servo_hardware.git
-CloudEngineHub/Sa2VA[main]: https://github.com/CloudEngineHub/Sa2VA.git -> https://github.com/magic-research/Sa2VA.git
+CloudEngineHub/Sa2VA[main]: https://github.com/CloudEngineHub/Sa2VA.git -> https://github.com/bytedance/Sa2VA.git
 CloudEngineHub/SafetyBench[main]: https://github.com/CloudEngineHub/SafetyBench.git -> https://github.com/thu-coai/SafetyBench.git
 CloudEngineHub/SAM2Act[main]: https://github.com/CloudEngineHub/SAM2Act.git -> https://github.com/sam2act/sam2act.git
 CloudEngineHub/samurai[master]: https://github.com/CloudEngineHub/samurai.git -> https://github.com/yangchris11/samurai.git
