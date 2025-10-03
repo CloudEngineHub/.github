@@ -1578,6 +1578,7 @@ CloudEngineHub/quad-sdk[main]: https://github.com/CloudEngineHub/quad-sdk.git ->
 CloudEngineHub/quant-trading[master]: https://github.com/CloudEngineHub/quant-trading.git -> https://github.com/je-suis-tm/quant-trading.git
 CloudEngineHub/quarkdown[main]: https://github.com/CloudEngineHub/quarkdown.git -> https://github.com/iamgio/quarkdown.git
 CloudEngineHub/quest2_ros_msg[main]: https://github.com/CloudEngineHub/quest2_ros_msg.git -> https://github.com/vision-tactile-manip/quest2_ros_msg.git
+CloudEngineHub/ququ[main]: https://github.com/CloudEngineHub/ququ.git -> https://github.com/yan5xu/ququ.git
 CloudEngineHub/Qwen-Image[main]: https://github.com/CloudEngineHub/Qwen-Image.git -> https://github.com/QwenLM/Qwen-Image.git
 CloudEngineHub/Qwen-VL[master]: https://github.com/CloudEngineHub/Qwen-VL.git -> https://github.com/QwenLM/Qwen-VL.git
 CloudEngineHub/Qwen2[main]: https://github.com/CloudEngineHub/Qwen2.git -> https://github.com/QwenLM/Qwen3.git
