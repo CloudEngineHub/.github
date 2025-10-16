@@ -1,10 +1,10 @@
-name: Gen Forks List - CloudEngineHub
+name: Gen Forkcounts List - CloudEngineHub
 
-run-name: Gen Forks List - CloudEngineHub
+run-name: Gen Forkcounts List - CloudEngineHub
 
 on:
   schedule:
-    - cron: "0 4 * * 1,3,5" # Run every monday, wednesday and friday at 4:00 AM
+    - cron: "0 3 * * 1,3,5" # Run every monday, wednesday and friday at 3:00 AM
   workflow_dispatch: # Manual dispatch
 
 permissions:
@@ -23,8 +23,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  gen-forks-list:
-    name: Gen Forks List
+  gen-forkcounts-list:
+    name: Gen Forkcounts List
     runs-on: ubuntu-latest
     
     steps:
@@ -36,8 +36,8 @@ jobs:
           git config --global user.name "github-actions[CloudEngineHub-bot]"
           git config --global user.email "github-actions[CloudEngineHub-bot]@users.noreply.github.com"
       
-      - name: Run script gen-forks-list
-        run: echo "CloudEngineHub" | ./gen-forks-list.sh
+      - name: Run script gen-forkcounts-list
+        run: echo "CloudEngineHub" | ./gen-forkcounts-list.sh
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
       
@@ -45,7 +45,7 @@ jobs:
         run: |
           cd ..
           git add .
-          git commit -m "Update Forks List for CloudEngineHub" || exit 0
+          git commit -m "Update Forkcounts List for CloudEngineHub" || exit 0
       
       - name: Push changes
         run: git push
