@@ -25,7 +25,7 @@ concurrency:
 jobs:
   gen-stargazers-list:
     name: Gen Stargazers List
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     
     steps:
       - name: Check out the repository to the runner
