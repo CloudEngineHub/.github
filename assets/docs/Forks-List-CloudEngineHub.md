@@ -177,6 +177,7 @@ CloudEngineHub/awesome-blockchain-cn[master]: https://github.com/CloudEngineHub/
 CloudEngineHub/awesome-chatgpt[main]: https://github.com/CloudEngineHub/awesome-chatgpt.git -> https://github.com/sindresorhus/awesome-chatgpt.git
 CloudEngineHub/awesome-chatgpt-prompts[main]: https://github.com/CloudEngineHub/awesome-chatgpt-prompts.git -> https://github.com/f/awesome-chatgpt-prompts.git
 CloudEngineHub/Awesome-Chinese-LLM[main]: https://github.com/CloudEngineHub/Awesome-Chinese-LLM.git -> https://github.com/HqWu-HITCS/Awesome-Chinese-LLM.git
+CloudEngineHub/awesome-collision-detection[master]: https://github.com/CloudEngineHub/awesome-collision-detection.git -> https://github.com/jslee02/awesome-collision-detection.git
 CloudEngineHub/awesome-courses[master]: https://github.com/CloudEngineHub/awesome-courses.git -> https://github.com/prakhar1989/awesome-courses.git
 CloudEngineHub/awesome-cpp[master]: https://github.com/CloudEngineHub/awesome-cpp.git -> https://github.com/fffaraz/awesome-cpp.git
 CloudEngineHub/awesome-cpp-cn[master]: https://github.com/CloudEngineHub/awesome-cpp-cn.git -> https://github.com/jobbole/awesome-cpp-cn.git
@@ -207,6 +208,8 @@ CloudEngineHub/awesome-mac[master]: https://github.com/CloudEngineHub/awesome-ma
 CloudEngineHub/awesome-macos-command-line[main]: https://github.com/CloudEngineHub/awesome-macos-command-line.git -> https://github.com/herrbischoff/awesome-macos-command-line.git
 CloudEngineHub/awesome-mcp-clients[main]: https://github.com/CloudEngineHub/awesome-mcp-clients.git -> https://github.com/punkpeye/awesome-mcp-clients.git
 CloudEngineHub/awesome-mcp-servers[main]: https://github.com/CloudEngineHub/awesome-mcp-servers.git -> https://github.com/punkpeye/awesome-mcp-servers.git
+CloudEngineHub/awesome-mcp-servers-appcypher[main]: https://github.com/CloudEngineHub/awesome-mcp-servers-appcypher.git -> https://github.com/appcypher/awesome-mcp-servers.git
+CloudEngineHub/awesome-mcp-servers-wong2[main]: https://github.com/CloudEngineHub/awesome-mcp-servers-wong2.git -> https://github.com/wong2/awesome-mcp-servers.git
 CloudEngineHub/awesome-nodejs[main]: https://github.com/CloudEngineHub/awesome-nodejs.git -> https://github.com/sindresorhus/awesome-nodejs.git
 CloudEngineHub/awesome-openai-vision-api-experiments[main]: https://github.com/CloudEngineHub/awesome-openai-vision-api-experiments.git -> https://github.com/roboflow/awesome-openai-vision-api-experiments.git
 CloudEngineHub/awesome-programming-books[master]: https://github.com/CloudEngineHub/awesome-programming-books.git -> https://github.com/jobbole/awesome-programming-books.git
@@ -241,6 +244,7 @@ CloudEngineHub/beautiful-jekyll[master]: https://github.com/CloudEngineHub/beaut
 CloudEngineHub/Bend[main]: https://github.com/CloudEngineHub/Bend.git -> https://github.com/HigherOrderCO/Bend.git
 CloudEngineHub/Berkeley-Humanoid-Lite[main]: https://github.com/CloudEngineHub/Berkeley-Humanoid-Lite.git -> https://github.com/HybridRobotics/Berkeley-Humanoid-Lite.git
 CloudEngineHub/best-system-design-resources[main]: https://github.com/CloudEngineHub/best-system-design-resources.git -> https://github.com/armankhondker/best-system-design-resources.git
+CloudEngineHub/BettaFish[main]: https://github.com/CloudEngineHub/BettaFish.git -> https://github.com/666ghj/BettaFish.git
 CloudEngineHub/BEVSee[master]: https://github.com/CloudEngineHub/BEVSee.git -> https://github.com/zekunqian/BEVSee.git
 CloudEngineHub/Bidex_Manus_Teleop[main]: https://github.com/CloudEngineHub/Bidex_Manus_Teleop.git -> https://github.com/leap-hand/Bidex_Manus_Teleop.git
 CloudEngineHub/BigDataView[master]: https://github.com/CloudEngineHub/BigDataView.git -> https://github.com/iGaoWei/BigDataView.git
@@ -346,6 +350,7 @@ CloudEngineHub/cline[main]: https://github.com/CloudEngineHub/cline.git -> https
 CloudEngineHub/clinica[dev]: https://github.com/CloudEngineHub/clinica.git -> https://github.com/aramis-lab/clinica.git
 CloudEngineHub/CLIP[main]: https://github.com/CloudEngineHub/CLIP.git -> https://github.com/openai/CLIP.git
 CloudEngineHub/CLONE[main]: https://github.com/CloudEngineHub/CLONE.git -> https://github.com/humanoid-clone/CLONE.git
+CloudEngineHub/cloudflared[master]: https://github.com/CloudEngineHub/cloudflared.git -> https://github.com/cloudflare/cloudflared.git
 CloudEngineHub/CMake[master]: https://github.com/CloudEngineHub/CMake.git -> https://github.com/Kitware/CMake.git
 CloudEngineHub/cmake-examples[master]: https://github.com/CloudEngineHub/cmake-examples.git -> https://github.com/ttroy50/cmake-examples.git
 CloudEngineHub/cnn-explainer[master]: https://github.com/CloudEngineHub/cnn-explainer.git -> https://github.com/poloclub/cnn-explainer.git
@@ -656,6 +661,7 @@ CloudEngineHub/FastUMI_Data[main]: https://github.com/CloudEngineHub/FastUMI_Dat
 CloudEngineHub/FAST_LIO[main]: https://github.com/CloudEngineHub/FAST_LIO.git -> https://github.com/hku-mars/FAST_LIO.git
 CloudEngineHub/fault-tolerant-flight-control-drl[master]: https://github.com/CloudEngineHub/fault-tolerant-flight-control-drl.git -> https://github.com/kdally/fault-tolerant-flight-control-drl.git
 CloudEngineHub/fb.resnet.torch[master]: https://github.com/CloudEngineHub/fb.resnet.torch.git -> https://github.com/facebookarchive/fb.resnet.torch.git
+CloudEngineHub/fcl[master]: https://github.com/CloudEngineHub/fcl.git -> https://github.com/flexible-collision-library/fcl.git
 CloudEngineHub/fdm[main]: https://github.com/CloudEngineHub/fdm.git -> https://github.com/leggedrobotics/fdm.git
 CloudEngineHub/feeding-deployment[main]: https://github.com/CloudEngineHub/feeding-deployment.git -> https://github.com/empriselab/feeding-deployment.git
 CloudEngineHub/feel-the-force[main]: https://github.com/CloudEngineHub/feel-the-force.git -> https://github.com/feel-the-force-ftf/feel-the-force.git
@@ -954,6 +960,8 @@ CloudEngineHub/infini-attention[main]: https://github.com/CloudEngineHub/infini-
 CloudEngineHub/Infinite-Mobility[main]: https://github.com/CloudEngineHub/Infinite-Mobility.git -> https://github.com/InternRobotics/Infinite-Mobility.git
 CloudEngineHub/InfiniteYou[main]: https://github.com/CloudEngineHub/InfiniteYou.git -> https://github.com/bytedance/InfiniteYou.git
 CloudEngineHub/inkrss[main]: https://github.com/CloudEngineHub/inkrss.git -> https://github.com/pureink/inkrss.git
+CloudEngineHub/inlets-pro[master]: https://github.com/CloudEngineHub/inlets-pro.git -> https://github.com/inlets/inlets-pro.git
+CloudEngineHub/inletsctl[master]: https://github.com/CloudEngineHub/inletsctl.git -> https://github.com/inlets/inletsctl.git
 CloudEngineHub/insert-anything[main]: https://github.com/CloudEngineHub/insert-anything.git -> https://github.com/song-wensong/insert-anything.git
 CloudEngineHub/inspira-ui[main]: https://github.com/CloudEngineHub/inspira-ui.git -> https://github.com/unovue/inspira-ui.git
 CloudEngineHub/Instant4D[main]: https://github.com/CloudEngineHub/Instant4D.git -> https://github.com/Zhanpeng1202/Instant4D.git
@@ -1024,14 +1032,14 @@ CloudEngineHub/kit-app-template[main]: https://github.com/CloudEngineHub/kit-app
 CloudEngineHub/kit-extension-sample-airoomgenerator[main]: https://github.com/CloudEngineHub/kit-extension-sample-airoomgenerator.git -> https://github.com/gdixr/kit-extension-sample-airoomgenerator.git
 CloudEngineHub/kit-extension-sample-ui-scene[main]: https://github.com/CloudEngineHub/kit-extension-sample-ui-scene.git -> https://github.com/NVIDIA-Omniverse/kit-extension-sample-ui-scene.git
 CloudEngineHub/kit-extension-sample-ui-window[main]: https://github.com/CloudEngineHub/kit-extension-sample-ui-window.git -> https://github.com/NVIDIA-Omniverse/kit-extension-sample-ui-window.git
-CloudEngineHub/kit-extension-template[main]: https://github.com/CloudEngineHub/kit-extension-template.git -> https://github.com/xteo/kit-code-data.git
+CloudEngineHub/kit-extension-template[main]: https://github.com/CloudEngineHub/kit-extension-template.git -> https://github.com/novoselov-ab/kit-extension-template.git
 CloudEngineHub/kit-extension-template-cpp[main]: https://github.com/CloudEngineHub/kit-extension-template-cpp.git -> https://github.com/NVIDIA-Omniverse/kit-extension-template-cpp.git
 CloudEngineHub/kit-osc[main]: https://github.com/CloudEngineHub/kit-osc.git -> https://github.com/NVIDIA-Omniverse/kit-osc.git
 CloudEngineHub/kit-project-template[main]: https://github.com/CloudEngineHub/kit-project-template.git -> https://github.com/robiosim/kit-project-template-robio.git
 CloudEngineHub/KittenTTS[main]: https://github.com/CloudEngineHub/KittenTTS.git -> https://github.com/KittenML/KittenTTS.git
 CloudEngineHub/kkFileView[master]: https://github.com/CloudEngineHub/kkFileView.git -> https://github.com/kekingcn/kkFileView.git
 CloudEngineHub/Klampt[master]: https://github.com/CloudEngineHub/Klampt.git -> https://github.com/krishauser/Klampt.git
-CloudEngineHub/Kode[main]: https://github.com/CloudEngineHub/Kode.git -> https://github.com/shareAI-lab/Kode.git
+CloudEngineHub/Kode[main]: https://github.com/CloudEngineHub/Kode.git -> https://github.com/shareAI-lab/Kode-cli.git
 CloudEngineHub/KrillinAI[master]: https://github.com/CloudEngineHub/KrillinAI.git -> https://github.com/krillinai/KrillinAI.git
 CloudEngineHub/krita-ai-diffusion[main]: https://github.com/CloudEngineHub/krita-ai-diffusion.git -> https://github.com/Acly/krita-ai-diffusion.git
 CloudEngineHub/Kronos[master]: https://github.com/CloudEngineHub/Kronos.git -> https://github.com/shiyu-coder/Kronos.git
@@ -1128,6 +1136,7 @@ CloudEngineHub/loam_livox[master]: https://github.com/CloudEngineHub/loam_livox.
 CloudEngineHub/lobe-chat[main]: https://github.com/CloudEngineHub/lobe-chat.git -> https://github.com/lobehub/lobe-chat.git
 CloudEngineHub/LocalAI[master]: https://github.com/CloudEngineHub/LocalAI.git -> https://github.com/mudler/LocalAI.git
 CloudEngineHub/localsend[main]: https://github.com/CloudEngineHub/localsend.git -> https://github.com/localsend/localsend.git
+CloudEngineHub/localtunnel[master]: https://github.com/CloudEngineHub/localtunnel.git -> https://github.com/localtunnel/localtunnel.git
 CloudEngineHub/locate-3d[main]: https://github.com/CloudEngineHub/locate-3d.git -> https://github.com/facebookresearch/locate-3d.git
 CloudEngineHub/loco-mujoco[master]: https://github.com/CloudEngineHub/loco-mujoco.git -> https://github.com/robfiras/loco-mujoco.git
 CloudEngineHub/locotrack[main]: https://github.com/CloudEngineHub/locotrack.git -> https://github.com/cvlab-kaist/locotrack.git
@@ -1153,6 +1162,7 @@ CloudEngineHub/mace-models[master]: https://github.com/CloudEngineHub/mace-model
 CloudEngineHub/Machine-Learning-for-Beginner-by-Python3[master]: https://github.com/CloudEngineHub/Machine-Learning-for-Beginner-by-Python3.git -> https://github.com/Anfany/Machine-Learning-for-Beginner-by-Python3.git
 CloudEngineHub/mackup[master]: https://github.com/CloudEngineHub/mackup.git -> https://github.com/lra/mackup.git
 CloudEngineHub/macos[master]: https://github.com/CloudEngineHub/macos.git -> https://github.com/dockur/macos.git
+CloudEngineHub/macs-fan-control[master]: https://github.com/CloudEngineHub/macs-fan-control.git -> https://github.com/crystalidea/macs-fan-control.git
 CloudEngineHub/MAGI-1[main]: https://github.com/CloudEngineHub/MAGI-1.git -> https://github.com/SandAI-org/MAGI-1.git
 CloudEngineHub/magic[master]: https://github.com/CloudEngineHub/magic.git -> https://github.com/dtyq/magic.git
 CloudEngineHub/magic-mcp[main]: https://github.com/CloudEngineHub/magic-mcp.git -> https://github.com/21st-dev/magic-mcp.git
@@ -1380,6 +1390,7 @@ CloudEngineHub/newsnow[main]: https://github.com/CloudEngineHub/newsnow.git -> h
 CloudEngineHub/newton[main]: https://github.com/CloudEngineHub/newton.git -> https://github.com/newton-physics/newton.git
 CloudEngineHub/next.js[canary]: https://github.com/CloudEngineHub/next.js.git -> https://github.com/vercel/next.js.git
 CloudEngineHub/NextChat[main]: https://github.com/CloudEngineHub/NextChat.git -> https://github.com/ChatGPTNextWeb/NextChat.git
+CloudEngineHub/nextcloud-server[master]: https://github.com/CloudEngineHub/nextcloud-server.git -> https://github.com/nextcloud/server.git
 CloudEngineHub/Nexus-Gen[main]: https://github.com/CloudEngineHub/Nexus-Gen.git -> https://github.com/modelscope/Nexus-Gen.git
 CloudEngineHub/NexusGS[main]: https://github.com/CloudEngineHub/NexusGS.git -> https://github.com/USMizuki/NexusGS.git
 CloudEngineHub/NGD-SLAM[main]: https://github.com/CloudEngineHub/NGD-SLAM.git -> https://github.com/yuhaozhang7/NGD-SLAM.git
@@ -1469,6 +1480,7 @@ CloudEngineHub/Openloong-MiniGym[main]: https://github.com/CloudEngineHub/Openlo
 CloudEngineHub/Openloong-ROS[main]: https://github.com/CloudEngineHub/Openloong-ROS.git -> https://github.com/loongOpen/OpenLoong-ROS.git
 CloudEngineHub/OpenManus[main]: https://github.com/CloudEngineHub/OpenManus.git -> https://github.com/FoundationAgents/OpenManus.git
 CloudEngineHub/openmct[master]: https://github.com/CloudEngineHub/openmct.git -> https://github.com/nasa/openmct.git
+CloudEngineHub/openmediavault[master]: https://github.com/CloudEngineHub/openmediavault.git -> https://github.com/openmediavault/openmediavault.git
 CloudEngineHub/openpi[main]: https://github.com/CloudEngineHub/openpi.git -> https://github.com/Physical-Intelligence/openpi.git
 CloudEngineHub/openpilot[master]: https://github.com/CloudEngineHub/openpilot.git -> https://github.com/commaai/openpilot.git
 CloudEngineHub/OpenQDD-V1[main]: https://github.com/CloudEngineHub/OpenQDD-V1.git -> https://github.com/aaedmusa/OpenQDD-V1.git
@@ -1602,7 +1614,7 @@ CloudEngineHub/PPO-PyTorch[master]: https://github.com/CloudEngineHub/PPO-PyTorc
 CloudEngineHub/PRefLexOR[main]: https://github.com/CloudEngineHub/PRefLexOR.git -> https://github.com/lamm-mit/PRefLexOR.git
 CloudEngineHub/preserve-cd[master]: https://github.com/CloudEngineHub/preserve-cd.git -> https://github.com/skywind3000/preserve-cd.git
 CloudEngineHub/prettygraph[main]: https://github.com/CloudEngineHub/prettygraph.git -> https://github.com/yoheinakajima/prettygraph.git
-CloudEngineHub/prime[main]: https://github.com/CloudEngineHub/prime.git -> https://github.com/PrimeIntellect-ai/prime.git
+CloudEngineHub/prime[main]: https://github.com/CloudEngineHub/prime.git -> https://github.com/PrimeIntellect-ai/prime-diloco.git
 CloudEngineHub/primevue[master]: https://github.com/CloudEngineHub/primevue.git -> https://github.com/primefaces/primevue.git
 CloudEngineHub/priompt[main]: https://github.com/CloudEngineHub/priompt.git -> https://github.com/anysphere/priompt.git
 CloudEngineHub/prismatic-vlms[main]: https://github.com/CloudEngineHub/prismatic-vlms.git -> https://github.com/TRI-ML/prismatic-vlms.git
@@ -1840,6 +1852,7 @@ CloudEngineHub/screenshot-to-code[main]: https://github.com/CloudEngineHub/scree
 CloudEngineHub/sdk-examples[main]: https://github.com/CloudEngineHub/sdk-examples.git -> https://github.com/SpectacularAI/sdk-examples.git
 CloudEngineHub/SDS[master]: https://github.com/CloudEngineHub/SDS.git -> https://github.com/RPL-CS-UCL/SDS.git
 CloudEngineHub/SE2-equivariant-grasp-learning[main]: https://github.com/CloudEngineHub/SE2-equivariant-grasp-learning.git -> https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning.git
+CloudEngineHub/seafile[master]: https://github.com/CloudEngineHub/seafile.git -> https://github.com/haiwen/seafile.git
 CloudEngineHub/Security-101[main]: https://github.com/CloudEngineHub/Security-101.git -> https://github.com/microsoft/Security-101.git
 CloudEngineHub/See3D[master]: https://github.com/CloudEngineHub/See3D.git -> https://github.com/baaivision/See3D.git
 CloudEngineHub/seed_rl[master]: https://github.com/CloudEngineHub/seed_rl.git -> https://github.com/google-research/seed_rl.git
@@ -2014,6 +2027,7 @@ CloudEngineHub/tavily-python[master]: https://github.com/CloudEngineHub/tavily-p
 CloudEngineHub/tctip[master]: https://github.com/CloudEngineHub/tctip.git -> https://github.com/greedying/tctip.git
 CloudEngineHub/technical-whitepapers[master]: https://github.com/CloudEngineHub/technical-whitepapers.git -> https://github.com/trimstray/technical-whitepapers.git
 CloudEngineHub/TelegramSwift[master]: https://github.com/CloudEngineHub/TelegramSwift.git -> https://github.com/overtake/TelegramSwift.git
+CloudEngineHub/teleport[master]: https://github.com/CloudEngineHub/teleport.git -> https://github.com/gravitational/teleport.git
 CloudEngineHub/TeleVision[main]: https://github.com/CloudEngineHub/TeleVision.git -> https://github.com/OpenTeleVision/TeleVision.git
 CloudEngineHub/ten-framework[647-feature-hope-to-add-the-sensevoice-multilingual-voice-understanding-model]: https://github.com/CloudEngineHub/ten-framework.git -> https://github.com/TEN-framework/ten-framework.git
 CloudEngineHub/tensorflow[master]: https://github.com/CloudEngineHub/tensorflow.git -> https://github.com/tensorflow/tensorflow.git
@@ -2224,6 +2238,7 @@ CloudEngineHub/webots[master]: https://github.com/CloudEngineHub/webots.git -> h
 CloudEngineHub/webvm[main]: https://github.com/CloudEngineHub/webvm.git -> https://github.com/leaningtech/webvm.git
 CloudEngineHub/WebWalker[main]: https://github.com/CloudEngineHub/WebWalker.git -> https://github.com/Alibaba-NLP/DeepResearch.git
 CloudEngineHub/WeClone[master]: https://github.com/CloudEngineHub/WeClone.git -> https://github.com/xming521/WeClone.git
+CloudEngineHub/WheeledLab[main]: https://github.com/CloudEngineHub/WheeledLab.git -> https://github.com/UWRobotLearning/WheeledLab.git
 CloudEngineHub/whisper[main]: https://github.com/CloudEngineHub/whisper.git -> https://github.com/openai/whisper.git
 CloudEngineHub/Whisper-Input[main]: https://github.com/CloudEngineHub/Whisper-Input.git -> https://github.com/ErlichLiu/Whisper-Input.git
 CloudEngineHub/whisper-keyboard[main]: https://github.com/CloudEngineHub/whisper-keyboard.git -> https://github.com/vlad-ds/whisper-keyboard.git
