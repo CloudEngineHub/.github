@@ -96,6 +96,7 @@ CloudEngineHub/alive-progress[main]: https://github.com/CloudEngineHub/alive-pro
 CloudEngineHub/allinssl[1.0.1]: https://github.com/CloudEngineHub/allinssl.git -> https://github.com/allinssl/allinssl.git
 CloudEngineHub/alloy-voice-assistant[main]: https://github.com/CloudEngineHub/alloy-voice-assistant.git -> https://github.com/svpino/alloy-voice-assistant.git
 CloudEngineHub/aloha[main]: https://github.com/CloudEngineHub/aloha.git -> https://github.com/tonyzhaozh/aloha.git
+CloudEngineHub/AlohaMini[main]: https://github.com/CloudEngineHub/AlohaMini.git -> https://github.com/liyiteng/AlohaMini.git
 CloudEngineHub/alphadev[main]: https://github.com/CloudEngineHub/alphadev.git -> https://github.com/google-deepmind/alphadev.git
 CloudEngineHub/alphafold[main]: https://github.com/CloudEngineHub/alphafold.git -> https://github.com/google-deepmind/alphafold.git
 CloudEngineHub/alphafold3[main]: https://github.com/CloudEngineHub/alphafold3.git -> https://github.com/google-deepmind/alphafold3.git
@@ -331,6 +332,8 @@ CloudEngineHub/Chat2DB[main]: https://github.com/CloudEngineHub/Chat2DB.git -> h
 CloudEngineHub/chatbox[main]: https://github.com/CloudEngineHub/chatbox.git -> https://github.com/chatboxai/chatbox.git
 CloudEngineHub/ChatDev[main]: https://github.com/CloudEngineHub/ChatDev.git -> https://github.com/OpenBMB/ChatDev.git
 CloudEngineHub/ChatGLM-6B[main]: https://github.com/CloudEngineHub/ChatGLM-6B.git -> https://github.com/zai-org/ChatGLM-6B.git
+CloudEngineHub/ChatGLM2-6B[main]: https://github.com/CloudEngineHub/ChatGLM2-6B.git -> https://github.com/zai-org/ChatGLM2-6B.git
+CloudEngineHub/ChatGLM3[main]: https://github.com/CloudEngineHub/ChatGLM3.git -> https://github.com/zai-org/ChatGLM3.git
 CloudEngineHub/ChatGPT[main]: https://github.com/CloudEngineHub/ChatGPT.git -> https://github.com/acheong08/ChatGPT.git
 CloudEngineHub/chatgpt-advanced[main]: https://github.com/CloudEngineHub/chatgpt-advanced.git -> https://github.com/interstellard/chatgpt-advanced.git
 CloudEngineHub/ChatGPT-API-Faucet[main]: https://github.com/CloudEngineHub/ChatGPT-API-Faucet.git -> https://github.com/terobox/ChatGPT-API-Faucet.git
@@ -375,6 +378,7 @@ CloudEngineHub/code-review-gpt[main]: https://github.com/CloudEngineHub/code-rev
 CloudEngineHub/code-server[main]: https://github.com/CloudEngineHub/code-server.git -> https://github.com/coder/code-server.git
 CloudEngineHub/Code2Video[main]: https://github.com/CloudEngineHub/Code2Video.git -> https://github.com/showlab/Code2Video.git
 CloudEngineHub/CodeFormer[master]: https://github.com/CloudEngineHub/CodeFormer.git -> https://github.com/sczhou/CodeFormer.git
+CloudEngineHub/CodeGeeX[main]: https://github.com/CloudEngineHub/CodeGeeX.git -> https://github.com/zai-org/CodeGeeX.git
 CloudEngineHub/codellama[main]: https://github.com/CloudEngineHub/codellama.git -> https://github.com/meta-llama/codellama.git
 CloudEngineHub/codex[main]: https://github.com/CloudEngineHub/codex.git -> https://github.com/openai/codex.git
 CloudEngineHub/coding-interview-university[main]: https://github.com/CloudEngineHub/coding-interview-university.git -> https://github.com/jwasham/coding-interview-university.git
@@ -391,7 +395,7 @@ CloudEngineHub/coinbase-wallet-sdk[master]: https://github.com/CloudEngineHub/co
 CloudEngineHub/Collection_TianYa[main]: https://github.com/CloudEngineHub/Collection_TianYa.git -> https://github.com/als3453/Collection_TianYa.git
 CloudEngineHub/ColossalAI[main]: https://github.com/CloudEngineHub/ColossalAI.git -> https://github.com/hpcaitech/ColossalAI.git
 CloudEngineHub/comflowy[main]: https://github.com/CloudEngineHub/comflowy.git -> https://github.com/6174/comflowy.git
-CloudEngineHub/ComfyUI[master]: https://github.com/CloudEngineHub/ComfyUI.git -> https://github.com/comfyanonymous/ComfyUI.git
+CloudEngineHub/ComfyUI[master]: https://github.com/CloudEngineHub/ComfyUI.git -> https://github.com/Comfy-Org/ComfyUI.git
 CloudEngineHub/ComfyUI-AdvancedLivePortrait[main]: https://github.com/CloudEngineHub/ComfyUI-AdvancedLivePortrait.git -> https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait.git
 CloudEngineHub/Comfyui-Superprompt-Unofficial[main]: https://github.com/CloudEngineHub/Comfyui-Superprompt-Unofficial.git -> https://github.com/NeuralSamurAI/Comfyui-Superprompt-Unofficial.git
 CloudEngineHub/ComfyUI_Bxb[main]: https://github.com/CloudEngineHub/ComfyUI_Bxb.git -> https://github.com/zhulu111/ComfyUI_Bxb.git
@@ -497,7 +501,7 @@ CloudEngineHub/detectron2[main]: https://github.com/CloudEngineHub/detectron2.gi
 CloudEngineHub/developer-roadmap[develop]: https://github.com/CloudEngineHub/developer-roadmap.git -> https://github.com/kamranahmedse/developer-roadmap.git
 CloudEngineHub/devportfolio[master]: https://github.com/CloudEngineHub/devportfolio.git -> https://github.com/RyanFitzgerald/devportfolio.git
 CloudEngineHub/dex-net[master]: https://github.com/CloudEngineHub/dex-net.git -> https://github.com/BerkeleyAutomation/dex-net.git
-CloudEngineHub/dexbotic[main]: https://github.com/CloudEngineHub/dexbotic.git -> https://github.com/Dexmal/dexbotic.git
+CloudEngineHub/dexbotic[main]: https://github.com/CloudEngineHub/dexbotic.git -> https://github.com/dexmal/dexbotic.git
 CloudEngineHub/DexCap[main]: https://github.com/CloudEngineHub/DexCap.git -> https://github.com/j96w/DexCap.git
 CloudEngineHub/DexGraspNet[main]: https://github.com/CloudEngineHub/DexGraspNet.git -> https://github.com/PKU-EPIC/DexGraspNet.git
 CloudEngineHub/DexGraspNet2[main]: https://github.com/CloudEngineHub/DexGraspNet2.git -> https://github.com/PKU-EPIC/DexGraspNet2.git
@@ -607,7 +611,6 @@ CloudEngineHub/eFlesh[main]: https://github.com/CloudEngineHub/eFlesh.git -> htt
 CloudEngineHub/Ego-VCP[main]: https://github.com/CloudEngineHub/Ego-VCP.git -> https://github.com/HybridRobotics/Ego-VCP.git
 CloudEngineHub/egoallo[main]: https://github.com/CloudEngineHub/egoallo.git -> https://github.com/brentyi/egoallo.git
 CloudEngineHub/EgoX[main]: https://github.com/CloudEngineHub/EgoX.git -> https://github.com/DAVIAN-Robotics/EgoX.git
-CloudEngineHub/eKalibr[master]: https://github.com/CloudEngineHub/eKalibr.git -> https://github.com/Unsigned-Long/eKalibr.git
 CloudEngineHub/eko[main]: https://github.com/CloudEngineHub/eko.git -> https://github.com/FellouAI/eko.git
 CloudEngineHub/electerm[master]: https://github.com/CloudEngineHub/electerm.git -> https://github.com/electerm/electerm.git
 CloudEngineHub/electron[main]: https://github.com/CloudEngineHub/electron.git -> https://github.com/electron/electron.git
@@ -778,6 +781,7 @@ CloudEngineHub/fusion[main]: https://github.com/CloudEngineHub/fusion.git -> htt
 CloudEngineHub/G0[main]: https://github.com/CloudEngineHub/G0.git -> https://github.com/OpenGalaxea/GalaxeaVLA.git
 CloudEngineHub/g2o[master]: https://github.com/CloudEngineHub/g2o.git -> https://github.com/RainerKuemmerle/g2o.git
 CloudEngineHub/Gaga[main]: https://github.com/CloudEngineHub/Gaga.git -> https://github.com/weijielyu/Gaga.git
+CloudEngineHub/GalaxeaVLA[main]: https://github.com/CloudEngineHub/GalaxeaVLA.git -> https://github.com/OpenGalaxea/GalaxeaVLA.git
 CloudEngineHub/galaxy[main]: https://github.com/CloudEngineHub/galaxy.git -> https://github.com/uiverse-io/galaxy.git
 CloudEngineHub/GameFactory[main]: https://github.com/CloudEngineHub/GameFactory.git -> https://github.com/KlingTeam/GameFactory.git
 CloudEngineHub/ganlab[master]: https://github.com/CloudEngineHub/ganlab.git -> https://github.com/poloclub/ganlab.git
@@ -1757,6 +1761,7 @@ CloudEngineHub/reachy-sdk[main]: https://github.com/CloudEngineHub/reachy-sdk.gi
 CloudEngineHub/reachy2-sdk[develop]: https://github.com/CloudEngineHub/reachy2-sdk.git -> https://github.com/pollen-robotics/reachy2-sdk.git
 CloudEngineHub/Reachy2-UnityDigitalTwin[master]: https://github.com/CloudEngineHub/Reachy2-UnityDigitalTwin.git -> https://github.com/pollen-robotics/Reachy2-UnityDigitalTwin.git
 CloudEngineHub/reachy_2023[develop]: https://github.com/CloudEngineHub/reachy_2023.git -> https://github.com/pollen-robotics/reachy_2023.git
+CloudEngineHub/reachy_mini[develop]: https://github.com/CloudEngineHub/reachy_mini.git -> https://github.com/pollen-robotics/reachy_mini.git
 CloudEngineHub/react[main]: https://github.com/CloudEngineHub/react.git -> https://github.com/facebook/react.git
 CloudEngineHub/react-bits[main]: https://github.com/CloudEngineHub/react-bits.git -> https://github.com/DavidHDev/react-bits.git
 CloudEngineHub/react-native-windows[main]: https://github.com/CloudEngineHub/react-native-windows.git -> https://github.com/microsoft/react-native-windows.git
@@ -1812,7 +1817,7 @@ CloudEngineHub/Robo-ABC[main]: https://github.com/CloudEngineHub/Robo-ABC.git ->
 CloudEngineHub/robo2VLM[main]: https://github.com/CloudEngineHub/robo2VLM.git -> https://github.com/KeplerC/robo2VLM.git
 CloudEngineHub/roboagent[main]: https://github.com/CloudEngineHub/roboagent.git -> https://github.com/robopen/roboagent.git
 CloudEngineHub/RoboBrain[main]: https://github.com/CloudEngineHub/RoboBrain.git -> https://github.com/FlagOpen/RoboBrain.git
-CloudEngineHub/RoboBrain2.0[main]: https://github.com/CloudEngineHub/RoboBrain2.0.git -> https://github.com/FlagOpen/RoboBrain2.0.git
+CloudEngineHub/RoboBrain2.0[main]: https://github.com/CloudEngineHub/RoboBrain2.0.git -> https://github.com/FlagOpen/RoboBrain2.5.git
 CloudEngineHub/robocasa[main]: https://github.com/CloudEngineHub/robocasa.git -> https://github.com/robocasa/robocasa.git
 CloudEngineHub/robodex_vlm[main]: https://github.com/CloudEngineHub/robodex_vlm.git -> https://github.com/henryhcliu/robodex_vlm.git
 CloudEngineHub/robodreamer[main]: https://github.com/CloudEngineHub/robodreamer.git -> https://github.com/rainbow979/robodreamer.git
@@ -1841,6 +1846,7 @@ CloudEngineHub/robotics_transformer[master]: https://github.com/CloudEngineHub/r
 CloudEngineHub/robots[master]: https://github.com/CloudEngineHub/robots.git -> https://github.com/chvmp/robots.git
 CloudEngineHub/robots-pretrain-robots[main]: https://github.com/CloudEngineHub/robots-pretrain-robots.git -> https://github.com/luccachiang/robots-pretrain-robots.git
 CloudEngineHub/RoboTwin[main]: https://github.com/CloudEngineHub/RoboTwin.git -> https://github.com/RoboTwin-Platform/RoboTwin.git
+CloudEngineHub/robot_keyframe_kit[main]: https://github.com/CloudEngineHub/robot_keyframe_kit.git -> https://github.com/Stanford-TML/robot_keyframe_kit.git
 CloudEngineHub/RoboVerse[main]: https://github.com/CloudEngineHub/RoboVerse.git -> https://github.com/RoboVerseOrg/RoboVerse.git
 CloudEngineHub/RoboVLMs[main]: https://github.com/CloudEngineHub/RoboVLMs.git -> https://github.com/Robot-VLAs/RoboVLMs.git
 CloudEngineHub/RoBridge[main]: https://github.com/CloudEngineHub/RoBridge.git -> https://github.com/abliao/RoBridge.git
