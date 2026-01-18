@@ -250,6 +250,7 @@ CloudEngineHub/bark[main]: https://github.com/CloudEngineHub/bark.git -> https:/
 CloudEngineHub/baselines[master]: https://github.com/CloudEngineHub/baselines.git -> https://github.com/openai/baselines.git
 CloudEngineHub/Bayesian-Flow-Networks[main]: https://github.com/CloudEngineHub/Bayesian-Flow-Networks.git -> https://github.com/Algomancer/Bayesian-Flow-Networks.git
 CloudEngineHub/beautiful-jekyll[master]: https://github.com/CloudEngineHub/beautiful-jekyll.git -> https://github.com/daattali/beautiful-jekyll.git
+CloudEngineHub/Being-H0[main]: https://github.com/CloudEngineHub/Being-H0.git -> https://github.com/BeingBeyond/Being-H0.git
 CloudEngineHub/Bend[main]: https://github.com/CloudEngineHub/Bend.git -> https://github.com/HigherOrderCO/Bend.git
 CloudEngineHub/Berkeley-Humanoid-Lite[main]: https://github.com/CloudEngineHub/Berkeley-Humanoid-Lite.git -> https://github.com/HybridRobotics/Berkeley-Humanoid-Lite.git
 CloudEngineHub/best-system-design-resources[main]: https://github.com/CloudEngineHub/best-system-design-resources.git -> https://github.com/armankhondker/best-system-design-resources.git
@@ -450,6 +451,7 @@ CloudEngineHub/d2l-zh[master]: https://github.com/CloudEngineHub/d2l-zh.git -> h
 CloudEngineHub/D4RL[master]: https://github.com/CloudEngineHub/D4RL.git -> https://github.com/Farama-Foundation/D4RL.git
 CloudEngineHub/dagr[master]: https://github.com/CloudEngineHub/dagr.git -> https://github.com/uzh-rpg/dagr.git
 CloudEngineHub/daily-arXiv-ai-enhanced[main]: https://github.com/CloudEngineHub/daily-arXiv-ai-enhanced.git -> https://github.com/dw-dengwei/daily-arXiv-ai-enhanced.git
+CloudEngineHub/daily_stock_analysis[main]: https://github.com/CloudEngineHub/daily_stock_analysis.git -> https://github.com/ZhuLinsen/daily_stock_analysis.git
 CloudEngineHub/dairlib[main]: https://github.com/CloudEngineHub/dairlib.git -> https://github.com/DAIRLab/dairlib.git
 CloudEngineHub/darknet_ros[master]: https://github.com/CloudEngineHub/darknet_ros.git -> https://github.com/leggedrobotics/darknet_ros.git
 CloudEngineHub/dashy[master]: https://github.com/CloudEngineHub/dashy.git -> https://github.com/Lissy93/dashy.git
@@ -767,6 +769,7 @@ CloudEngineHub/free-python-games[master]: https://github.com/CloudEngineHub/free
 CloudEngineHub/free-science-books[master]: https://github.com/CloudEngineHub/free-science-books.git -> https://github.com/EbookFoundation/free-science-books.git
 CloudEngineHub/FreeAskInternet[main]: https://github.com/CloudEngineHub/FreeAskInternet.git -> https://github.com/nashsu/FreeAskInternet.git
 CloudEngineHub/freeCodeCamp[main]: https://github.com/CloudEngineHub/freeCodeCamp.git -> https://github.com/freeCodeCamp/freeCodeCamp.git
+CloudEngineHub/freemocap[main]: https://github.com/CloudEngineHub/freemocap.git -> https://github.com/freemocap/freemocap.git
 CloudEngineHub/freemodbus[master]: https://github.com/CloudEngineHub/freemodbus.git -> https://github.com/RT-Thread-packages/freemodbus.git
 CloudEngineHub/FreeRDP[master]: https://github.com/CloudEngineHub/FreeRDP.git -> https://github.com/FreeRDP/FreeRDP.git
 CloudEngineHub/FreeRTOS[main]: https://github.com/CloudEngineHub/FreeRTOS.git -> https://github.com/FreeRTOS/FreeRTOS.git
@@ -952,6 +955,7 @@ CloudEngineHub/humanoid-control[main]: https://github.com/CloudEngineHub/humanoi
 CloudEngineHub/humanoid-general-motion-tracking[master]: https://github.com/CloudEngineHub/humanoid-general-motion-tracking.git -> https://github.com/zixuan417/humanoid-general-motion-tracking.git
 CloudEngineHub/humanoid-gym[main]: https://github.com/CloudEngineHub/humanoid-gym.git -> https://github.com/roboterax/humanoid-gym.git
 CloudEngineHub/Humanoid-Occupancy[main]: https://github.com/CloudEngineHub/Humanoid-Occupancy.git -> https://github.com/Open-X-Humanoid/Humanoid-Occupancy.git
+CloudEngineHub/humanoid-policy-viewer[main]: https://github.com/CloudEngineHub/humanoid-policy-viewer.git -> https://github.com/Axellwppr/humanoid-policy-viewer.git
 CloudEngineHub/Humanoid-Teleoperation[main]: https://github.com/CloudEngineHub/Humanoid-Teleoperation.git -> https://github.com/YanjieZe/Humanoid-Teleoperation.git
 CloudEngineHub/humanplus[main]: https://github.com/CloudEngineHub/humanplus.git -> https://github.com/MarkFzp/humanplus.git
 CloudEngineHub/HumanSystemOptimization[main]: https://github.com/CloudEngineHub/HumanSystemOptimization.git -> https://github.com/zijie0/HumanSystemOptimization.git
@@ -981,6 +985,7 @@ CloudEngineHub/idkit-js[main]: https://github.com/CloudEngineHub/idkit-js.git ->
 CloudEngineHub/IDM-VTON[main]: https://github.com/CloudEngineHub/IDM-VTON.git -> https://github.com/yisol/IDM-VTON.git
 CloudEngineHub/iflow-cli[main]: https://github.com/CloudEngineHub/iflow-cli.git -> https://github.com/iflow-ai/iflow-cli.git
 CloudEngineHub/IgFold[main]: https://github.com/CloudEngineHub/IgFold.git -> https://github.com/Graylab/IgFold.git
+CloudEngineHub/iKalibr[master]: https://github.com/CloudEngineHub/iKalibr.git -> https://github.com/Unsigned-Long/iKalibr.git
 CloudEngineHub/IKFoM[main]: https://github.com/CloudEngineHub/IKFoM.git -> https://github.com/hku-mars/IKFoM.git
 CloudEngineHub/im2Flow2Act[main]: https://github.com/CloudEngineHub/im2Flow2Act.git -> https://github.com/real-stanford/im2Flow2Act.git
 CloudEngineHub/IMAGDressing[main]: https://github.com/CloudEngineHub/IMAGDressing.git -> https://github.com/muzishen/IMAGDressing.git
@@ -1221,7 +1226,7 @@ CloudEngineHub/maml_rl[master]: https://github.com/CloudEngineHub/maml_rl.git ->
 CloudEngineHub/MangaNinjia[main]: https://github.com/CloudEngineHub/MangaNinjia.git -> https://github.com/ali-vilab/MangaNinjia.git
 CloudEngineHub/manibox[main]: https://github.com/CloudEngineHub/manibox.git -> https://github.com/thkkk/manibox.git
 CloudEngineHub/ManiFlow_Policy[main]: https://github.com/CloudEngineHub/ManiFlow_Policy.git -> https://github.com/geyan21/ManiFlow_Policy.git
-CloudEngineHub/manim[main]: https://github.com/CloudEngineHub/manim.git -> https://github.com/leotrs/manim.git
+CloudEngineHub/manim[main]: https://github.com/CloudEngineHub/manim.git -> https://github.com/ManimCommunity/manim.git
 CloudEngineHub/manipgen[master]: https://github.com/CloudEngineHub/manipgen.git -> https://github.com/mihdalal/manipgen.git
 CloudEngineHub/ManipTrans[main]: https://github.com/CloudEngineHub/ManipTrans.git -> https://github.com/ManipTrans/ManipTrans.git
 CloudEngineHub/manipulate-anything[main]: https://github.com/CloudEngineHub/manipulate-anything.git -> https://github.com/Robot-MA/manipulate-anything.git
@@ -1314,7 +1319,7 @@ CloudEngineHub/MiniRAG[main]: https://github.com/CloudEngineHub/MiniRAG.git -> h
 CloudEngineHub/MiniRHex[main]: https://github.com/CloudEngineHub/MiniRHex.git -> https://github.com/robomechanics/MiniRHex.git
 CloudEngineHub/mink[main]: https://github.com/CloudEngineHub/mink.git -> https://github.com/kevinzakka/mink.git
 CloudEngineHub/MiroFlow[main]: https://github.com/CloudEngineHub/MiroFlow.git -> https://github.com/MiroMindAI/MiroFlow.git
-CloudEngineHub/MiroMind-M1[add-citation]: https://github.com/CloudEngineHub/MiroMind-M1.git -> https://github.com/MiroMindAI/MiroMind-M1.git
+CloudEngineHub/MiroMind-M1[add-citation]: https://github.com/CloudEngineHub/MiroMind-M1.git -> https://github.com/Stars1233/MiroMind-M1.git
 CloudEngineHub/MiroRL[main]: https://github.com/CloudEngineHub/MiroRL.git -> https://github.com/MiroMindAI/MiroRL.git
 CloudEngineHub/MiroThinker[main]: https://github.com/CloudEngineHub/MiroThinker.git -> https://github.com/MiroMindAI/MiroThinker.git
 CloudEngineHub/misaka26[main]: https://github.com/CloudEngineHub/misaka26.git -> https://github.com/straight-tamago/misaka26.git
@@ -1384,6 +1389,7 @@ CloudEngineHub/MotionCritic[main]: https://github.com/CloudEngineHub/MotionCriti
 CloudEngineHub/MotionPro[main]: https://github.com/CloudEngineHub/MotionPro.git -> https://github.com/HiDream-ai/MotionPro.git
 CloudEngineHub/motiontrans[main]: https://github.com/CloudEngineHub/motiontrans.git -> https://github.com/michaelyuancb/motiontrans.git
 CloudEngineHub/motiontrans-pi0[main]: https://github.com/CloudEngineHub/motiontrans-pi0.git -> https://github.com/michaelyuancb/motiontrans-pi0.git
+CloudEngineHub/motion_tracking[main]: https://github.com/CloudEngineHub/motion_tracking.git -> https://github.com/Axellwppr/motion_tracking.git
 CloudEngineHub/Motus[main]: https://github.com/CloudEngineHub/Motus.git -> https://github.com/thu-ml/Motus.git
 CloudEngineHub/moveit2_tutorials[main]: https://github.com/CloudEngineHub/moveit2_tutorials.git -> https://github.com/moveit/moveit2_tutorials.git
 CloudEngineHub/MPlib[main]: https://github.com/CloudEngineHub/MPlib.git -> https://github.com/haosulab/MPlib.git
@@ -1625,6 +1631,7 @@ CloudEngineHub/PDP[main]: https://github.com/CloudEngineHub/PDP.git -> https://g
 CloudEngineHub/PE3R[main]: https://github.com/CloudEngineHub/PE3R.git -> https://github.com/hujiecpp/PE3R.git
 CloudEngineHub/penrose[main]: https://github.com/CloudEngineHub/penrose.git -> https://github.com/penrose/penrose.git
 CloudEngineHub/Perplexica[master]: https://github.com/CloudEngineHub/Perplexica.git -> https://github.com/ItzCrazyKns/Perplexica.git
+CloudEngineHub/personal-security-checklist[master]: https://github.com/CloudEngineHub/personal-security-checklist.git -> https://github.com/Lissy93/personal-security-checklist.git
 CloudEngineHub/perspective[master]: https://github.com/CloudEngineHub/perspective.git -> https://github.com/perspective-dev/perspective.git
 CloudEngineHub/pgnd[main]: https://github.com/CloudEngineHub/pgnd.git -> https://github.com/kywind/pgnd.git
 CloudEngineHub/PHC[master]: https://github.com/CloudEngineHub/PHC.git -> https://github.com/ZhengyiLuo/PHC.git
@@ -1843,6 +1850,7 @@ CloudEngineHub/robotic-ultrasound-imaging[master]: https://github.com/CloudEngin
 CloudEngineHub/robotics-toolbox-python[master]: https://github.com/CloudEngineHub/robotics-toolbox-python.git -> https://github.com/petercorke/robotics-toolbox-python.git
 CloudEngineHub/RoboticsDiffusionTransformer[main]: https://github.com/CloudEngineHub/RoboticsDiffusionTransformer.git -> https://github.com/thu-ml/RoboticsDiffusionTransformer.git
 CloudEngineHub/robotics_transformer[master]: https://github.com/CloudEngineHub/robotics_transformer.git -> https://github.com/google-research/robotics_transformer.git
+CloudEngineHub/roboto_origin[main]: https://github.com/CloudEngineHub/roboto_origin.git -> https://github.com/Roboparty/roboto_origin.git
 CloudEngineHub/robots[master]: https://github.com/CloudEngineHub/robots.git -> https://github.com/chvmp/robots.git
 CloudEngineHub/robots-pretrain-robots[main]: https://github.com/CloudEngineHub/robots-pretrain-robots.git -> https://github.com/luccachiang/robots-pretrain-robots.git
 CloudEngineHub/RoboTwin[main]: https://github.com/CloudEngineHub/RoboTwin.git -> https://github.com/RoboTwin-Platform/RoboTwin.git
@@ -1980,6 +1988,7 @@ CloudEngineHub/siri-ultra[main]: https://github.com/CloudEngineHub/siri-ultra.gi
 CloudEngineHub/SiT[main]: https://github.com/CloudEngineHub/SiT.git -> https://github.com/willisma/SiT.git
 CloudEngineHub/SkillMimic[main]: https://github.com/CloudEngineHub/SkillMimic.git -> https://github.com/wyhuai/SkillMimic.git
 CloudEngineHub/skills[main]: https://github.com/CloudEngineHub/skills.git -> https://github.com/anthropics/skills.git
+CloudEngineHub/Skill_Seekers[development]: https://github.com/CloudEngineHub/Skill_Seekers.git -> https://github.com/yusufkaraaslan/Skill_Seekers.git
 CloudEngineHub/SkyReels-V1[main]: https://github.com/CloudEngineHub/SkyReels-V1.git -> https://github.com/SkyworkAI/SkyReels-V1.git
 CloudEngineHub/SkyThought[main]: https://github.com/CloudEngineHub/SkyThought.git -> https://github.com/NovaSky-AI/SkyThought.git
 CloudEngineHub/skyvern[main]: https://github.com/CloudEngineHub/skyvern.git -> https://github.com/Skyvern-AI/skyvern.git
