@@ -250,7 +250,7 @@ CloudEngineHub/bark[main]: https://github.com/CloudEngineHub/bark.git -> https:/
 CloudEngineHub/baselines[master]: https://github.com/CloudEngineHub/baselines.git -> https://github.com/openai/baselines.git
 CloudEngineHub/Bayesian-Flow-Networks[main]: https://github.com/CloudEngineHub/Bayesian-Flow-Networks.git -> https://github.com/Algomancer/Bayesian-Flow-Networks.git
 CloudEngineHub/beautiful-jekyll[master]: https://github.com/CloudEngineHub/beautiful-jekyll.git -> https://github.com/daattali/beautiful-jekyll.git
-CloudEngineHub/Being-H0[main]: https://github.com/CloudEngineHub/Being-H0.git -> https://github.com/BeingBeyond/Being-H0.git
+CloudEngineHub/Being-H0[main]: https://github.com/CloudEngineHub/Being-H0.git -> https://github.com/BeingBeyond/Being-H.git
 CloudEngineHub/Bend[main]: https://github.com/CloudEngineHub/Bend.git -> https://github.com/HigherOrderCO/Bend.git
 CloudEngineHub/Berkeley-Humanoid-Lite[main]: https://github.com/CloudEngineHub/Berkeley-Humanoid-Lite.git -> https://github.com/HybridRobotics/Berkeley-Humanoid-Lite.git
 CloudEngineHub/best-system-design-resources[main]: https://github.com/CloudEngineHub/best-system-design-resources.git -> https://github.com/armankhondker/best-system-design-resources.git
@@ -350,6 +350,7 @@ CloudEngineHub/Cheetah-Software[master]: https://github.com/CloudEngineHub/Cheet
 CloudEngineHub/cherry-studio[main]: https://github.com/CloudEngineHub/cherry-studio.git -> https://github.com/CherryHQ/cherry-studio.git
 CloudEngineHub/chezmoi[master]: https://github.com/CloudEngineHub/chezmoi.git -> https://github.com/twpayne/chezmoi.git
 CloudEngineHub/CHIEF[main]: https://github.com/CloudEngineHub/CHIEF.git -> https://github.com/hms-dbmi/CHIEF.git
+CloudEngineHub/CHILD[main]: https://github.com/CloudEngineHub/CHILD.git -> https://github.com/uiuckimlab/CHILD.git
 CloudEngineHub/ChinaTextbook[master]: https://github.com/CloudEngineHub/ChinaTextbook.git -> https://github.com/TapXWorld/ChinaTextbook.git
 CloudEngineHub/chinese-independent-developer[master]: https://github.com/CloudEngineHub/chinese-independent-developer.git -> https://github.com/1c7/chinese-independent-developer.git
 CloudEngineHub/ChopperBot[master]: https://github.com/CloudEngineHub/ChopperBot.git -> https://github.com/Geniusay/ChopperBot.git
@@ -622,6 +623,7 @@ CloudEngineHub/eliterobot[main]: https://github.com/CloudEngineHub/eliterobot.gi
 CloudEngineHub/Elite_Robots_CS_ROS2_Driver[main]: https://github.com/CloudEngineHub/Elite_Robots_CS_ROS2_Driver.git -> https://github.com/Elite-Robots/Elite_Robots_CS_ROS2_Driver.git
 CloudEngineHub/Elite_Robots_CS_SDK[main]: https://github.com/CloudEngineHub/Elite_Robots_CS_SDK.git -> https://github.com/Elite-Robots/Elite_Robots_CS_SDK.git
 CloudEngineHub/ell[main]: https://github.com/CloudEngineHub/ell.git -> https://github.com/MadcowD/ell.git
+CloudEngineHub/EmbodiChain[main]: https://github.com/CloudEngineHub/EmbodiChain.git -> https://github.com/DexForce/EmbodiChain.git
 CloudEngineHub/Embodied-AI-Guide[main]: https://github.com/CloudEngineHub/Embodied-AI-Guide.git -> https://github.com/TianxingChen/Embodied-AI-Guide.git
 CloudEngineHub/embodied-CoT[main]: https://github.com/CloudEngineHub/embodied-CoT.git -> https://github.com/MichalZawalski/embodied-CoT.git
 CloudEngineHub/Embodied-R1[main]: https://github.com/CloudEngineHub/Embodied-R1.git -> https://github.com/pickxiguapi/Embodied-R1.git
@@ -1282,7 +1284,7 @@ CloudEngineHub/metrics[master]: https://github.com/CloudEngineHub/metrics.git ->
 CloudEngineHub/mevita[master]: https://github.com/CloudEngineHub/mevita.git -> https://github.com/haraduka/mevita.git
 CloudEngineHub/MiaoYan[master]: https://github.com/CloudEngineHub/MiaoYan.git -> https://github.com/tw93/MiaoYan.git
 CloudEngineHub/mickey[main]: https://github.com/CloudEngineHub/mickey.git -> https://github.com/nianticlabs/mickey.git
-CloudEngineHub/micro[master]: https://github.com/CloudEngineHub/micro.git -> https://github.com/zyedidia/micro.git
+CloudEngineHub/micro[master]: https://github.com/CloudEngineHub/micro.git -> https://github.com/micro-editor/micro.git
 CloudEngineHub/micro-agent[main]: https://github.com/CloudEngineHub/micro-agent.git -> https://github.com/BuilderIO/micro-agent.git
 CloudEngineHub/Microsoft-Activation-Scripts[master]: https://github.com/CloudEngineHub/Microsoft-Activation-Scripts.git -> https://github.com/massgravel/Microsoft-Activation-Scripts.git
 CloudEngineHub/micro_ros_arduino[kilted]: https://github.com/CloudEngineHub/micro_ros_arduino.git -> https://github.com/micro-ROS/micro_ros_arduino.git
@@ -1855,6 +1857,7 @@ CloudEngineHub/robots[master]: https://github.com/CloudEngineHub/robots.git -> h
 CloudEngineHub/robots-pretrain-robots[main]: https://github.com/CloudEngineHub/robots-pretrain-robots.git -> https://github.com/luccachiang/robots-pretrain-robots.git
 CloudEngineHub/RoboTwin[main]: https://github.com/CloudEngineHub/RoboTwin.git -> https://github.com/RoboTwin-Platform/RoboTwin.git
 CloudEngineHub/robot_keyframe_kit[main]: https://github.com/CloudEngineHub/robot_keyframe_kit.git -> https://github.com/Stanford-TML/robot_keyframe_kit.git
+CloudEngineHub/robot_rl[main]: https://github.com/CloudEngineHub/robot_rl.git -> https://github.com/Zolkin1/robot_rl.git
 CloudEngineHub/RoboVerse[main]: https://github.com/CloudEngineHub/RoboVerse.git -> https://github.com/RoboVerseOrg/RoboVerse.git
 CloudEngineHub/RoboVLMs[main]: https://github.com/CloudEngineHub/RoboVLMs.git -> https://github.com/Robot-VLAs/RoboVLMs.git
 CloudEngineHub/RoBridge[main]: https://github.com/CloudEngineHub/RoBridge.git -> https://github.com/abliao/RoBridge.git
@@ -1986,6 +1989,7 @@ CloudEngineHub/SimpleVLA-RL[main]: https://github.com/CloudEngineHub/SimpleVLA-R
 CloudEngineHub/simulator[master]: https://github.com/CloudEngineHub/simulator.git -> https://github.com/lgsvl/simulator.git
 CloudEngineHub/siri-ultra[main]: https://github.com/CloudEngineHub/siri-ultra.git -> https://github.com/fatwang2/siri-ultra.git
 CloudEngineHub/SiT[main]: https://github.com/CloudEngineHub/SiT.git -> https://github.com/willisma/SiT.git
+CloudEngineHub/situation-monitor[main]: https://github.com/CloudEngineHub/situation-monitor.git -> https://github.com/hipcityreg/situation-monitor.git
 CloudEngineHub/SkillMimic[main]: https://github.com/CloudEngineHub/SkillMimic.git -> https://github.com/wyhuai/SkillMimic.git
 CloudEngineHub/skills[main]: https://github.com/CloudEngineHub/skills.git -> https://github.com/anthropics/skills.git
 CloudEngineHub/Skill_Seekers[development]: https://github.com/CloudEngineHub/Skill_Seekers.git -> https://github.com/yusufkaraaslan/Skill_Seekers.git
@@ -2000,13 +2004,14 @@ CloudEngineHub/slambook2[master]: https://github.com/CloudEngineHub/slambook2.gi
 CloudEngineHub/smolvlm-realtime-webcam[main]: https://github.com/CloudEngineHub/smolvlm-realtime-webcam.git -> https://github.com/ngxson/smolvlm-realtime-webcam.git
 CloudEngineHub/smooth-humanoid-locomotion[main]: https://github.com/CloudEngineHub/smooth-humanoid-locomotion.git -> https://github.com/zixuan417/smooth-humanoid-locomotion.git
 CloudEngineHub/smpl-rs[main]: https://github.com/CloudEngineHub/smpl-rs.git -> https://github.com/Meshcapade/smpl-rs.git
-CloudEngineHub/SMPLer-X[main]: https://github.com/CloudEngineHub/SMPLer-X.git -> https://github.com/SMPLCap/SMPLer-X.git
+CloudEngineHub/SMPLer-X[main]: https://github.com/CloudEngineHub/SMPLer-X.git -> https://github.com/MotrixLab/SMPLer-X.git
 CloudEngineHub/SMPLOlympics[master]: https://github.com/CloudEngineHub/SMPLOlympics.git -> https://github.com/SMPLOlympics/SMPLOlympics.git
 CloudEngineHub/SMPL_blender_addon[main]: https://github.com/CloudEngineHub/SMPL_blender_addon.git -> https://github.com/Meshcapade/SMPL_blender_addon.git
 CloudEngineHub/snk[main]: https://github.com/CloudEngineHub/snk.git -> https://github.com/Platane/snk.git
 CloudEngineHub/SO-ARM100[add_new_feetech_link]: https://github.com/CloudEngineHub/SO-ARM100.git -> https://github.com/TheRobotStudio/SO-ARM100.git
 CloudEngineHub/so-large-lm[main]: https://github.com/CloudEngineHub/so-large-lm.git -> https://github.com/datawhalechina/so-large-lm.git
 CloudEngineHub/soap[main]: https://github.com/CloudEngineHub/soap.git -> https://github.com/TingtingLiao/soap.git
+CloudEngineHub/social-analyzer[main]: https://github.com/CloudEngineHub/social-analyzer.git -> https://github.com/qeeqbox/social-analyzer.git
 CloudEngineHub/SOEM[master]: https://github.com/CloudEngineHub/SOEM.git -> https://github.com/OpenEtherCATsociety/SOEM.git
 CloudEngineHub/sofa[master]: https://github.com/CloudEngineHub/sofa.git -> https://github.com/sofa-framework/sofa.git
 CloudEngineHub/SoFar[main]: https://github.com/CloudEngineHub/SoFar.git -> https://github.com/qizekun/SoFar.git
@@ -2117,6 +2122,7 @@ CloudEngineHub/tavily-python[master]: https://github.com/CloudEngineHub/tavily-p
 CloudEngineHub/tctip[master]: https://github.com/CloudEngineHub/tctip.git -> https://github.com/greedying/tctip.git
 CloudEngineHub/technical-whitepapers[master]: https://github.com/CloudEngineHub/technical-whitepapers.git -> https://github.com/trimstray/technical-whitepapers.git
 CloudEngineHub/TelegramSwift[master]: https://github.com/CloudEngineHub/TelegramSwift.git -> https://github.com/overtake/TelegramSwift.git
+CloudEngineHub/TeleOpBench[main]: https://github.com/CloudEngineHub/TeleOpBench.git -> https://github.com/cyjdlhy/TeleOpBench.git
 CloudEngineHub/teleport[master]: https://github.com/CloudEngineHub/teleport.git -> https://github.com/gravitational/teleport.git
 CloudEngineHub/TeleVision[main]: https://github.com/CloudEngineHub/TeleVision.git -> https://github.com/OpenTeleVision/TeleVision.git
 CloudEngineHub/ten-framework[647-feature-hope-to-add-the-sensevoice-multilingual-voice-understanding-model]: https://github.com/CloudEngineHub/ten-framework.git -> https://github.com/TEN-framework/ten-framework.git
