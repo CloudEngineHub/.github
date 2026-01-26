@@ -364,6 +364,7 @@ CloudEngineHub/claude-code[main]: https://github.com/CloudEngineHub/claude-code.
 CloudEngineHub/claude-code-router[main]: https://github.com/CloudEngineHub/claude-code-router.git -> https://github.com/musistudio/claude-code-router.git
 CloudEngineHub/ClearerVoice-Studio[main]: https://github.com/CloudEngineHub/ClearerVoice-Studio.git -> https://github.com/modelscope/ClearerVoice-Studio.git
 CloudEngineHub/cli[trunk]: https://github.com/CloudEngineHub/cli.git -> https://github.com/cli/cli.git
+CloudEngineHub/Click-and-Traverse[main]: https://github.com/CloudEngineHub/Click-and-Traverse.git -> https://github.com/GalaxyGeneralRobotics/Click-and-Traverse.git
 CloudEngineHub/cline[main]: https://github.com/CloudEngineHub/cline.git -> https://github.com/cline/cline.git
 CloudEngineHub/clinica[dev]: https://github.com/CloudEngineHub/clinica.git -> https://github.com/aramis-lab/clinica.git
 CloudEngineHub/CLIP[main]: https://github.com/CloudEngineHub/CLIP.git -> https://github.com/openai/CLIP.git
@@ -385,7 +386,7 @@ CloudEngineHub/codellama[main]: https://github.com/CloudEngineHub/codellama.git 
 CloudEngineHub/codex[main]: https://github.com/CloudEngineHub/codex.git -> https://github.com/openai/codex.git
 CloudEngineHub/coding-interview-university[main]: https://github.com/CloudEngineHub/coding-interview-university.git -> https://github.com/jwasham/coding-interview-university.git
 CloudEngineHub/CodroidApi[main]: https://github.com/CloudEngineHub/CodroidApi.git -> https://github.com/Guybod/CodroidApi.git
-CloudEngineHub/cofounder[main]: https://github.com/CloudEngineHub/cofounder.git -> https://github.com/raidendotai/cofounder.git
+CloudEngineHub/cofounder[main]: https://github.com/CloudEngineHub/cofounder.git -> https://github.com/nraiden/cofounder.git
 CloudEngineHub/CogACT[main]: https://github.com/CloudEngineHub/CogACT.git -> https://github.com/microsoft/CogACT.git
 CloudEngineHub/CogAgent[main]: https://github.com/CloudEngineHub/CogAgent.git -> https://github.com/zai-org/CogAgent.git
 CloudEngineHub/CogVideo[main]: https://github.com/CloudEngineHub/CogVideo.git -> https://github.com/zai-org/CogVideo.git
@@ -651,6 +652,7 @@ CloudEngineHub/eurekaverse[main]: https://github.com/CloudEngineHub/eurekaverse.
 CloudEngineHub/Ev-DeblurVSR[main]: https://github.com/CloudEngineHub/Ev-DeblurVSR.git -> https://github.com/DachunKai/Ev-DeblurVSR.git
 CloudEngineHub/evals[main]: https://github.com/CloudEngineHub/evals.git -> https://github.com/openai/evals.git
 CloudEngineHub/everyone-can-use-english[main]: https://github.com/CloudEngineHub/everyone-can-use-english.git -> https://github.com/ZuodaoTech/everyone-can-use-english.git
+CloudEngineHub/everything-claude-code[main]: https://github.com/CloudEngineHub/everything-claude-code.git -> https://github.com/affaan-m/everything-claude-code.git
 CloudEngineHub/evla[main]: https://github.com/CloudEngineHub/evla.git -> https://github.com/kscalelabs/evla.git
 CloudEngineHub/evo2[main]: https://github.com/CloudEngineHub/evo2.git -> https://github.com/ArcInstitute/evo2.git
 CloudEngineHub/Evolutionary-Algorithm[master]: https://github.com/CloudEngineHub/Evolutionary-Algorithm.git -> https://github.com/MorvanZhou/Evolutionary-Algorithm.git
@@ -1386,6 +1388,7 @@ CloudEngineHub/morphology-adaptive[main]: https://github.com/CloudEngineHub/morp
 CloudEngineHub/morse-transmitter[main]: https://github.com/CloudEngineHub/morse-transmitter.git -> https://github.com/sime/morse-transmitter.git
 CloudEngineHub/motif[main]: https://github.com/CloudEngineHub/motif.git -> https://github.com/Minyoung1005/motif.git
 CloudEngineHub/motion[main]: https://github.com/CloudEngineHub/motion.git -> https://github.com/motiondivision/motion.git
+CloudEngineHub/motion-tracker[main]: https://github.com/CloudEngineHub/motion-tracker.git -> https://github.com/MindDock/motion-tracker.git
 CloudEngineHub/MotionClone[main]: https://github.com/CloudEngineHub/MotionClone.git -> https://github.com/LPengYang/MotionClone.git
 CloudEngineHub/MotionCritic[main]: https://github.com/CloudEngineHub/MotionCritic.git -> https://github.com/ou524u/MotionCritic.git
 CloudEngineHub/MotionPro[main]: https://github.com/CloudEngineHub/MotionPro.git -> https://github.com/HiDream-ai/MotionPro.git
