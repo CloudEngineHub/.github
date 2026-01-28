@@ -427,6 +427,7 @@ CloudEngineHub/core[dev]: https://github.com/CloudEngineHub/core.git -> https://
 CloudEngineHub/corenet[main]: https://github.com/CloudEngineHub/corenet.git -> https://github.com/apple/corenet.git
 CloudEngineHub/Cork[main]: https://github.com/CloudEngineHub/Cork.git -> https://github.com/buresdv/Cork.git
 CloudEngineHub/Cosmos[main]: https://github.com/CloudEngineHub/Cosmos.git -> https://github.com/NVIDIA/Cosmos.git
+CloudEngineHub/cosmos-policy[main]: https://github.com/CloudEngineHub/cosmos-policy.git -> https://github.com/NVlabs/cosmos-policy.git
 CloudEngineHub/CosyVoice[main]: https://github.com/CloudEngineHub/CosyVoice.git -> https://github.com/FunAudioLLM/CosyVoice.git
 CloudEngineHub/coze-discord-proxy[main]: https://github.com/CloudEngineHub/coze-discord-proxy.git -> https://github.com/deanxv/coze-discord-proxy.git
 CloudEngineHub/Cradle[main]: https://github.com/CloudEngineHub/Cradle.git -> https://github.com/BAAI-Agents/Cradle.git
@@ -614,6 +615,8 @@ CloudEngineHub/EfficientTAM[main]: https://github.com/CloudEngineHub/EfficientTA
 CloudEngineHub/eFlesh[main]: https://github.com/CloudEngineHub/eFlesh.git -> https://github.com/notvenky/eFlesh.git
 CloudEngineHub/Ego-VCP[main]: https://github.com/CloudEngineHub/Ego-VCP.git -> https://github.com/HybridRobotics/Ego-VCP.git
 CloudEngineHub/egoallo[main]: https://github.com/CloudEngineHub/egoallo.git -> https://github.com/brentyi/egoallo.git
+CloudEngineHub/EgoMimic[main]: https://github.com/CloudEngineHub/EgoMimic.git -> https://github.com/SimarKareer/EgoMimic.git
+CloudEngineHub/EgoMimic-Eve[main]: https://github.com/CloudEngineHub/EgoMimic-Eve.git -> https://github.com/SimarKareer/EgoMimic-Eve.git
 CloudEngineHub/EgoX[main]: https://github.com/CloudEngineHub/EgoX.git -> https://github.com/DAVIAN-Robotics/EgoX.git
 CloudEngineHub/eko[main]: https://github.com/CloudEngineHub/eko.git -> https://github.com/FellouAI/eko.git
 CloudEngineHub/electerm[master]: https://github.com/CloudEngineHub/electerm.git -> https://github.com/electerm/electerm.git
@@ -1017,6 +1020,7 @@ CloudEngineHub/Internal-Cycloidal-Actuator[main]: https://github.com/CloudEngine
 CloudEngineHub/InternScenes[main]: https://github.com/CloudEngineHub/InternScenes.git -> https://github.com/InternRobotics/InternScenes.git
 CloudEngineHub/InternVideo[main]: https://github.com/CloudEngineHub/InternVideo.git -> https://github.com/OpenGVLab/InternVideo.git
 CloudEngineHub/InternVL[main]: https://github.com/CloudEngineHub/InternVL.git -> https://github.com/OpenGVLab/InternVL.git
+CloudEngineHub/InternVLA-A1[master]: https://github.com/CloudEngineHub/InternVLA-A1.git -> https://github.com/InternRobotics/InternVLA-A1.git
 CloudEngineHub/IntPhys2[main]: https://github.com/CloudEngineHub/IntPhys2.git -> https://github.com/facebookresearch/IntPhys2.git
 CloudEngineHub/IoT-For-Beginners[main]: https://github.com/CloudEngineHub/IoT-For-Beginners.git -> https://github.com/microsoft/IoT-For-Beginners.git
 CloudEngineHub/irreader[master]: https://github.com/CloudEngineHub/irreader.git -> https://github.com/huoxingdeguoguo/irreader.git
@@ -1099,6 +1103,7 @@ CloudEngineHub/ktransformers[main]: https://github.com/CloudEngineHub/ktransform
 CloudEngineHub/kungfu[main]: https://github.com/CloudEngineHub/kungfu.git -> https://github.com/kungfu-origin/kungfu.git
 CloudEngineHub/kuzu[master]: https://github.com/CloudEngineHub/kuzu.git -> https://github.com/kuzudb/kuzu.git
 CloudEngineHub/labelme[main]: https://github.com/CloudEngineHub/labelme.git -> https://github.com/wkentaro/labelme.git
+CloudEngineHub/LagMemo[main]: https://github.com/CloudEngineHub/LagMemo.git -> https://github.com/weekgoodday/LagMemo.git
 CloudEngineHub/LAM[master]: https://github.com/CloudEngineHub/LAM.git -> https://github.com/aigc3d/LAM.git
 CloudEngineHub/LaMMA-P[main]: https://github.com/CloudEngineHub/LaMMA-P.git -> https://github.com/tasl-lab/LaMMA-P.git
 CloudEngineHub/LangBot[master]: https://github.com/CloudEngineHub/LangBot.git -> https://github.com/langbot-app/LangBot.git
@@ -1145,6 +1150,7 @@ CloudEngineHub/librepods[main]: https://github.com/CloudEngineHub/librepods.git 
 CloudEngineHub/lifelike-agility-and-play[master]: https://github.com/CloudEngineHub/lifelike-agility-and-play.git -> https://github.com/Tencent-RoboticsX/lifelike-agility-and-play.git
 CloudEngineHub/Light-A-Video[main]: https://github.com/CloudEngineHub/Light-A-Video.git -> https://github.com/bcmi/Light-A-Video.git
 CloudEngineHub/lima[master]: https://github.com/CloudEngineHub/lima.git -> https://github.com/lima-vm/lima.git
+CloudEngineHub/lingbot-vla[main]: https://github.com/CloudEngineHub/lingbot-vla.git -> https://github.com/Robbyant/lingbot-vla.git
 CloudEngineHub/linux[master]: https://github.com/CloudEngineHub/linux.git -> https://github.com/torvalds/linux.git
 CloudEngineHub/LinuxMirrors[main]: https://github.com/CloudEngineHub/LinuxMirrors.git -> https://github.com/SuperManito/LinuxMirrors.git
 CloudEngineHub/LIO-SAM[master]: https://github.com/CloudEngineHub/LIO-SAM.git -> https://github.com/TixiaoShan/LIO-SAM.git
@@ -1185,7 +1191,7 @@ CloudEngineHub/llm_aided_ocr[main]: https://github.com/CloudEngineHub/llm_aided_
 CloudEngineHub/LLocalSearch[main]: https://github.com/CloudEngineHub/LLocalSearch.git -> https://github.com/nilsherzig/LLocalSearch.git
 CloudEngineHub/loam_back_and_forth[master]: https://github.com/CloudEngineHub/loam_back_and_forth.git -> https://github.com/dani-carbonell/loam_back_and_forth.git
 CloudEngineHub/loam_livox[master]: https://github.com/CloudEngineHub/loam_livox.git -> https://github.com/hku-mars/loam_livox.git
-CloudEngineHub/lobe-chat[main]: https://github.com/CloudEngineHub/lobe-chat.git -> https://github.com/lobehub/lobe-chat.git
+CloudEngineHub/lobe-chat[main]: https://github.com/CloudEngineHub/lobe-chat.git -> https://github.com/lobehub/lobehub.git
 CloudEngineHub/LocalAI[master]: https://github.com/CloudEngineHub/LocalAI.git -> https://github.com/mudler/LocalAI.git
 CloudEngineHub/localsend[main]: https://github.com/CloudEngineHub/localsend.git -> https://github.com/localsend/localsend.git
 CloudEngineHub/localtunnel[master]: https://github.com/CloudEngineHub/localtunnel.git -> https://github.com/localtunnel/localtunnel.git
@@ -1369,6 +1375,7 @@ CloudEngineHub/MoE-LLaVA[main]: https://github.com/CloudEngineHub/MoE-LLaVA.git 
 CloudEngineHub/MoGe[main]: https://github.com/CloudEngineHub/MoGe.git -> https://github.com/microsoft/MoGe.git
 CloudEngineHub/molmo[main]: https://github.com/CloudEngineHub/molmo.git -> https://github.com/allenai/molmo.git
 CloudEngineHub/MolmoAct[main]: https://github.com/CloudEngineHub/MolmoAct.git -> https://github.com/allenai/molmoact.git
+CloudEngineHub/moltbot[main]: https://github.com/CloudEngineHub/moltbot.git -> https://github.com/moltbot/moltbot.git
 CloudEngineHub/MoMaGen[main]: https://github.com/CloudEngineHub/MoMaGen.git -> https://github.com/ChengshuLi/MoMaGen.git
 CloudEngineHub/momask-codes[main]: https://github.com/CloudEngineHub/momask-codes.git -> https://github.com/EricGuo5513/momask-codes.git
 CloudEngineHub/MoneyPrinterTurbo[main]: https://github.com/CloudEngineHub/MoneyPrinterTurbo.git -> https://github.com/harry0703/MoneyPrinterTurbo.git
@@ -1437,6 +1444,7 @@ CloudEngineHub/nb[master]: https://github.com/CloudEngineHub/nb.git -> https://g
 CloudEngineHub/NeMo[main]: https://github.com/CloudEngineHub/NeMo.git -> https://github.com/NVIDIA-NeMo/NeMo.git
 CloudEngineHub/NeMo-Framework-Launcher[main]: https://github.com/CloudEngineHub/NeMo-Framework-Launcher.git -> https://github.com/NVIDIA/NeMo-Framework-Launcher.git
 CloudEngineHub/NEO[main]: https://github.com/CloudEngineHub/NEO.git -> https://github.com/EvolvingLMMs-Lab/NEO.git
+CloudEngineHub/NeoVerse[main]: https://github.com/CloudEngineHub/NeoVerse.git -> https://github.com/IamCreateAI/NeoVerse.git
 CloudEngineHub/neovim[master]: https://github.com/CloudEngineHub/neovim.git -> https://github.com/neovim/neovim.git
 CloudEngineHub/nerf[master]: https://github.com/CloudEngineHub/nerf.git -> https://github.com/bmild/nerf.git
 CloudEngineHub/netbird[main]: https://github.com/CloudEngineHub/netbird.git -> https://github.com/netbirdio/netbird.git
@@ -1525,6 +1533,8 @@ CloudEngineHub/openai-cs-agents-demo[main]: https://github.com/CloudEngineHub/op
 CloudEngineHub/openai-python[main]: https://github.com/CloudEngineHub/openai-python.git -> https://github.com/openai/openai-python.git
 CloudEngineHub/openai-realtime-agents[main]: https://github.com/CloudEngineHub/openai-realtime-agents.git -> https://github.com/openai/openai-realtime-agents.git
 CloudEngineHub/OpenArm[main]: https://github.com/CloudEngineHub/OpenArm.git -> https://github.com/enactic/openarm.git
+CloudEngineHub/openarm_can[main]: https://github.com/CloudEngineHub/openarm_can.git -> https://github.com/enactic/openarm_can.git
+CloudEngineHub/openarm_description[main]: https://github.com/CloudEngineHub/openarm_description.git -> https://github.com/enactic/openarm_description.git
 CloudEngineHub/openarm_ros2[main]: https://github.com/CloudEngineHub/openarm_ros2.git -> https://github.com/enactic/openarm_ros2.git
 CloudEngineHub/OpenBB[develop]: https://github.com/CloudEngineHub/OpenBB.git -> https://github.com/OpenBB-finance/OpenBB.git
 CloudEngineHub/opencode[dev]: https://github.com/CloudEngineHub/opencode.git -> https://github.com/anomalyco/opencode.git
@@ -1670,6 +1680,7 @@ CloudEngineHub/PocketFlow[main]: https://github.com/CloudEngineHub/PocketFlow.gi
 CloudEngineHub/podman[main]: https://github.com/CloudEngineHub/podman.git -> https://github.com/containers/podman.git
 CloudEngineHub/PointLLM[master]: https://github.com/CloudEngineHub/PointLLM.git -> https://github.com/InternRobotics/PointLLM.git
 CloudEngineHub/PointObjRep[main]: https://github.com/CloudEngineHub/PointObjRep.git -> https://github.com/neuralsvcd/PointObjRep.git
+CloudEngineHub/PointWorld[main]: https://github.com/CloudEngineHub/PointWorld.git -> https://github.com/huangwl18/PointWorld.git
 CloudEngineHub/polaris[main]: https://github.com/CloudEngineHub/polaris.git -> https://github.com/arhanjain/polaris.git
 CloudEngineHub/policyconsensus[main]: https://github.com/CloudEngineHub/policyconsensus.git -> https://github.com/policyconsensus/policyconsensus.git
 CloudEngineHub/poppy-humanoid[master]: https://github.com/CloudEngineHub/poppy-humanoid.git -> https://github.com/poppy-project/poppy-humanoid.git
@@ -1786,6 +1797,7 @@ CloudEngineHub/Realtime_Multi-Person_Pose_Estimation[master]: https://github.com
 CloudEngineHub/ReasonFlux[main]: https://github.com/CloudEngineHub/ReasonFlux.git -> https://github.com/Gen-Verse/ReasonFlux.git
 CloudEngineHub/ReazonSpeech[master]: https://github.com/CloudEngineHub/ReazonSpeech.git -> https://github.com/reazon-research/ReazonSpeech.git
 CloudEngineHub/recastnavigation[main]: https://github.com/CloudEngineHub/recastnavigation.git -> https://github.com/recastnavigation/recastnavigation.git
+CloudEngineHub/ReconVLA[main]: https://github.com/CloudEngineHub/ReconVLA.git -> https://github.com/OpenHelix-Team/ReconVLA.git
 CloudEngineHub/Recurrent-VLN-BERT[main]: https://github.com/CloudEngineHub/Recurrent-VLN-BERT.git -> https://github.com/YicongHong/Recurrent-VLN-BERT.git
 CloudEngineHub/reddit[master]: https://github.com/CloudEngineHub/reddit.git -> https://github.com/reddit-archive/reddit.git
 CloudEngineHub/RedditOS[master]: https://github.com/CloudEngineHub/RedditOS.git -> https://github.com/Dimillian/RedditOS.git
@@ -1805,6 +1817,7 @@ CloudEngineHub/REPA[main]: https://github.com/CloudEngineHub/REPA.git -> https:/
 CloudEngineHub/RepoStats[main]: https://github.com/CloudEngineHub/RepoStats.git -> https://github.com/barats/RepoStats.git
 CloudEngineHub/rerun[main]: https://github.com/CloudEngineHub/rerun.git -> https://github.com/rerun-io/rerun.git
 CloudEngineHub/res-downloader[master]: https://github.com/CloudEngineHub/res-downloader.git -> https://github.com/putyy/res-downloader.git
+CloudEngineHub/residual-offpolicy-rl[main]: https://github.com/CloudEngineHub/residual-offpolicy-rl.git -> https://github.com/amazon-far/residual-offpolicy-rl.git
 CloudEngineHub/ResNet[master]: https://github.com/CloudEngineHub/ResNet.git -> https://github.com/tornadomeet/ResNet.git
 CloudEngineHub/ResnetGPT[master]: https://github.com/CloudEngineHub/ResnetGPT.git -> https://github.com/FengQuanLi/ResnetGPT.git
 CloudEngineHub/retro[master]: https://github.com/CloudEngineHub/retro.git -> https://github.com/openai/retro.git
@@ -2268,7 +2281,7 @@ CloudEngineHub/v2ray-plugin[master]: https://github.com/CloudEngineHub/v2ray-plu
 CloudEngineHub/vanna[main]: https://github.com/CloudEngineHub/vanna.git -> https://github.com/vanna-ai/vanna.git
 CloudEngineHub/VAR[main]: https://github.com/CloudEngineHub/VAR.git -> https://github.com/FoundationVision/VAR.git
 CloudEngineHub/Verba[main]: https://github.com/CloudEngineHub/Verba.git -> https://github.com/weaviate/Verba.git
-CloudEngineHub/verl[main]: https://github.com/CloudEngineHub/verl.git -> https://github.com/volcengine/verl.git
+CloudEngineHub/verl[main]: https://github.com/CloudEngineHub/verl.git -> https://github.com/verl-project/verl.git
 CloudEngineHub/verl-agent[master]: https://github.com/CloudEngineHub/verl-agent.git -> https://github.com/langfengQ/verl-agent.git
 CloudEngineHub/vertexai-cf-workers[main]: https://github.com/CloudEngineHub/vertexai-cf-workers.git -> https://github.com/cg-dot/vertexai-cf-workers.git
 CloudEngineHub/vggt[main]: https://github.com/CloudEngineHub/vggt.git -> https://github.com/facebookresearch/vggt.git
