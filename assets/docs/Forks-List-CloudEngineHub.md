@@ -1375,7 +1375,7 @@ CloudEngineHub/MoE-LLaVA[main]: https://github.com/CloudEngineHub/MoE-LLaVA.git 
 CloudEngineHub/MoGe[main]: https://github.com/CloudEngineHub/MoGe.git -> https://github.com/microsoft/MoGe.git
 CloudEngineHub/molmo[main]: https://github.com/CloudEngineHub/molmo.git -> https://github.com/allenai/molmo.git
 CloudEngineHub/MolmoAct[main]: https://github.com/CloudEngineHub/MolmoAct.git -> https://github.com/allenai/molmoact.git
-CloudEngineHub/moltbot[main]: https://github.com/CloudEngineHub/moltbot.git -> https://github.com/moltbot/moltbot.git
+CloudEngineHub/moltbot[main]: https://github.com/CloudEngineHub/moltbot.git -> https://github.com/openclaw/openclaw.git
 CloudEngineHub/MoMaGen[main]: https://github.com/CloudEngineHub/MoMaGen.git -> https://github.com/ChengshuLi/MoMaGen.git
 CloudEngineHub/momask-codes[main]: https://github.com/CloudEngineHub/momask-codes.git -> https://github.com/EricGuo5513/momask-codes.git
 CloudEngineHub/MoneyPrinterTurbo[main]: https://github.com/CloudEngineHub/MoneyPrinterTurbo.git -> https://github.com/harry0703/MoneyPrinterTurbo.git
@@ -1439,6 +1439,7 @@ CloudEngineHub/NanoLLM[main]: https://github.com/CloudEngineHub/NanoLLM.git -> h
 CloudEngineHub/napkins[main]: https://github.com/CloudEngineHub/napkins.git -> https://github.com/Nutlope/napkins.git
 CloudEngineHub/NarratoAI[main]: https://github.com/CloudEngineHub/NarratoAI.git -> https://github.com/linyqh/NarratoAI.git
 CloudEngineHub/NativeOverleaf[main]: https://github.com/CloudEngineHub/NativeOverleaf.git -> https://github.com/fjwillemsen/NativeOverleaf.git
+CloudEngineHub/NavDP[master]: https://github.com/CloudEngineHub/NavDP.git -> https://github.com/InternRobotics/NavDP.git
 CloudEngineHub/navigation2[main]: https://github.com/CloudEngineHub/navigation2.git -> https://github.com/ros-navigation/navigation2.git
 CloudEngineHub/nb[master]: https://github.com/CloudEngineHub/nb.git -> https://github.com/xwmx/nb.git
 CloudEngineHub/NeMo[main]: https://github.com/CloudEngineHub/NeMo.git -> https://github.com/NVIDIA-NeMo/NeMo.git
@@ -2307,6 +2308,7 @@ CloudEngineHub/VINS-Mobile[master]: https://github.com/CloudEngineHub/VINS-Mobil
 CloudEngineHub/VINS-Mono[master]: https://github.com/CloudEngineHub/VINS-Mono.git -> https://github.com/HKUST-Aerial-Robotics/VINS-Mono.git
 CloudEngineHub/vipe[main]: https://github.com/CloudEngineHub/vipe.git -> https://github.com/nv-tlabs/vipe.git
 CloudEngineHub/viser[main]: https://github.com/CloudEngineHub/viser.git -> https://github.com/nerfstudio-project/viser.git
+CloudEngineHub/Vision-Agents[main]: https://github.com/CloudEngineHub/Vision-Agents.git -> https://github.com/GetStream/Vision-Agents.git
 CloudEngineHub/vision-in-action[main]: https://github.com/CloudEngineHub/vision-in-action.git -> https://github.com/haoyu-x/vision-in-action.git
 CloudEngineHub/VisionProTeleop[main]: https://github.com/CloudEngineHub/VisionProTeleop.git -> https://github.com/Improbable-AI/VisionProTeleop.git
 CloudEngineHub/Vision_Force_Estimation[main]: https://github.com/CloudEngineHub/Vision_Force_Estimation.git -> https://github.com/ZXP-S-works/Vision_Force_Estimation.git
