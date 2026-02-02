@@ -183,7 +183,7 @@ CloudEngineHub/awesome-ai4s[master]: https://github.com/CloudEngineHub/awesome-a
 CloudEngineHub/awesome-bfm-papers[main]: https://github.com/CloudEngineHub/awesome-bfm-papers.git -> https://github.com/myismyname/awesome-bfm-papers.git
 CloudEngineHub/awesome-blockchain-cn[master]: https://github.com/CloudEngineHub/awesome-blockchain-cn.git -> https://github.com/chaozh/awesome-blockchain-cn.git
 CloudEngineHub/awesome-chatgpt[main]: https://github.com/CloudEngineHub/awesome-chatgpt.git -> https://github.com/sindresorhus/awesome-chatgpt.git
-CloudEngineHub/awesome-chatgpt-prompts[main]: https://github.com/CloudEngineHub/awesome-chatgpt-prompts.git -> https://github.com/f/awesome-chatgpt-prompts.git
+CloudEngineHub/awesome-chatgpt-prompts[main]: https://github.com/CloudEngineHub/awesome-chatgpt-prompts.git -> https://github.com/f/prompts.chat.git
 CloudEngineHub/Awesome-Chinese-LLM[main]: https://github.com/CloudEngineHub/Awesome-Chinese-LLM.git -> https://github.com/HqWu-HITCS/Awesome-Chinese-LLM.git
 CloudEngineHub/awesome-cloud-robotics[main]: https://github.com/CloudEngineHub/awesome-cloud-robotics.git -> https://github.com/KeplerC/awesome-cloud-robotics.git
 CloudEngineHub/awesome-collision-detection[master]: https://github.com/CloudEngineHub/awesome-collision-detection.git -> https://github.com/jslee02/awesome-collision-detection.git
@@ -1027,7 +1027,7 @@ CloudEngineHub/irreader[master]: https://github.com/CloudEngineHub/irreader.git 
 CloudEngineHub/Isaac-GR00T[main]: https://github.com/CloudEngineHub/Isaac-GR00T.git -> https://github.com/NVIDIA/Isaac-GR00T.git
 CloudEngineHub/IsaacGymEnvs[main]: https://github.com/CloudEngineHub/IsaacGymEnvs.git -> https://github.com/isaac-sim/IsaacGymEnvs.git
 CloudEngineHub/IsaacLab[main]: https://github.com/CloudEngineHub/IsaacLab.git -> https://github.com/isaac-sim/IsaacLab.git
-CloudEngineHub/IsaacLab4.5[devel]: https://github.com/CloudEngineHub/IsaacLab4.5.git -> https://github.com/rl-augmented-mpc/IsaacLab4.5.git
+CloudEngineHub/IsaacLab4.5[devel]: https://github.com/CloudEngineHub/IsaacLab4.5.git -> https://github.com/jnskkmhr/IsaacLab4.5.git
 CloudEngineHub/IsaacSim[main]: https://github.com/CloudEngineHub/IsaacSim.git -> https://github.com/isaac-sim/IsaacSim.git
 CloudEngineHub/IsaacSim-ros_workspaces[main]: https://github.com/CloudEngineHub/IsaacSim-ros_workspaces.git -> https://github.com/isaac-sim/IsaacSim-ros_workspaces.git
 CloudEngineHub/isaac_berkeley_humanoid[main]: https://github.com/CloudEngineHub/isaac_berkeley_humanoid.git -> https://github.com/HybridRobotics/isaac_berkeley_humanoid.git
@@ -1408,6 +1408,7 @@ CloudEngineHub/MPlib[main]: https://github.com/CloudEngineHub/MPlib.git -> https
 CloudEngineHub/mpsfm[main]: https://github.com/CloudEngineHub/mpsfm.git -> https://github.com/cvg/mpsfm.git
 CloudEngineHub/mra7a[indigo-devel]: https://github.com/CloudEngineHub/mra7a.git -> https://github.com/AuboRobot/mra7a.git
 CloudEngineHub/mra7a_tutorials[indigo-devel]: https://github.com/CloudEngineHub/mra7a_tutorials.git -> https://github.com/AuboRobot/mra7a_tutorials.git
+CloudEngineHub/ms-agent[main]: https://github.com/CloudEngineHub/ms-agent.git -> https://github.com/modelscope/ms-agent.git
 CloudEngineHub/MS-DOS[main]: https://github.com/CloudEngineHub/MS-DOS.git -> https://github.com/microsoft/MS-DOS.git
 CloudEngineHub/MSG[main]: https://github.com/CloudEngineHub/MSG.git -> https://github.com/ai4ce/MSG.git
 CloudEngineHub/MTVCrafter[main]: https://github.com/CloudEngineHub/MTVCrafter.git -> https://github.com/DINGYANB/MTVCrafter.git
@@ -1764,6 +1765,7 @@ CloudEngineHub/quant-trading[master]: https://github.com/CloudEngineHub/quant-tr
 CloudEngineHub/quarkdown[main]: https://github.com/CloudEngineHub/quarkdown.git -> https://github.com/iamgio/quarkdown.git
 CloudEngineHub/quest2_ros_msg[main]: https://github.com/CloudEngineHub/quest2_ros_msg.git -> https://github.com/vision-tactile-manip/quest2_ros_msg.git
 CloudEngineHub/ququ[main]: https://github.com/CloudEngineHub/ququ.git -> https://github.com/yan5xu/ququ.git
+CloudEngineHub/qwen-code[main]: https://github.com/CloudEngineHub/qwen-code.git -> https://github.com/QwenLM/qwen-code.git
 CloudEngineHub/Qwen-Image[main]: https://github.com/CloudEngineHub/Qwen-Image.git -> https://github.com/QwenLM/Qwen-Image.git
 CloudEngineHub/Qwen-VL[master]: https://github.com/CloudEngineHub/Qwen-VL.git -> https://github.com/QwenLM/Qwen-VL.git
 CloudEngineHub/Qwen2[main]: https://github.com/CloudEngineHub/Qwen2.git -> https://github.com/QwenLM/Qwen3.git
