@@ -428,6 +428,10 @@ CloudEngineHub/corenet[main]: https://github.com/CloudEngineHub/corenet.git -> h
 CloudEngineHub/Cork[main]: https://github.com/CloudEngineHub/Cork.git -> https://github.com/buresdv/Cork.git
 CloudEngineHub/Cosmos[main]: https://github.com/CloudEngineHub/Cosmos.git -> https://github.com/NVIDIA/Cosmos.git
 CloudEngineHub/cosmos-policy[main]: https://github.com/CloudEngineHub/cosmos-policy.git -> https://github.com/NVlabs/cosmos-policy.git
+CloudEngineHub/cosmos-predict2.5[main]: https://github.com/CloudEngineHub/cosmos-predict2.5.git -> https://github.com/nvidia-cosmos/cosmos-predict2.5.git
+CloudEngineHub/cosmos-reason2[main]: https://github.com/CloudEngineHub/cosmos-reason2.git -> https://github.com/nvidia-cosmos/cosmos-reason2.git
+CloudEngineHub/cosmos-rl[main]: https://github.com/CloudEngineHub/cosmos-rl.git -> https://github.com/nvidia-cosmos/cosmos-rl.git
+CloudEngineHub/cosmos-transfer2.5[main]: https://github.com/CloudEngineHub/cosmos-transfer2.5.git -> https://github.com/nvidia-cosmos/cosmos-transfer2.5.git
 CloudEngineHub/CosyVoice[main]: https://github.com/CloudEngineHub/CosyVoice.git -> https://github.com/FunAudioLLM/CosyVoice.git
 CloudEngineHub/coze-discord-proxy[main]: https://github.com/CloudEngineHub/coze-discord-proxy.git -> https://github.com/deanxv/coze-discord-proxy.git
 CloudEngineHub/Cradle[main]: https://github.com/CloudEngineHub/Cradle.git -> https://github.com/BAAI-Agents/Cradle.git
@@ -550,6 +554,7 @@ CloudEngineHub/DisPose[main]: https://github.com/CloudEngineHub/DisPose.git -> h
 CloudEngineHub/DiT[main]: https://github.com/CloudEngineHub/DiT.git -> https://github.com/facebookresearch/DiT.git
 CloudEngineHub/Dive[main]: https://github.com/CloudEngineHub/Dive.git -> https://github.com/OpenAgentPlatform/Dive.git
 CloudEngineHub/dive-into-llms[main]: https://github.com/CloudEngineHub/dive-into-llms.git -> https://github.com/Lordog/dive-into-llms.git
+CloudEngineHub/dm-haiku[main]: https://github.com/CloudEngineHub/dm-haiku.git -> https://github.com/google-deepmind/dm-haiku.git
 CloudEngineHub/dm_control[master]: https://github.com/CloudEngineHub/dm_control.git -> https://github.com/google-deepmind/dm_control.git
 CloudEngineHub/dm_robotics[main]: https://github.com/CloudEngineHub/dm_robotics.git -> https://github.com/google-deepmind/dm_robotics.git
 CloudEngineHub/dnd-kit[master]: https://github.com/CloudEngineHub/dnd-kit.git -> https://github.com/clauderic/dnd-kit.git
@@ -781,6 +786,7 @@ CloudEngineHub/freemodbus[master]: https://github.com/CloudEngineHub/freemodbus.
 CloudEngineHub/FreeRDP[master]: https://github.com/CloudEngineHub/FreeRDP.git -> https://github.com/FreeRDP/FreeRDP.git
 CloudEngineHub/FreeRTOS[main]: https://github.com/CloudEngineHub/FreeRTOS.git -> https://github.com/FreeRTOS/FreeRTOS.git
 CloudEngineHub/FreshRSS[edge]: https://github.com/CloudEngineHub/FreshRSS.git -> https://github.com/FreshRSS/FreshRSS.git
+CloudEngineHub/FRoM-W1[main]: https://github.com/CloudEngineHub/FRoM-W1.git -> https://github.com/OpenMOSS/FRoM-W1.git
 CloudEngineHub/frp[dev]: https://github.com/CloudEngineHub/frp.git -> https://github.com/fatedier/frp.git
 CloudEngineHub/FruitNeRF[main]: https://github.com/CloudEngineHub/FruitNeRF.git -> https://github.com/meyerls/FruitNeRF.git
 CloudEngineHub/fucking-algorithm[master]: https://github.com/CloudEngineHub/fucking-algorithm.git -> https://github.com/labuladong/fucking-algorithm.git
@@ -1014,6 +1020,7 @@ CloudEngineHub/insert-anything[main]: https://github.com/CloudEngineHub/insert-a
 CloudEngineHub/inspira-ui[main]: https://github.com/CloudEngineHub/inspira-ui.git -> https://github.com/unovue/inspira-ui.git
 CloudEngineHub/Instant4D[main]: https://github.com/CloudEngineHub/Instant4D.git -> https://github.com/Zhanpeng1202/Instant4D.git
 CloudEngineHub/InstantCharacter[main]: https://github.com/CloudEngineHub/InstantCharacter.git -> https://github.com/Tencent-Hunyuan/InstantCharacter.git
+CloudEngineHub/InstinctLab[main]: https://github.com/CloudEngineHub/InstinctLab.git -> https://github.com/project-instinct/InstinctLab.git
 CloudEngineHub/instructor[main]: https://github.com/CloudEngineHub/instructor.git -> https://github.com/567-labs/instructor.git
 CloudEngineHub/interactive-coding-challenges[master]: https://github.com/CloudEngineHub/interactive-coding-challenges.git -> https://github.com/donnemartin/interactive-coding-challenges.git
 CloudEngineHub/Internal-Cycloidal-Actuator[main]: https://github.com/CloudEngineHub/Internal-Cycloidal-Actuator.git -> https://github.com/aaedmusa/Internal-Cycloidal-Actuator.git
@@ -1317,8 +1324,8 @@ CloudEngineHub/MindSearch[main]: https://github.com/CloudEngineHub/MindSearch.gi
 CloudEngineHub/MinerU[master]: https://github.com/CloudEngineHub/MinerU.git -> https://github.com/opendatalab/MinerU.git
 CloudEngineHub/minGPT[master]: https://github.com/CloudEngineHub/minGPT.git -> https://github.com/karpathy/minGPT.git
 CloudEngineHub/mini-omni[main]: https://github.com/CloudEngineHub/mini-omni.git -> https://github.com/gpt-omni/mini-omni.git
-CloudEngineHub/MiniCPM-o[main]: https://github.com/CloudEngineHub/MiniCPM-o.git -> https://github.com/OpenBMB/MiniCPM-V.git
-CloudEngineHub/MiniCPM-V[main]: https://github.com/CloudEngineHub/MiniCPM-V.git -> https://github.com/OpenBMB/MiniCPM-V.git
+CloudEngineHub/MiniCPM-o[main]: https://github.com/CloudEngineHub/MiniCPM-o.git -> https://github.com/OpenBMB/MiniCPM-o.git
+CloudEngineHub/MiniCPM-V[main]: https://github.com/CloudEngineHub/MiniCPM-V.git -> https://github.com/OpenBMB/MiniCPM-o.git
 CloudEngineHub/MiniGPT-4[main]: https://github.com/CloudEngineHub/MiniGPT-4.git -> https://github.com/Vision-CAIR/MiniGPT-4.git
 CloudEngineHub/minimal-mistakes[master]: https://github.com/CloudEngineHub/minimal-mistakes.git -> https://github.com/mmistakes/minimal-mistakes.git
 CloudEngineHub/minimalmodbus[master]: https://github.com/CloudEngineHub/minimalmodbus.git -> https://github.com/pyhys/minimalmodbus.git
@@ -1955,7 +1962,7 @@ CloudEngineHub/sconegym[main]: https://github.com/CloudEngineHub/sconegym.git ->
 CloudEngineHub/ScreenAgent[main]: https://github.com/CloudEngineHub/ScreenAgent.git -> https://github.com/niuzaisheng/ScreenAgent.git
 CloudEngineHub/ScreenCoder[main]: https://github.com/CloudEngineHub/ScreenCoder.git -> https://github.com/leigest519/ScreenCoder.git
 CloudEngineHub/screenity[master]: https://github.com/CloudEngineHub/screenity.git -> https://github.com/alyssaxuu/screenity.git
-CloudEngineHub/screenpipe[main]: https://github.com/CloudEngineHub/screenpipe.git -> https://github.com/mediar-ai/screenpipe.git
+CloudEngineHub/screenpipe[main]: https://github.com/CloudEngineHub/screenpipe.git -> https://github.com/screenpipe/screenpipe.git
 CloudEngineHub/screenshot-to-code[main]: https://github.com/CloudEngineHub/screenshot-to-code.git -> https://github.com/abi/screenshot-to-code.git
 CloudEngineHub/sdk-examples[main]: https://github.com/CloudEngineHub/sdk-examples.git -> https://github.com/SpectacularAI/sdk-examples.git
 CloudEngineHub/SDS[master]: https://github.com/CloudEngineHub/SDS.git -> https://github.com/RPL-CS-UCL/SDS.git
@@ -2391,6 +2398,7 @@ CloudEngineHub/workflow-use[main]: https://github.com/CloudEngineHub/workflow-us
 CloudEngineHub/workout-cool[main]: https://github.com/CloudEngineHub/workout-cool.git -> https://github.com/Snouzy/workout-cool.git
 CloudEngineHub/WorldScore[main]: https://github.com/CloudEngineHub/WorldScore.git -> https://github.com/haoyi-duan/WorldScore.git
 CloudEngineHub/WorldVLA[main]: https://github.com/CloudEngineHub/WorldVLA.git -> https://github.com/alibaba-damo-academy/RynnVLA-002.git
+CloudEngineHub/wow-world-model[main]: https://github.com/CloudEngineHub/wow-world-model.git -> https://github.com/wow-world-model/wow-world-model.git
 CloudEngineHub/WrenAI[main]: https://github.com/CloudEngineHub/WrenAI.git -> https://github.com/Canner/WrenAI.git
 CloudEngineHub/WSL[master]: https://github.com/CloudEngineHub/WSL.git -> https://github.com/microsoft/WSL.git
 CloudEngineHub/wsrl[main]: https://github.com/CloudEngineHub/wsrl.git -> https://github.com/zhouzypaul/wsrl.git
