@@ -369,6 +369,7 @@ CloudEngineHub/cline[main]: https://github.com/CloudEngineHub/cline.git -> https
 CloudEngineHub/clinica[dev]: https://github.com/CloudEngineHub/clinica.git -> https://github.com/aramis-lab/clinica.git
 CloudEngineHub/CLIP[main]: https://github.com/CloudEngineHub/CLIP.git -> https://github.com/openai/CLIP.git
 CloudEngineHub/CLONE[main]: https://github.com/CloudEngineHub/CLONE.git -> https://github.com/humanoid-clone/CLONE.git
+CloudEngineHub/closed-chain-ik-js[main]: https://github.com/CloudEngineHub/closed-chain-ik-js.git -> https://github.com/gkjohnson/closed-chain-ik-js.git
 CloudEngineHub/cloudflared[master]: https://github.com/CloudEngineHub/cloudflared.git -> https://github.com/cloudflare/cloudflared.git
 CloudEngineHub/CMake[master]: https://github.com/CloudEngineHub/CMake.git -> https://github.com/Kitware/CMake.git
 CloudEngineHub/cmake-examples[master]: https://github.com/CloudEngineHub/cmake-examples.git -> https://github.com/ttroy50/cmake-examples.git
@@ -606,6 +607,7 @@ CloudEngineHub/dynamic-gaussian-marbles[main]: https://github.com/CloudEngineHub
 CloudEngineHub/earthworm[main]: https://github.com/CloudEngineHub/earthworm.git -> https://github.com/cuixueshe/earthworm.git
 CloudEngineHub/Easi3R[main]: https://github.com/CloudEngineHub/Easi3R.git -> https://github.com/Inception3D/Easi3R.git
 CloudEngineHub/easy-rl[master]: https://github.com/CloudEngineHub/easy-rl.git -> https://github.com/datawhalechina/easy-rl.git
+CloudEngineHub/EasyMocap[master]: https://github.com/CloudEngineHub/EasyMocap.git -> https://github.com/zju3dv/EasyMocap.git
 CloudEngineHub/easyquant[master]: https://github.com/CloudEngineHub/easyquant.git -> https://github.com/shidenggui/easyquant.git
 CloudEngineHub/EasySpider[master]: https://github.com/CloudEngineHub/EasySpider.git -> https://github.com/NaiboWang/EasySpider.git
 CloudEngineHub/easytrader[master]: https://github.com/CloudEngineHub/easytrader.git -> https://github.com/shidenggui/easytrader.git
@@ -762,6 +764,7 @@ CloudEngineHub/FossFLOW[master]: https://github.com/CloudEngineHub/FossFLOW.git 
 CloudEngineHub/FoundationStereo[master]: https://github.com/CloudEngineHub/FoundationStereo.git -> https://github.com/NVlabs/FoundationStereo.git
 CloudEngineHub/FourierHardwareOpen[main]: https://github.com/CloudEngineHub/FourierHardwareOpen.git -> https://github.com/FFTAI/FourierHardwareOpen.git
 CloudEngineHub/foxglove-sdk[main]: https://github.com/CloudEngineHub/foxglove-sdk.git -> https://github.com/foxglove/foxglove-sdk.git
+CloudEngineHub/fpo-control[main]: https://github.com/CloudEngineHub/fpo-control.git -> https://github.com/amazon-far/fpo-control.git
 CloudEngineHub/fprime[devel]: https://github.com/CloudEngineHub/fprime.git -> https://github.com/nasa/fprime.git
 CloudEngineHub/frame[main]: https://github.com/CloudEngineHub/frame.git -> https://github.com/abcamiletto/frame.git
 CloudEngineHub/FramePack[main]: https://github.com/CloudEngineHub/FramePack.git -> https://github.com/lllyasviel/FramePack.git
@@ -2121,7 +2124,7 @@ CloudEngineHub/stickerbaker[main]: https://github.com/CloudEngineHub/stickerbake
 CloudEngineHub/Stirling-PDF[main]: https://github.com/CloudEngineHub/Stirling-PDF.git -> https://github.com/Stirling-Tools/Stirling-PDF.git
 CloudEngineHub/StockSharp[master]: https://github.com/CloudEngineHub/StockSharp.git -> https://github.com/StockSharp/StockSharp.git
 CloudEngineHub/storm[master]: https://github.com/CloudEngineHub/storm.git -> https://github.com/apache/storm.git
-CloudEngineHub/story-adapter[main]: https://github.com/CloudEngineHub/story-adapter.git -> https://github.com/UCSC-VLAA/story-adapter.git
+CloudEngineHub/story-adapter[main]: https://github.com/CloudEngineHub/story-adapter.git -> https://github.com/UCSC-VLAA/story-iter.git
 CloudEngineHub/StoryMaker[main]: https://github.com/CloudEngineHub/StoryMaker.git -> https://github.com/FireRedTeam/StoryMaker.git
 CloudEngineHub/Streamer-Sales[main]: https://github.com/CloudEngineHub/Streamer-Sales.git -> https://github.com/PeterH0323/Streamer-Sales.git
 CloudEngineHub/streaming-llm[main]: https://github.com/CloudEngineHub/streaming-llm.git -> https://github.com/mit-han-lab/streaming-llm.git
@@ -2275,6 +2278,7 @@ CloudEngineHub/UI-TARS-desktop[main]: https://github.com/CloudEngineHub/UI-TARS-
 CloudEngineHub/ultralytics[main]: https://github.com/CloudEngineHub/ultralytics.git -> https://github.com/ultralytics/ultralytics.git
 CloudEngineHub/Umi-OCR[main]: https://github.com/CloudEngineHub/Umi-OCR.git -> https://github.com/hiroi-sora/Umi-OCR.git
 CloudEngineHub/Uni3C[main]: https://github.com/CloudEngineHub/Uni3C.git -> https://github.com/alibaba-damo-academy/Uni3C.git
+CloudEngineHub/unifolm-vla[main]: https://github.com/CloudEngineHub/unifolm-vla.git -> https://github.com/unitreerobotics/unifolm-vla.git
 CloudEngineHub/unifolm-world-model-action[main]: https://github.com/CloudEngineHub/unifolm-world-model-action.git -> https://github.com/unitreerobotics/unifolm-world-model-action.git
 CloudEngineHub/UniHSI[main]: https://github.com/CloudEngineHub/UniHSI.git -> https://github.com/InternRobotics/UniHSI.git
 CloudEngineHub/UniK3D[main]: https://github.com/CloudEngineHub/UniK3D.git -> https://github.com/lpiccinelli-eth/UniK3D.git
@@ -2405,7 +2409,7 @@ CloudEngineHub/WiLoR[main]: https://github.com/CloudEngineHub/WiLoR.git -> https
 CloudEngineHub/win12[main]: https://github.com/CloudEngineHub/win12.git -> https://github.com/tjy-gitnub/win12.git
 CloudEngineHub/windows[master]: https://github.com/CloudEngineHub/windows.git -> https://github.com/dockur/windows.git
 CloudEngineHub/Windows-MCP[main]: https://github.com/CloudEngineHub/Windows-MCP.git -> https://github.com/CursorTouch/Windows-MCP.git
-CloudEngineHub/Windows-Use[main]: https://github.com/CloudEngineHub/Windows-Use.git -> https://github.com/CursorTouch/Windows-Use.git
+CloudEngineHub/Windows-Use[main]: https://github.com/CloudEngineHub/Windows-Use.git -> https://github.com/richard-devbot/Windows-Use.git
 CloudEngineHub/Winds[master]: https://github.com/CloudEngineHub/Winds.git -> https://github.com/GetStream/Winds.git
 CloudEngineHub/winutil[main]: https://github.com/CloudEngineHub/winutil.git -> https://github.com/ChrisTitusTech/winutil.git
 CloudEngineHub/wiseflow[master]: https://github.com/CloudEngineHub/wiseflow.git -> https://github.com/TeamWiseFlow/wiseflow.git
