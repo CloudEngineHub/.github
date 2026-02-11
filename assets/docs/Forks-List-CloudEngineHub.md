@@ -362,6 +362,8 @@ CloudEngineHub/CipherChat[main]: https://github.com/CloudEngineHub/CipherChat.gi
 CloudEngineHub/circuit_training[main]: https://github.com/CloudEngineHub/circuit_training.git -> https://github.com/google-research/circuit_training.git
 CloudEngineHub/claude-code[main]: https://github.com/CloudEngineHub/claude-code.git -> https://github.com/anthropics/claude-code.git
 CloudEngineHub/claude-code-router[main]: https://github.com/CloudEngineHub/claude-code-router.git -> https://github.com/musistudio/claude-code-router.git
+CloudEngineHub/claudes-c-compiler[main]: https://github.com/CloudEngineHub/claudes-c-compiler.git -> https://github.com/anthropics/claudes-c-compiler.git
+CloudEngineHub/clawra[main]: https://github.com/CloudEngineHub/clawra.git -> https://github.com/SumeLabs/clawra.git
 CloudEngineHub/ClearerVoice-Studio[main]: https://github.com/CloudEngineHub/ClearerVoice-Studio.git -> https://github.com/modelscope/ClearerVoice-Studio.git
 CloudEngineHub/cli[trunk]: https://github.com/CloudEngineHub/cli.git -> https://github.com/cli/cli.git
 CloudEngineHub/Click-and-Traverse[main]: https://github.com/CloudEngineHub/Click-and-Traverse.git -> https://github.com/GalaxyGeneralRobotics/Click-and-Traverse.git
@@ -405,7 +407,9 @@ CloudEngineHub/Comfyui-Superprompt-Unofficial[main]: https://github.com/CloudEng
 CloudEngineHub/ComfyUI_Bxb[main]: https://github.com/CloudEngineHub/ComfyUI_Bxb.git -> https://github.com/zhulu111/ComfyUI_Bxb.git
 CloudEngineHub/COMPASS[main]: https://github.com/CloudEngineHub/COMPASS.git -> https://github.com/NVlabs/COMPASS.git
 CloudEngineHub/competition-baseline[master]: https://github.com/CloudEngineHub/competition-baseline.git -> https://github.com/datawhalechina/competition-baseline.git
-CloudEngineHub/computer-science-flash-cards[main]: https://github.com/CloudEngineHub/computer-science-flash-cards.git -> https://github.com/jwasham/computer-science-flash-cards.git
+CloudEngineHub/computer-science-flash-cards[main]: https://github.com/CloudEngineHub/computer-science-flash-cards.git -> {
+  "message": "Server Error"
+}.git
 CloudEngineHub/conrft[main]: https://github.com/CloudEngineHub/conrft.git -> https://github.com/cccedric/conrft.git
 CloudEngineHub/ConsisID[main]: https://github.com/CloudEngineHub/ConsisID.git -> https://github.com/PKU-YuanGroup/ConsisID.git
 CloudEngineHub/console[master]: https://github.com/CloudEngineHub/console.git -> https://github.com/redpanda-data/console.git
@@ -441,6 +445,7 @@ CloudEngineHub/crawl4ai[main]: https://github.com/CloudEngineHub/crawl4ai.git ->
 CloudEngineHub/crewAI[main]: https://github.com/CloudEngineHub/crewAI.git -> https://github.com/crewAIInc/crewAI.git
 CloudEngineHub/crewAI-tools[main]: https://github.com/CloudEngineHub/crewAI-tools.git -> https://github.com/crewAIInc/crewAI-tools.git
 CloudEngineHub/CRISP-Real2Sim[main]: https://github.com/CloudEngineHub/CRISP-Real2Sim.git -> https://github.com/Z1hanW/CRISP-Real2Sim.git
+CloudEngineHub/crl-humanoid-ros[main]: https://github.com/CloudEngineHub/crl-humanoid-ros.git -> https://github.com/catachiii/crl-humanoid-ros.git
 CloudEngineHub/crossformer[main]: https://github.com/CloudEngineHub/crossformer.git -> https://github.com/rail-berkeley/crossformer.git
 CloudEngineHub/csm[main]: https://github.com/CloudEngineHub/csm.git -> https://github.com/SesameAILabs/csm.git
 CloudEngineHub/ctop[master]: https://github.com/CloudEngineHub/ctop.git -> https://github.com/bcicen/ctop.git
@@ -1315,6 +1320,7 @@ CloudEngineHub/micro_ros_arduino[kilted]: https://github.com/CloudEngineHub/micr
 CloudEngineHub/micro_ros_setup[kilted]: https://github.com/CloudEngineHub/micro_ros_setup.git -> https://github.com/micro-ROS/micro_ros_setup.git
 CloudEngineHub/MIDI[main]: https://github.com/CloudEngineHub/MIDI.git -> https://github.com/huanngzh/MIDI.git
 CloudEngineHub/MIDI-Page[main]: https://github.com/CloudEngineHub/MIDI-Page.git -> https://github.com/huanngzh/MIDI-Page.git
+CloudEngineHub/midscene[main]: https://github.com/CloudEngineHub/midscene.git -> https://github.com/web-infra-dev/midscene.git
 CloudEngineHub/million[main]: https://github.com/CloudEngineHub/million.git -> https://github.com/aidenybai/million.git
 CloudEngineHub/MimicBrush[main]: https://github.com/CloudEngineHub/MimicBrush.git -> https://github.com/ali-vilab/MimicBrush.git
 CloudEngineHub/mimicgen[main]: https://github.com/CloudEngineHub/mimicgen.git -> https://github.com/NVlabs/mimicgen.git
@@ -1935,7 +1941,9 @@ CloudEngineHub/ros2_rm_robot[humble]: https://github.com/CloudEngineHub/ros2_rm_
 CloudEngineHub/ros2_torch2trt_examples[main]: https://github.com/CloudEngineHub/ros2_torch2trt_examples.git -> https://github.com/NVIDIA-AI-IOT/ros2_torch2trt_examples.git
 CloudEngineHub/ros2_torch_trt[master]: https://github.com/CloudEngineHub/ros2_torch_trt.git -> https://github.com/NVIDIA-AI-IOT/ros2_torch_trt.git
 CloudEngineHub/ros2_trt_pose[main]: https://github.com/CloudEngineHub/ros2_trt_pose.git -> https://github.com/NVIDIA-AI-IOT/ros2_trt_pose.git
-CloudEngineHub/ros2_trt_pose_hand[main]: https://github.com/CloudEngineHub/ros2_trt_pose_hand.git -> https://github.com/NVIDIA-AI-IOT/ros2_trt_pose_hand.git
+CloudEngineHub/ros2_trt_pose_hand[{
+  "message": "Server Error"
+}]: https://github.com/CloudEngineHub/ros2_trt_pose_hand.git -> https://github.com/NVIDIA-AI-IOT/ros2_trt_pose_hand.git
 CloudEngineHub/RoseTTAFold[main]: https://github.com/CloudEngineHub/RoseTTAFold.git -> https://github.com/RosettaCommons/RoseTTAFold.git
 CloudEngineHub/ros_best_practices[main]: https://github.com/CloudEngineHub/ros_best_practices.git -> https://github.com/leggedrobotics/ros_best_practices.git
 CloudEngineHub/ros_deep_learning[master]: https://github.com/CloudEngineHub/ros_deep_learning.git -> https://github.com/dusty-nv/ros_deep_learning.git
@@ -1963,6 +1971,7 @@ CloudEngineHub/RWKV-LM[main]: https://github.com/CloudEngineHub/RWKV-LM.git -> h
 CloudEngineHub/rx1[master]: https://github.com/CloudEngineHub/rx1.git -> https://github.com/Red-Rabbit-Robotics/rx1.git
 CloudEngineHub/rx1_bom[master]: https://github.com/CloudEngineHub/rx1_bom.git -> https://github.com/Red-Rabbit-Robotics/rx1_bom.git
 CloudEngineHub/rx1_servo_hardware[master]: https://github.com/CloudEngineHub/rx1_servo_hardware.git -> https://github.com/Red-Rabbit-Robotics/rx1_servo_hardware.git
+CloudEngineHub/RynnBrain[main]: https://github.com/CloudEngineHub/RynnBrain.git -> https://github.com/alibaba-damo-academy/RynnBrain.git
 CloudEngineHub/RynnVLA-001[main]: https://github.com/CloudEngineHub/RynnVLA-001.git -> https://github.com/alibaba-damo-academy/RynnVLA-001.git
 CloudEngineHub/Sa2VA[main]: https://github.com/CloudEngineHub/Sa2VA.git -> https://github.com/bytedance/Sa2VA.git
 CloudEngineHub/SafetyBench[main]: https://github.com/CloudEngineHub/SafetyBench.git -> https://github.com/thu-coai/SafetyBench.git
@@ -2336,7 +2345,7 @@ CloudEngineHub/VINS-Fusion[master]: https://github.com/CloudEngineHub/VINS-Fusio
 CloudEngineHub/VINS-Mobile[master]: https://github.com/CloudEngineHub/VINS-Mobile.git -> https://github.com/HKUST-Aerial-Robotics/VINS-Mobile.git
 CloudEngineHub/VINS-Mono[master]: https://github.com/CloudEngineHub/VINS-Mono.git -> https://github.com/HKUST-Aerial-Robotics/VINS-Mono.git
 CloudEngineHub/vipe[main]: https://github.com/CloudEngineHub/vipe.git -> https://github.com/nv-tlabs/vipe.git
-CloudEngineHub/viser[main]: https://github.com/CloudEngineHub/viser.git -> https://github.com/nerfstudio-project/viser.git
+CloudEngineHub/viser[main]: https://github.com/CloudEngineHub/viser.git -> https://github.com/viser-project/viser.git
 CloudEngineHub/Vision-Agents[main]: https://github.com/CloudEngineHub/Vision-Agents.git -> https://github.com/GetStream/Vision-Agents.git
 CloudEngineHub/vision-in-action[main]: https://github.com/CloudEngineHub/vision-in-action.git -> https://github.com/haoyu-x/vision-in-action.git
 CloudEngineHub/VisionProTeleop[main]: https://github.com/CloudEngineHub/VisionProTeleop.git -> https://github.com/Improbable-AI/VisionProTeleop.git
@@ -2409,7 +2418,7 @@ CloudEngineHub/WiLoR[main]: https://github.com/CloudEngineHub/WiLoR.git -> https
 CloudEngineHub/win12[main]: https://github.com/CloudEngineHub/win12.git -> https://github.com/tjy-gitnub/win12.git
 CloudEngineHub/windows[master]: https://github.com/CloudEngineHub/windows.git -> https://github.com/dockur/windows.git
 CloudEngineHub/Windows-MCP[main]: https://github.com/CloudEngineHub/Windows-MCP.git -> https://github.com/CursorTouch/Windows-MCP.git
-CloudEngineHub/Windows-Use[main]: https://github.com/CloudEngineHub/Windows-Use.git -> https://github.com/richard-devbot/Windows-Use.git
+CloudEngineHub/Windows-Use[main]: https://github.com/CloudEngineHub/Windows-Use.git -> https://github.com/sirendhead/Windows-Use.git
 CloudEngineHub/Winds[master]: https://github.com/CloudEngineHub/Winds.git -> https://github.com/GetStream/Winds.git
 CloudEngineHub/winutil[main]: https://github.com/CloudEngineHub/winutil.git -> https://github.com/ChrisTitusTech/winutil.git
 CloudEngineHub/wiseflow[master]: https://github.com/CloudEngineHub/wiseflow.git -> https://github.com/TeamWiseFlow/wiseflow.git
