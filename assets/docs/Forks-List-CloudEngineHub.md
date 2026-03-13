@@ -249,6 +249,7 @@ CloudEngineHub/axlearn[main]: https://github.com/CloudEngineHub/axlearn.git -> h
 CloudEngineHub/babyagi[main]: https://github.com/CloudEngineHub/babyagi.git -> https://github.com/yoheinakajima/babyagi.git
 CloudEngineHub/BackgroundMattingV2[master]: https://github.com/CloudEngineHub/BackgroundMattingV2.git -> https://github.com/PeterL1n/BackgroundMattingV2.git
 CloudEngineHub/backtrader[master]: https://github.com/CloudEngineHub/backtrader.git -> https://github.com/mementum/backtrader.git
+CloudEngineHub/bai-it[main]: https://github.com/CloudEngineHub/bai-it.git -> https://github.com/CapeAga/bai-it.git
 CloudEngineHub/bambot[main]: https://github.com/CloudEngineHub/bambot.git -> https://github.com/timqian/bambot.git
 CloudEngineHub/bark[main]: https://github.com/CloudEngineHub/bark.git -> https://github.com/suno-ai/bark.git
 CloudEngineHub/baselines[master]: https://github.com/CloudEngineHub/baselines.git -> https://github.com/openai/baselines.git
@@ -537,6 +538,7 @@ CloudEngineHub/dexhand_llm_control[main]: https://github.com/CloudEngineHub/dexh
 CloudEngineHub/dexhand_ros2_meta[main]: https://github.com/CloudEngineHub/dexhand_ros2_meta.git -> https://github.com/iotdesignshop/dexhand_ros2_meta.git
 CloudEngineHub/dexhand_usb_serial[main]: https://github.com/CloudEngineHub/dexhand_usb_serial.git -> https://github.com/iotdesignshop/dexhand_usb_serial.git
 CloudEngineHub/DexHub[main]: https://github.com/CloudEngineHub/DexHub.git -> https://github.com/BinaryDex/DexHub.git
+CloudEngineHub/DexLatent[main]: https://github.com/CloudEngineHub/DexLatent.git -> https://github.com/EmptyBlueBox/DexLatent.git
 CloudEngineHub/dexmachina[main]: https://github.com/CloudEngineHub/dexmachina.git -> https://github.com/MandiZhao/dexmachina.git
 CloudEngineHub/dexrobot_isaac[main]: https://github.com/CloudEngineHub/dexrobot_isaac.git -> https://github.com/DexRobot/dexrobot_isaac.git
 CloudEngineHub/dexrobot_python_sdk[main]: https://github.com/CloudEngineHub/dexrobot_python_sdk.git -> https://github.com/DexRobot/dexrobot_ecosystem.git
@@ -882,6 +884,7 @@ CloudEngineHub/Go-with-the-Flow[main]: https://github.com/CloudEngineHub/Go-with
 CloudEngineHub/GoBigger[main]: https://github.com/CloudEngineHub/GoBigger.git -> https://github.com/opendilab/GoBigger.git
 CloudEngineHub/goku[main]: https://github.com/CloudEngineHub/goku.git -> https://github.com/Saiyan-World/goku.git
 CloudEngineHub/google-research[master]: https://github.com/CloudEngineHub/google-research.git -> https://github.com/google-research/google-research.git
+CloudEngineHub/google-workspace-cli[main]: https://github.com/CloudEngineHub/google-workspace-cli.git -> https://github.com/googleworkspace/cli.git
 CloudEngineHub/GOT-OCR2.0[main]: https://github.com/CloudEngineHub/GOT-OCR2.0.git -> https://github.com/Ucas-HaoranWei/GOT-OCR2.0.git
 CloudEngineHub/gpt-2[master]: https://github.com/CloudEngineHub/gpt-2.git -> https://github.com/openai/gpt-2.git
 CloudEngineHub/gpt-3[master]: https://github.com/CloudEngineHub/gpt-3.git -> https://github.com/openai/gpt-3.git
@@ -1379,7 +1382,7 @@ CloudEngineHub/miniPaint[master]: https://github.com/CloudEngineHub/miniPaint.gi
 CloudEngineHub/MiniRAG[main]: https://github.com/CloudEngineHub/MiniRAG.git -> https://github.com/HKUDS/MiniRAG.git
 CloudEngineHub/MiniRHex[main]: https://github.com/CloudEngineHub/MiniRHex.git -> https://github.com/robomechanics/MiniRHex.git
 CloudEngineHub/mink[main]: https://github.com/CloudEngineHub/mink.git -> https://github.com/kevinzakka/mink.git
-CloudEngineHub/MiroFlow[main]: https://github.com/CloudEngineHub/MiroFlow.git -> https://github.com/MiroMindAI/miroflow.git
+CloudEngineHub/MiroFlow[main]: https://github.com/CloudEngineHub/MiroFlow.git -> https://github.com/MiroMindAI/MiroFlow.git
 CloudEngineHub/MiroMind-M1[add-citation]: https://github.com/CloudEngineHub/MiroMind-M1.git -> https://github.com/Stars1233/MiroMind-M1.git
 CloudEngineHub/MiroRL[main]: https://github.com/CloudEngineHub/MiroRL.git -> https://github.com/MiroMindAI/MiroRL.git
 CloudEngineHub/MiroThinker[main]: https://github.com/CloudEngineHub/MiroThinker.git -> https://github.com/MiroMindAI/MiroThinker.git
@@ -1853,6 +1856,7 @@ CloudEngineHub/RAG-Anything[main]: https://github.com/CloudEngineHub/RAG-Anythin
 CloudEngineHub/ragflow[main]: https://github.com/CloudEngineHub/ragflow.git -> https://github.com/infiniflow/ragflow.git
 CloudEngineHub/RAIN[main]: https://github.com/CloudEngineHub/RAIN.git -> https://github.com/Pscgylotti/RAIN.git
 CloudEngineHub/rambo[main]: https://github.com/CloudEngineHub/rambo.git -> https://github.com/catachiii/rambo.git
+CloudEngineHub/RaspberryPi-CM4-XGO-Rider[RCM4V1]: https://github.com/CloudEngineHub/RaspberryPi-CM4-XGO-Rider.git -> https://github.com/Xgorobot/RaspberryPi-CM4-XGO-Rider.git
 CloudEngineHub/Rcs[master]: https://github.com/CloudEngineHub/Rcs.git -> https://github.com/HRI-EU/Rcs.git
 CloudEngineHub/RDT2[main]: https://github.com/CloudEngineHub/RDT2.git -> https://github.com/thu-ml/RDT2.git
 CloudEngineHub/reachy-2019[master]: https://github.com/CloudEngineHub/reachy-2019.git -> https://github.com/pollen-robotics/reachy-2019.git
@@ -1895,6 +1899,8 @@ CloudEngineHub/RepoStats[main]: https://github.com/CloudEngineHub/RepoStats.git 
 CloudEngineHub/rerun[main]: https://github.com/CloudEngineHub/rerun.git -> https://github.com/rerun-io/rerun.git
 CloudEngineHub/res-downloader[master]: https://github.com/CloudEngineHub/res-downloader.git -> https://github.com/putyy/res-downloader.git
 CloudEngineHub/residual-offpolicy-rl[main]: https://github.com/CloudEngineHub/residual-offpolicy-rl.git -> https://github.com/amazon-far/residual-offpolicy-rl.git
+CloudEngineHub/Residual_Copilot[main]: https://github.com/CloudEngineHub/Residual_Copilot.git -> https://github.com/shuosha/Residual_Copilot.git
+CloudEngineHub/Residual_Copilot_Deployment[main]: https://github.com/CloudEngineHub/Residual_Copilot_Deployment.git -> https://github.com/shuosha/Residual_Copilot_Deployment.git
 CloudEngineHub/ResNet[master]: https://github.com/CloudEngineHub/ResNet.git -> https://github.com/tornadomeet/ResNet.git
 CloudEngineHub/ResnetGPT[master]: https://github.com/CloudEngineHub/ResnetGPT.git -> https://github.com/FengQuanLi/ResnetGPT.git
 CloudEngineHub/retro[master]: https://github.com/CloudEngineHub/retro.git -> https://github.com/openai/retro.git
@@ -2131,6 +2137,7 @@ CloudEngineHub/Spark-TTS[main]: https://github.com/CloudEngineHub/Spark-TTS.git 
 CloudEngineHub/sparsh-multisensory-touch[main]: https://github.com/CloudEngineHub/sparsh-multisensory-touch.git -> https://github.com/facebookresearch/sparsh-multisensory-touch.git
 CloudEngineHub/Spatial-Forcing[master]: https://github.com/CloudEngineHub/Spatial-Forcing.git -> https://github.com/OpenHelix-Team/Spatial-Forcing.git
 CloudEngineHub/Spatial-MLLM[master]: https://github.com/CloudEngineHub/Spatial-MLLM.git -> https://github.com/THU-SI/Spatial-MLLM.git
+CloudEngineHub/Spatial-TTT[main]: https://github.com/CloudEngineHub/Spatial-TTT.git -> https://github.com/THU-SI/Spatial-TTT.git
 CloudEngineHub/SpatialLM[main]: https://github.com/CloudEngineHub/SpatialLM.git -> https://github.com/manycore-research/SpatialLM.git
 CloudEngineHub/SpaTracker[main]: https://github.com/CloudEngineHub/SpaTracker.git -> https://github.com/henry123-boy/SpaTracker.git
 CloudEngineHub/SpaTrackerV2[main]: https://github.com/CloudEngineHub/SpaTrackerV2.git -> https://github.com/henry123-boy/SpaTrackerV2.git
@@ -2288,6 +2295,7 @@ CloudEngineHub/touch_in_the_wild[main]: https://github.com/CloudEngineHub/touch_
 CloudEngineHub/tproxy[main]: https://github.com/CloudEngineHub/tproxy.git -> https://github.com/kevwan/tproxy.git
 CloudEngineHub/tqdm[master]: https://github.com/CloudEngineHub/tqdm.git -> https://github.com/tqdm/tqdm.git
 CloudEngineHub/TraceAnything[main]: https://github.com/CloudEngineHub/TraceAnything.git -> https://github.com/ByteDance-Seed/TraceAnything.git
+CloudEngineHub/Track4World[master]: https://github.com/CloudEngineHub/Track4World.git -> https://github.com/TencentARC/Track4World.git
 CloudEngineHub/trackers[develop]: https://github.com/CloudEngineHub/trackers.git -> https://github.com/roboflow/trackers.git
 CloudEngineHub/TrackVLA[main]: https://github.com/CloudEngineHub/TrackVLA.git -> https://github.com/wsakobe/TrackVLA.git
 CloudEngineHub/TrackWeight[main]: https://github.com/CloudEngineHub/TrackWeight.git -> https://github.com/KrishKrosh/TrackWeight.git
