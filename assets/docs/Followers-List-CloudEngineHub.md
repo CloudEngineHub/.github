@@ -1,6 +1,7 @@
 arthrod: https://github.com/arthrod
 brave-new-dev: https://github.com/brave-new-dev
 CUSERatGH: https://github.com/CUSERatGH
+E-privo: https://github.com/E-privo
 insujeon: https://github.com/insujeon
 Ivankilin: https://github.com/Ivankilin
 JadeCong: https://github.com/JadeCong
