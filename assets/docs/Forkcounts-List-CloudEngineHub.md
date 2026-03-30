@@ -2,6 +2,8 @@ CloudEngineHub/ai_quant_trade[master]: https://github.com/CloudEngineHub/ai_quan
   - ainstainst: https://github.com/ainstainst
 CloudEngineHub/CodroidApi[main]: https://github.com/CloudEngineHub/CodroidApi.git
   - x6arnau: https://github.com/x6arnau
+CloudEngineHub/daily_stock_analysis[main]: https://github.com/CloudEngineHub/daily_stock_analysis.git
+  - wang-ink: https://github.com/wang-ink
 CloudEngineHub/eKalibr[master]: https://github.com/CloudEngineHub/eKalibr.git
   - marenan: https://github.com/marenan
 CloudEngineHub/lingbot-vla[main]: https://github.com/CloudEngineHub/lingbot-vla.git
