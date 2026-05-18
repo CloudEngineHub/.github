@@ -3,6 +3,10 @@ CloudEngineHub/ai_quant_trade[master]: https://github.com/CloudEngineHub/ai_quan
 CloudEngineHub/CodroidApi[main]: https://github.com/CloudEngineHub/CodroidApi.git
   - x6arnau: https://github.com/x6arnau
 CloudEngineHub/daily_stock_analysis[main]: https://github.com/CloudEngineHub/daily_stock_analysis.git
+  - chenwp0114-eng: https://github.com/chenwp0114-eng
+  - Lemons-In-Summer: https://github.com/Lemons-In-Summer
+  - linqichuan: https://github.com/linqichuan
+  - mukejane: https://github.com/mukejane
   - wang-ink: https://github.com/wang-ink
 CloudEngineHub/eKalibr[master]: https://github.com/CloudEngineHub/eKalibr.git
   - marenan: https://github.com/marenan
