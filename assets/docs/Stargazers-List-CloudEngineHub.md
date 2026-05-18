@@ -29,6 +29,7 @@ CloudEngineHub/LIBERO-plus[main]: https://github.com/CloudEngineHub/LIBERO-plus.
 CloudEngineHub/lingbot-vla[main]: https://github.com/CloudEngineHub/lingbot-vla.git
   - 2561681244: https://github.com/2561681244
   - allen-fight: https://github.com/allen-fight
+  - cchong0: https://github.com/cchong0
   - cevtuocjw: https://github.com/cevtuocjw
   - chengyezhao: https://github.com/chengyezhao
   - Error2148: https://github.com/Error2148
@@ -37,6 +38,8 @@ CloudEngineHub/lingbot-vla[main]: https://github.com/CloudEngineHub/lingbot-vla.
   - wjy20060456: https://github.com/wjy20060456
 CloudEngineHub/MagicQuill[main]: https://github.com/CloudEngineHub/MagicQuill.git
   - TempleOfTemplar: https://github.com/TempleOfTemplar
+CloudEngineHub/MotionComparator[main]: https://github.com/CloudEngineHub/MotionComparator.git
+  - marcelinmurhula: https://github.com/marcelinmurhula
 CloudEngineHub/payload[main]: https://github.com/CloudEngineHub/payload.git
   - jensfr1: https://github.com/jensfr1
 CloudEngineHub/phidata[main]: https://github.com/CloudEngineHub/phidata.git
@@ -59,6 +62,8 @@ CloudEngineHub/unstract[main]: https://github.com/CloudEngineHub/unstract.git
   - jensfr1: https://github.com/jensfr1
 CloudEngineHub/VINGS-Mono[main]: https://github.com/CloudEngineHub/VINGS-Mono.git
   - YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
+CloudEngineHub/WBC-AGILE[main]: https://github.com/CloudEngineHub/WBC-AGILE.git
+  - marcelinmurhula: https://github.com/marcelinmurhula
 CloudEngineHub/WheeledLab[main]: https://github.com/CloudEngineHub/WheeledLab.git
   - YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
 CloudEngineHub/whisper[main]: https://github.com/CloudEngineHub/whisper.git
@@ -67,3 +72,6 @@ CloudEngineHub/xiaomusic[main]: https://github.com/CloudEngineHub/xiaomusic.git
   - mohsen104: https://github.com/mohsen104
   - Syntax-Vibe: https://github.com/Syntax-Vibe
   - YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
+CloudEngineHub/zhangxuefeng-skill[main]: https://github.com/CloudEngineHub/zhangxuefeng-skill.git
+  - marcelinmurhula: https://github.com/marcelinmurhula
+  - reignsi: https://github.com/reignsi
