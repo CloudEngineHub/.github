@@ -354,7 +354,7 @@ CloudEngineHub/chameleon[main]: https://github.com/CloudEngineHub/chameleon.git 
 CloudEngineHub/champ[master]: https://github.com/CloudEngineHub/champ.git -> https://github.com/chvmp/champ.git
 CloudEngineHub/changedetection.io[master]: https://github.com/CloudEngineHub/changedetection.io.git -> https://github.com/dgtlmoon/changedetection.io.git
 CloudEngineHub/CharacterGen[main]: https://github.com/CloudEngineHub/CharacterGen.git -> https://github.com/zjp-shadow/CharacterGen.git
-CloudEngineHub/Chat2DB[main]: https://github.com/CloudEngineHub/Chat2DB.git -> https://github.com/CodePhiliaX/Chat2DB.git
+CloudEngineHub/Chat2DB[main]: https://github.com/CloudEngineHub/Chat2DB.git -> https://github.com/OtterMind/Chat2DB.git
 CloudEngineHub/chatbox[main]: https://github.com/CloudEngineHub/chatbox.git -> https://github.com/chatboxai/chatbox.git
 CloudEngineHub/ChatDev[main]: https://github.com/CloudEngineHub/ChatDev.git -> https://github.com/OpenBMB/ChatDev.git
 CloudEngineHub/ChatGLM-6B[main]: https://github.com/CloudEngineHub/ChatGLM-6B.git -> https://github.com/zai-org/ChatGLM-6B.git
@@ -1154,6 +1154,7 @@ CloudEngineHub/instructor[main]: https://github.com/CloudEngineHub/instructor.gi
 CloudEngineHub/interactive-coding-challenges[master]: https://github.com/CloudEngineHub/interactive-coding-challenges.git -> https://github.com/donnemartin/interactive-coding-challenges.git
 CloudEngineHub/Internal-Cycloidal-Actuator[main]: https://github.com/CloudEngineHub/Internal-Cycloidal-Actuator.git -> https://github.com/aaedmusa/Internal-Cycloidal-Actuator.git
 CloudEngineHub/InternScenes[main]: https://github.com/CloudEngineHub/InternScenes.git -> https://github.com/InternRobotics/InternScenes.git
+CloudEngineHub/InternUtopia[main]: https://github.com/CloudEngineHub/InternUtopia.git -> https://github.com/InternRobotics/InternUtopia.git
 CloudEngineHub/InternVideo[main]: https://github.com/CloudEngineHub/InternVideo.git -> https://github.com/OpenGVLab/InternVideo.git
 CloudEngineHub/InternVL[main]: https://github.com/CloudEngineHub/InternVL.git -> https://github.com/OpenGVLab/InternVL.git
 CloudEngineHub/InternVLA-A1[master]: https://github.com/CloudEngineHub/InternVLA-A1.git -> https://github.com/InternRobotics/InternVLA-A1.git
