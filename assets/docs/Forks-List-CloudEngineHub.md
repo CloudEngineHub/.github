@@ -190,7 +190,7 @@ CloudEngineHub/AVDC[main]: https://github.com/CloudEngineHub/AVDC.git -> https:/
 CloudEngineHub/avp_teleoperate[g1]: https://github.com/CloudEngineHub/avp_teleoperate.git -> https://github.com/unitreerobotics/xr_teleoperate.git
 CloudEngineHub/awesome[main]: https://github.com/CloudEngineHub/awesome.git -> https://github.com/sindresorhus/awesome.git
 CloudEngineHub/awesome-agent-harness[main]: https://github.com/CloudEngineHub/awesome-agent-harness.git -> https://github.com/Picrew/awesome-agent-harness.git
-CloudEngineHub/Awesome-AgenticLLM-RL-Papers[main]: https://github.com/CloudEngineHub/Awesome-AgenticLLM-RL-Papers.git -> https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers.git
+CloudEngineHub/Awesome-AgenticLLM-RL-Papers[main]: https://github.com/CloudEngineHub/Awesome-AgenticLLM-RL-Papers.git -> https://github.com/HHHHHejia/Awesome-AgenticLLM-RL-Papers.git
 CloudEngineHub/awesome-ai-agents[main]: https://github.com/CloudEngineHub/awesome-ai-agents.git -> https://github.com/e2b-dev/awesome-ai-agents.git
 CloudEngineHub/awesome-ai-ml-resources[main]: https://github.com/CloudEngineHub/awesome-ai-ml-resources.git -> https://github.com/armankhondker/awesome-ai-ml-resources.git
 CloudEngineHub/awesome-ai-system-prompts[main]: https://github.com/CloudEngineHub/awesome-ai-system-prompts.git -> https://github.com/dontriskit/awesome-ai-system-prompts.git
@@ -960,7 +960,7 @@ CloudEngineHub/GitNexus[main]: https://github.com/CloudEngineHub/GitNexus.git ->
 CloudEngineHub/GLEE[main]: https://github.com/CloudEngineHub/GLEE.git -> https://github.com/FoundationVision/GLEE.git
 CloudEngineHub/GLM-4[main]: https://github.com/CloudEngineHub/GLM-4.git -> https://github.com/zai-org/GLM-4.git
 CloudEngineHub/GLM-4-Voice[main]: https://github.com/CloudEngineHub/GLM-4-Voice.git -> https://github.com/zai-org/GLM-4-Voice.git
-CloudEngineHub/GM-X[main]: https://github.com/CloudEngineHub/GM-X.git -> https://github.com/yuz1wan/GM-X.git
+CloudEngineHub/GM-X[main]: https://github.com/CloudEngineHub/GM-X.git -> https://github.com/rhos-ai/GM-X.git
 CloudEngineHub/GMR[master]: https://github.com/CloudEngineHub/GMR.git -> https://github.com/YanjieZe/GMR.git
 CloudEngineHub/Go[master]: https://github.com/CloudEngineHub/Go.git -> https://github.com/TheAlgorithms/Go.git
 CloudEngineHub/go-cursor-help[master]: https://github.com/CloudEngineHub/go-cursor-help.git -> https://github.com/yuaotian/go-cursor-help.git
@@ -1126,6 +1126,7 @@ CloudEngineHub/HunyuanVideo[main]: https://github.com/CloudEngineHub/HunyuanVide
 CloudEngineHub/HunyuanVideo-Avatar[main]: https://github.com/CloudEngineHub/HunyuanVideo-Avatar.git -> https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar.git
 CloudEngineHub/Husky-v1[main]: https://github.com/CloudEngineHub/Husky-v1.git -> https://github.com/agent-husky/Husky-v1.git
 CloudEngineHub/HY-Embodied[master]: https://github.com/CloudEngineHub/HY-Embodied.git -> https://github.com/Tencent-Hunyuan/HY-Embodied.git
+CloudEngineHub/Hy-Embodied-0.5-VLA[main]: https://github.com/CloudEngineHub/Hy-Embodied-0.5-VLA.git -> https://github.com/Tencent-Hunyuan/Hy-Embodied-0.5-VLA.git
 CloudEngineHub/HybVIO[main]: https://github.com/CloudEngineHub/HybVIO.git -> https://github.com/SpectacularAI/HybVIO.git
 CloudEngineHub/hyde[master]: https://github.com/CloudEngineHub/hyde.git -> https://github.com/poole/hyde.git
 CloudEngineHub/hydejack[master]: https://github.com/CloudEngineHub/hydejack.git -> https://github.com/hydecorp/hydejack.git
@@ -1565,6 +1566,7 @@ CloudEngineHub/MoDGS[main]: https://github.com/CloudEngineHub/MoDGS.git -> https
 CloudEngineHub/MoE-LLaVA[main]: https://github.com/CloudEngineHub/MoE-LLaVA.git -> https://github.com/PKU-YuanGroup/MoE-LLaVA.git
 CloudEngineHub/MoGe[main]: https://github.com/CloudEngineHub/MoGe.git -> https://github.com/microsoft/MoGe.git
 CloudEngineHub/molmo[main]: https://github.com/CloudEngineHub/molmo.git -> https://github.com/allenai/molmo.git
+CloudEngineHub/molmo-motion[main]: https://github.com/CloudEngineHub/molmo-motion.git -> https://github.com/allenai/molmo-motion.git
 CloudEngineHub/MolmoAct[main]: https://github.com/CloudEngineHub/MolmoAct.git -> https://github.com/allenai/molmoact.git
 CloudEngineHub/molmospaces[main]: https://github.com/CloudEngineHub/molmospaces.git -> https://github.com/allenai/molmospaces.git
 CloudEngineHub/MoMaGen[main]: https://github.com/CloudEngineHub/MoMaGen.git -> https://github.com/ChengshuLi/MoMaGen.git
@@ -1923,6 +1925,7 @@ CloudEngineHub/planning-with-files[master]: https://github.com/CloudEngineHub/pl
 CloudEngineHub/plate[main]: https://github.com/CloudEngineHub/plate.git -> https://github.com/udecode/plate.git
 CloudEngineHub/playwright[main]: https://github.com/CloudEngineHub/playwright.git -> https://github.com/microsoft/playwright.git
 CloudEngineHub/playwright-mcp[main]: https://github.com/CloudEngineHub/playwright-mcp.git -> https://github.com/microsoft/playwright-mcp.git
+CloudEngineHub/PlotJuggler[main]: https://github.com/CloudEngineHub/PlotJuggler.git -> https://github.com/PlotJuggler/PlotJuggler.git
 CloudEngineHub/plugins[main]: https://github.com/CloudEngineHub/plugins.git -> https://github.com/flutter-team-archive/plugins.git
 CloudEngineHub/plyr[master]: https://github.com/CloudEngineHub/plyr.git -> https://github.com/sampotts/plyr.git
 CloudEngineHub/PocketFlow[main]: https://github.com/CloudEngineHub/PocketFlow.git -> https://github.com/The-Pocket/PocketFlow.git
