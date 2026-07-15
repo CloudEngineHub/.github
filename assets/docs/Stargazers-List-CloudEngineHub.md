@@ -40,6 +40,8 @@ CloudEngineHub/lingbot-vla[main]: https://github.com/CloudEngineHub/lingbot-vla.
   - wjy20060456: https://github.com/wjy20060456
 CloudEngineHub/MagicQuill[main]: https://github.com/CloudEngineHub/MagicQuill.git
   - TempleOfTemplar: https://github.com/TempleOfTemplar
+CloudEngineHub/m_flow[main]: https://github.com/CloudEngineHub/m_flow.git
+  - AmaranteVerdure: https://github.com/AmaranteVerdure
 CloudEngineHub/payload[main]: https://github.com/CloudEngineHub/payload.git
   - jensfr1: https://github.com/jensfr1
 CloudEngineHub/phidata[main]: https://github.com/CloudEngineHub/phidata.git
