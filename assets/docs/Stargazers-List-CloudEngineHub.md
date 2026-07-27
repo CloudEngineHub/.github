@@ -16,6 +16,7 @@ CloudEngineHub/echomimic_v2[main]: https://github.com/CloudEngineHub/echomimic_v
   - lonngxiang: https://github.com/lonngxiang
 CloudEngineHub/eKalibr[master]: https://github.com/CloudEngineHub/eKalibr.git
   - Bubblemy: https://github.com/Bubblemy
+  - Forlidas: https://github.com/Forlidas
   - samecos: https://github.com/samecos
 CloudEngineHub/examples[rolling]: https://github.com/CloudEngineHub/examples.git
   - YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
@@ -42,6 +43,8 @@ CloudEngineHub/MagicQuill[main]: https://github.com/CloudEngineHub/MagicQuill.gi
   - TempleOfTemplar: https://github.com/TempleOfTemplar
 CloudEngineHub/m_flow[main]: https://github.com/CloudEngineHub/m_flow.git
   - AmaranteVerdure: https://github.com/AmaranteVerdure
+CloudEngineHub/open-design[main]: https://github.com/CloudEngineHub/open-design.git
+  - q7hjb8qtgj-gif: https://github.com/q7hjb8qtgj-gif
 CloudEngineHub/payload[main]: https://github.com/CloudEngineHub/payload.git
   - jensfr1: https://github.com/jensfr1
 CloudEngineHub/phidata[main]: https://github.com/CloudEngineHub/phidata.git
