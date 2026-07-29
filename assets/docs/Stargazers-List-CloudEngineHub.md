@@ -1,3 +1,5 @@
+CloudEngineHub/.github[main]: https://github.com/CloudEngineHub/.github.git
+  - Blackdiamond777: https://github.com/Blackdiamond777
 CloudEngineHub/aero-hand-open[main]: https://github.com/CloudEngineHub/aero-hand-open.git
   - YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
 CloudEngineHub/ai_quant_trade[master]: https://github.com/CloudEngineHub/ai_quant_trade.git
@@ -8,6 +10,8 @@ CloudEngineHub/awesome-mcp-servers-wong2[main]: https://github.com/CloudEngineHu
   - YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
 CloudEngineHub/BettaFish[main]: https://github.com/CloudEngineHub/BettaFish.git
   - YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
+CloudEngineHub/claude-plugins-official[main]: https://github.com/CloudEngineHub/claude-plugins-official.git
+  - Blackdiamond777: https://github.com/Blackdiamond777
 CloudEngineHub/cloudflared[master]: https://github.com/CloudEngineHub/cloudflared.git
   - YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
 CloudEngineHub/dexbotic[main]: https://github.com/CloudEngineHub/dexbotic.git
@@ -45,12 +49,20 @@ CloudEngineHub/m_flow[main]: https://github.com/CloudEngineHub/m_flow.git
   - AmaranteVerdure: https://github.com/AmaranteVerdure
 CloudEngineHub/open-design[main]: https://github.com/CloudEngineHub/open-design.git
   - q7hjb8qtgj-gif: https://github.com/q7hjb8qtgj-gif
+CloudEngineHub/openhuman[main]: https://github.com/CloudEngineHub/openhuman.git
+  - Blackdiamond777: https://github.com/Blackdiamond777
+CloudEngineHub/openwork[dev]: https://github.com/CloudEngineHub/openwork.git
+  - Blackdiamond777: https://github.com/Blackdiamond777
 CloudEngineHub/payload[main]: https://github.com/CloudEngineHub/payload.git
   - jensfr1: https://github.com/jensfr1
 CloudEngineHub/phidata[main]: https://github.com/CloudEngineHub/phidata.git
   - jensfr1: https://github.com/jensfr1
 CloudEngineHub/PhysTwin[main]: https://github.com/CloudEngineHub/PhysTwin.git
   - saravanansam2997: https://github.com/saravanansam2997
+CloudEngineHub/potpie[main]: https://github.com/CloudEngineHub/potpie.git
+  - Blackdiamond777: https://github.com/Blackdiamond777
+CloudEngineHub/remote-jobs[main]: https://github.com/CloudEngineHub/remote-jobs.git
+  - Blackdiamond777: https://github.com/Blackdiamond777
 CloudEngineHub/shimmy[main]: https://github.com/CloudEngineHub/shimmy.git
   - Michael-A-Kuykendall: https://github.com/Michael-A-Kuykendall
 CloudEngineHub/StockSharp[master]: https://github.com/CloudEngineHub/StockSharp.git
@@ -59,6 +71,10 @@ CloudEngineHub/supertokens-core[master]: https://github.com/CloudEngineHub/super
   - jensfr1: https://github.com/jensfr1
 CloudEngineHub/SynCamMaster[main]: https://github.com/CloudEngineHub/SynCamMaster.git
   - Wu-Fisher: https://github.com/Wu-Fisher
+CloudEngineHub/system_prompts_leaks[main]: https://github.com/CloudEngineHub/system_prompts_leaks.git
+  - Blackdiamond777: https://github.com/Blackdiamond777
+CloudEngineHub/teleport[master]: https://github.com/CloudEngineHub/teleport.git
+  - Blackdiamond777: https://github.com/Blackdiamond777
 CloudEngineHub/trlc-dk1[main]: https://github.com/CloudEngineHub/trlc-dk1.git
   - ZhuYaoHui1998: https://github.com/ZhuYaoHui1998
 CloudEngineHub/unsloth[main]: https://github.com/CloudEngineHub/unsloth.git
@@ -71,6 +87,8 @@ CloudEngineHub/WheeledLab[main]: https://github.com/CloudEngineHub/WheeledLab.gi
   - YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
 CloudEngineHub/whisper[main]: https://github.com/CloudEngineHub/whisper.git
   - DonkyFab: https://github.com/DonkyFab
+CloudEngineHub/worldmonitor[main]: https://github.com/CloudEngineHub/worldmonitor.git
+  - Blackdiamond777: https://github.com/Blackdiamond777
 CloudEngineHub/xiaomusic[main]: https://github.com/CloudEngineHub/xiaomusic.git
   - mohsen104: https://github.com/mohsen104
   - Syntax-Vibe: https://github.com/Syntax-Vibe
