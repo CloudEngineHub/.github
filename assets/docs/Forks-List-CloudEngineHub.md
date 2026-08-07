@@ -596,7 +596,9 @@ CloudEngineHub/DenseFusion[master]: https://github.com/CloudEngineHub/DenseFusio
 CloudEngineHub/DensePose[main]: https://github.com/CloudEngineHub/DensePose.git -> https://github.com/facebookresearch/DensePose.git
 CloudEngineHub/deoxys_control[main]: https://github.com/CloudEngineHub/deoxys_control.git -> https://github.com/UT-Austin-RPL/deoxys_control.git
 CloudEngineHub/depRL[main]: https://github.com/CloudEngineHub/depRL.git -> https://github.com/martius-lab/depRL.git
+CloudEngineHub/Depth-Anything-3[main]: https://github.com/CloudEngineHub/Depth-Anything-3.git -> https://github.com/ByteDance-Seed/Depth-Anything-3.git
 CloudEngineHub/Depth-Anything-V2[main]: https://github.com/CloudEngineHub/Depth-Anything-V2.git -> https://github.com/DepthAnything/Depth-Anything-V2.git
+CloudEngineHub/depth-anything.cpp[master]: https://github.com/CloudEngineHub/depth-anything.cpp.git -> https://github.com/localai-org/depth-anything.cpp.git
 CloudEngineHub/DepthAnyVideo[main]: https://github.com/CloudEngineHub/DepthAnyVideo.git -> https://github.com/Nightmare-n/DepthAnyVideo.git
 CloudEngineHub/DepthLab[main]: https://github.com/CloudEngineHub/DepthLab.git -> https://github.com/ant-research/DepthLab.git
 CloudEngineHub/design.md[main]: https://github.com/CloudEngineHub/design.md.git -> https://github.com/google-labs-code/design.md.git
@@ -813,6 +815,7 @@ CloudEngineHub/FairyGen[main]: https://github.com/CloudEngineHub/FairyGen.git ->
 CloudEngineHub/FALCON[main]: https://github.com/CloudEngineHub/FALCON.git -> https://github.com/LeCAR-Lab/FALCON.git
 CloudEngineHub/Falcon-VLM[main]: https://github.com/CloudEngineHub/Falcon-VLM.git -> https://github.com/TianHuiLab/Falcon.git
 CloudEngineHub/farfalle[main]: https://github.com/CloudEngineHub/farfalle.git -> https://github.com/rashadphz/farfalle.git
+CloudEngineHub/FARM-Project[main]: https://github.com/CloudEngineHub/FARM-Project.git -> https://github.com/GoldenGait/FARM-Project.git
 CloudEngineHub/fast-agent[main]: https://github.com/CloudEngineHub/fast-agent.git -> https://github.com/evalstate/fast-agent.git
 CloudEngineHub/Fast-dLLM[main]: https://github.com/CloudEngineHub/Fast-dLLM.git -> https://github.com/NVlabs/Fast-dLLM.git
 CloudEngineHub/Fast-FoundationStereo[master]: https://github.com/CloudEngineHub/Fast-FoundationStereo.git -> https://github.com/NVlabs/Fast-FoundationStereo.git
@@ -1391,6 +1394,7 @@ CloudEngineHub/libmodbus[master]: https://github.com/CloudEngineHub/libmodbus.gi
 CloudEngineHub/librealsense[master]: https://github.com/CloudEngineHub/librealsense.git -> https://github.com/realsenseai/librealsense.git
 CloudEngineHub/librepods[main]: https://github.com/CloudEngineHub/librepods.git -> https://github.com/librepods-org/librepods.git
 CloudEngineHub/lifelike-agility-and-play[master]: https://github.com/CloudEngineHub/lifelike-agility-and-play.git -> https://github.com/Tencent-RoboticsX/lifelike-agility-and-play.git
+CloudEngineHub/Lift4D[main]: https://github.com/CloudEngineHub/Lift4D.git -> https://github.com/yehonathanlitman/Lift4D.git
 CloudEngineHub/Light-A-Video[main]: https://github.com/CloudEngineHub/Light-A-Video.git -> https://github.com/bcmi/Light-A-Video.git
 CloudEngineHub/LightRAG[main]: https://github.com/CloudEngineHub/LightRAG.git -> https://github.com/HKUDS/LightRAG.git
 CloudEngineHub/lima[master]: https://github.com/CloudEngineHub/lima.git -> https://github.com/lima-vm/lima.git
@@ -2001,7 +2005,7 @@ CloudEngineHub/phei-cs-book[master]: https://github.com/CloudEngineHub/phei-cs-b
 CloudEngineHub/phidata[main]: https://github.com/CloudEngineHub/phidata.git -> https://github.com/agno-agi/agno.git
 CloudEngineHub/Phoenix[master]: https://github.com/CloudEngineHub/Phoenix.git -> https://github.com/wxWidgets/Phoenix.git
 CloudEngineHub/PHUMA[main]: https://github.com/CloudEngineHub/PHUMA.git -> https://github.com/DAVIAN-Robotics/PHUMA.git
-CloudEngineHub/PhyAgentOS[main]: https://github.com/CloudEngineHub/PhyAgentOS.git -> https://github.com/PhyAgentOS/PhyAgentOS.git
+CloudEngineHub/PhyAgentOS[main]: https://github.com/CloudEngineHub/PhyAgentOS.git -> https://github.com/PhyAgentOS-Dev/PhyAgentOS.git
 CloudEngineHub/physgen[main]: https://github.com/CloudEngineHub/physgen.git -> https://github.com/stevenlsw/physgen.git
 CloudEngineHub/PhysGen3D[main]: https://github.com/CloudEngineHub/PhysGen3D.git -> https://github.com/by-luckk/PhysGen3D.git
 CloudEngineHub/PhysRig[main]: https://github.com/CloudEngineHub/PhysRig.git -> https://github.com/haoz19/PhysRig.git
@@ -2010,6 +2014,7 @@ CloudEngineHub/PhysX[release/104.2]: https://github.com/CloudEngineHub/PhysX.git
 CloudEngineHub/PhysX-3.4[master]: https://github.com/CloudEngineHub/PhysX-3.4.git -> https://github.com/NVIDIAGameWorks/PhysX-3.4.git
 CloudEngineHub/PhysX-Anything[main]: https://github.com/CloudEngineHub/PhysX-Anything.git -> https://github.com/ziangcao0312/PhysX-Anything.git
 CloudEngineHub/pi-mono[main]: https://github.com/CloudEngineHub/pi-mono.git -> https://github.com/earendil-works/pi.git
+CloudEngineHub/pi-r2-flow[main]: https://github.com/CloudEngineHub/pi-r2-flow.git -> https://github.com/pi-r2-flow/pi-r2-flow.git
 CloudEngineHub/pianomime[master]: https://github.com/CloudEngineHub/pianomime.git -> https://github.com/sNiper-Qian/pianomime.git
 CloudEngineHub/picMenu[main]: https://github.com/CloudEngineHub/picMenu.git -> https://github.com/Nutlope/picMenu.git
 CloudEngineHub/picoclaw[main]: https://github.com/CloudEngineHub/picoclaw.git -> https://github.com/sipeed/picoclaw.git
@@ -2210,6 +2215,7 @@ CloudEngineHub/Residual_Copilot_Deployment[main]: https://github.com/CloudEngine
 CloudEngineHub/ResNet[master]: https://github.com/CloudEngineHub/ResNet.git -> https://github.com/tornadomeet/ResNet.git
 CloudEngineHub/ResnetGPT[master]: https://github.com/CloudEngineHub/ResnetGPT.git -> https://github.com/FengQuanLi/ResnetGPT.git
 CloudEngineHub/retro[master]: https://github.com/CloudEngineHub/retro.git -> https://github.com/openai/retro.git
+CloudEngineHub/reviv4d[main]: https://github.com/CloudEngineHub/reviv4d.git -> https://github.com/lvsean/reviv4d.git
 CloudEngineHub/rewACT[main]: https://github.com/CloudEngineHub/rewACT.git -> https://github.com/villekuosmanen/rewACT.git
 CloudEngineHub/rgbdslam_v2[kinetic]: https://github.com/CloudEngineHub/rgbdslam_v2.git -> https://github.com/felixendres/rgbdslam_v2.git
 CloudEngineHub/RGBManip[main]: https://github.com/CloudEngineHub/RGBManip.git -> https://github.com/hyperplane-lab/RGBManip.git
@@ -2546,6 +2552,7 @@ CloudEngineHub/suna[main]: https://github.com/CloudEngineHub/suna.git -> https:/
 CloudEngineHub/supabase[master]: https://github.com/CloudEngineHub/supabase.git -> https://github.com/supabase/supabase.git
 CloudEngineHub/SuperAGI[main]: https://github.com/CloudEngineHub/SuperAGI.git -> https://github.com/TransformerOptimus/SuperAGI.git
 CloudEngineHub/SuperCoder[main]: https://github.com/CloudEngineHub/SuperCoder.git -> https://github.com/TransformerOptimus/SuperCoder.git
+CloudEngineHub/SuperMap[master]: https://github.com/CloudEngineHub/SuperMap.git -> https://github.com/superxslam/SuperMap.git
 CloudEngineHub/supermemory[main]: https://github.com/CloudEngineHub/supermemory.git -> https://github.com/supermemoryai/supermemory.git
 CloudEngineHub/superpowers[main]: https://github.com/CloudEngineHub/superpowers.git -> https://github.com/obra/superpowers.git
 CloudEngineHub/SuperPrompt[main]: https://github.com/CloudEngineHub/SuperPrompt.git -> https://github.com/NeoVertex1/SuperPrompt.git
