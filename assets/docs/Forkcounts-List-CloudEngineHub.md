@@ -12,6 +12,8 @@ CloudEngineHub/eKalibr[master]: https://github.com/CloudEngineHub/eKalibr.git
   - marenan: https://github.com/marenan
 CloudEngineHub/lingbot-vla[main]: https://github.com/CloudEngineHub/lingbot-vla.git
   - E-privo: https://github.com/E-privo
+CloudEngineHub/OrcaLab[main]: https://github.com/CloudEngineHub/OrcaLab.git
+  - NekoTiger: https://github.com/NekoTiger
 CloudEngineHub/PaddleHub[release/v2.1]: https://github.com/CloudEngineHub/PaddleHub.git
   - organization0012: https://github.com/organization0012
 CloudEngineHub/YOLOv6[main]: https://github.com/CloudEngineHub/YOLOv6.git
