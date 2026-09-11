@@ -3,6 +3,7 @@ balebule213-cloud: https://github.com/balebule213-cloud
 Blackdiamond777: https://github.com/Blackdiamond777
 brave-new-dev: https://github.com/brave-new-dev
 CUSERatGH: https://github.com/CUSERatGH
+devinapanda6699: https://github.com/devinapanda6699
 E-privo: https://github.com/E-privo
 insujeon: https://github.com/insujeon
 Ivankilin: https://github.com/Ivankilin
