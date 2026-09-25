@@ -16,6 +16,8 @@ CloudEngineHub/OrcaLab[main]: https://github.com/CloudEngineHub/OrcaLab.git
   - NekoTiger: https://github.com/NekoTiger
 CloudEngineHub/PaddleHub[release/v2.1]: https://github.com/CloudEngineHub/PaddleHub.git
   - organization0012: https://github.com/organization0012
+CloudEngineHub/projectaria_tools[main]: https://github.com/CloudEngineHub/projectaria_tools.git
+  - kavehsfv: https://github.com/kavehsfv
 CloudEngineHub/self-llm[master]: https://github.com/CloudEngineHub/self-llm.git
   - lk8712: https://github.com/lk8712
 CloudEngineHub/YOLOv6[main]: https://github.com/CloudEngineHub/YOLOv6.git
