@@ -2,6 +2,7 @@ arthrod: https://github.com/arthrod
 balebule213-cloud: https://github.com/balebule213-cloud
 Blackdiamond777: https://github.com/Blackdiamond777
 brave-new-dev: https://github.com/brave-new-dev
+CoetaneousoosenStarved7: https://github.com/CoetaneousoosenStarved7
 CUSERatGH: https://github.com/CUSERatGH
 devinapanda6699: https://github.com/devinapanda6699
 E-privo: https://github.com/E-privo
