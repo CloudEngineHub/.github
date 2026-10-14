@@ -9,6 +9,7 @@ E-privo: https://github.com/E-privo
 insujeon: https://github.com/insujeon
 Ivankilin: https://github.com/Ivankilin
 JadeCong: https://github.com/JadeCong
+just-wynot: https://github.com/just-wynot
 lu-yidan: https://github.com/lu-yidan
 mjid13: https://github.com/mjid13
 samecos: https://github.com/samecos
