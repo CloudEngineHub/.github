@@ -1,6 +1,6 @@
-name: Gen Followers List - CloudEngineHub
+name: Gen Followers List
 
-run-name: Gen Followers List - CloudEngineHub
+run-name: Gen Followers List
 
 on:
   schedule:
@@ -24,12 +24,12 @@ concurrency:
 
 jobs:
   gen-followers-list:
-    name: Gen Forks List
+    name: Gen Followers List for CloudEngineHub
     runs-on: [self-hosted, Linux, ARM64, CloudEngineHub, runner-1]
     
     steps:
       - name: Check out the repository to the runner
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       
       - name: Configure git
         run: |
