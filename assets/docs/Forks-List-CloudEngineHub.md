@@ -496,6 +496,7 @@ CloudEngineHub/cloud-mail[main]: https://github.com/CloudEngineHub/cloud-mail.gi
 CloudEngineHub/cloudflared[master]: https://github.com/CloudEngineHub/cloudflared.git -> https://github.com/cloudflare/cloudflared.git
 CloudEngineHub/CMake[master]: https://github.com/CloudEngineHub/CMake.git -> https://github.com/Kitware/CMake.git
 CloudEngineHub/cmake-examples[master]: https://github.com/CloudEngineHub/cmake-examples.git -> https://github.com/ttroy50/cmake-examples.git
+CloudEngineHub/cn-math-taxonomy[main]: https://github.com/CloudEngineHub/cn-math-taxonomy.git -> https://github.com/xiaoyang111222/cn-math-taxonomy.git
 CloudEngineHub/cnn-explainer[master]: https://github.com/CloudEngineHub/cnn-explainer.git -> https://github.com/poloclub/cnn-explainer.git
 CloudEngineHub/CNTK[master]: https://github.com/CloudEngineHub/CNTK.git -> https://github.com/microsoft/CNTK.git
 CloudEngineHub/co-tracker[main]: https://github.com/CloudEngineHub/co-tracker.git -> https://github.com/facebookresearch/co-tracker.git
@@ -683,6 +684,8 @@ CloudEngineHub/dexhand_gesture_controller[main]: https://github.com/CloudEngineH
 CloudEngineHub/dexhand_llm_control[main]: https://github.com/CloudEngineHub/dexhand_llm_control.git -> https://github.com/iotdesignshop/dexhand_llm_control.git
 CloudEngineHub/dexhand_ros2_meta[main]: https://github.com/CloudEngineHub/dexhand_ros2_meta.git -> https://github.com/iotdesignshop/dexhand_ros2_meta.git
 CloudEngineHub/dexhand_usb_serial[main]: https://github.com/CloudEngineHub/dexhand_usb_serial.git -> https://github.com/iotdesignshop/dexhand_usb_serial.git
+CloudEngineHub/Dexholdem-Policy[main]: https://github.com/CloudEngineHub/Dexholdem-Policy.git -> https://github.com/DexHoldem/Dexholdem-Policy.git
+CloudEngineHub/DexHoldemSKills[main]: https://github.com/CloudEngineHub/DexHoldemSKills.git -> https://github.com/DexHoldem/DexHoldemSKills.git
 CloudEngineHub/DexHub[main]: https://github.com/CloudEngineHub/DexHub.git -> https://github.com/BinaryDex/DexHub.git
 CloudEngineHub/DexLatent[main]: https://github.com/CloudEngineHub/DexLatent.git -> https://github.com/EmptyBlueBox/DexLatent.git
 CloudEngineHub/DexLearn[main]: https://github.com/CloudEngineHub/DexLearn.git -> https://github.com/JYChen18/DexLearn.git
@@ -1374,6 +1377,7 @@ CloudEngineHub/InternVLA-A1[master]: https://github.com/CloudEngineHub/InternVLA
 CloudEngineHub/InternW0-Delta[main]: https://github.com/CloudEngineHub/InternW0-Delta.git -> https://github.com/InternRobotics/InternW0-Delta.git
 CloudEngineHub/Interview[master]: https://github.com/CloudEngineHub/Interview.git -> https://github.com/apachecn/Interview.git
 CloudEngineHub/IntPhys2[main]: https://github.com/CloudEngineHub/IntPhys2.git -> https://github.com/facebookresearch/IntPhys2.git
+CloudEngineHub/ios-topaz[topaz]: https://github.com/CloudEngineHub/ios-topaz.git -> https://github.com/MakrSas/ios-topaz.git
 CloudEngineHub/IoT-For-Beginners[main]: https://github.com/CloudEngineHub/IoT-For-Beginners.git -> https://github.com/microsoft/IoT-For-Beginners.git
 CloudEngineHub/ironclaw[main]: https://github.com/CloudEngineHub/ironclaw.git -> https://github.com/nearai/ironclaw.git
 CloudEngineHub/irreader[master]: https://github.com/CloudEngineHub/irreader.git -> https://github.com/huoxingdeguoguo/irreader.git
@@ -1819,6 +1823,7 @@ CloudEngineHub/moonshine[main]: https://github.com/CloudEngineHub/moonshine.git 
 CloudEngineHub/morl-baselines[main]: https://github.com/CloudEngineHub/morl-baselines.git -> https://github.com/LucasAlegre/morl-baselines.git
 CloudEngineHub/Morpheus-Hardware[main]: https://github.com/CloudEngineHub/Morpheus-Hardware.git -> https://github.com/ZZongzheng0918/Morpheus-Hardware.git
 CloudEngineHub/Morpheus-Software[main]: https://github.com/CloudEngineHub/Morpheus-Software.git -> https://github.com/ZZongzheng0918/Morpheus-Software.git
+CloudEngineHub/morphmimic[main]: https://github.com/CloudEngineHub/morphmimic.git -> https://github.com/lzyang2000/morphmimic.git
 CloudEngineHub/morphology-adaptive[main]: https://github.com/CloudEngineHub/morphology-adaptive.git -> https://github.com/juniorrojas/morphology-adaptive.git
 CloudEngineHub/morse-transmitter[main]: https://github.com/CloudEngineHub/morse-transmitter.git -> https://github.com/sime/morse-transmitter.git
 CloudEngineHub/MOSAIC[main]: https://github.com/CloudEngineHub/MOSAIC.git -> https://github.com/BAAI-Humanoid/MOSAIC.git
@@ -2345,6 +2350,7 @@ CloudEngineHub/RAIN[main]: https://github.com/CloudEngineHub/RAIN.git -> https:/
 CloudEngineHub/rambo[main]: https://github.com/CloudEngineHub/rambo.git -> https://github.com/catachiii/rambo.git
 CloudEngineHub/RaspberryPi-CM4-XGO-Rider[RCM4V1]: https://github.com/CloudEngineHub/RaspberryPi-CM4-XGO-Rider.git -> https://github.com/LuwuDynamics/RaspberryPi-CM4-XGO-Rider.git
 CloudEngineHub/RAVEN[main]: https://github.com/CloudEngineHub/RAVEN.git -> https://github.com/princeton-prism/RAVEN.git
+CloudEngineHub/rax[main]: https://github.com/CloudEngineHub/rax.git -> https://github.com/robot-agent-exploration/rax.git
 CloudEngineHub/Rcs[master]: https://github.com/CloudEngineHub/Rcs.git -> https://github.com/HRI-EU/Rcs.git
 CloudEngineHub/RDT2[main]: https://github.com/CloudEngineHub/RDT2.git -> https://github.com/thu-ml/RDT2.git
 CloudEngineHub/rea[main]: https://github.com/CloudEngineHub/rea.git -> https://github.com/morluto/rea.git
@@ -2653,6 +2659,7 @@ CloudEngineHub/situation-monitor[main]: https://github.com/CloudEngineHub/situat
 CloudEngineHub/SkillMimic[main]: https://github.com/CloudEngineHub/SkillMimic.git -> https://github.com/wyhuai/SkillMimic.git
 CloudEngineHub/SkillOpt[main]: https://github.com/CloudEngineHub/SkillOpt.git -> https://github.com/microsoft/SkillOpt.git
 CloudEngineHub/skills[main]: https://github.com/CloudEngineHub/skills.git -> https://github.com/anthropics/skills.git
+CloudEngineHub/skills-lib[main]: https://github.com/CloudEngineHub/skills-lib.git -> https://github.com/robot-agent-exploration/skills-lib.git
 CloudEngineHub/skills-manager[main]: https://github.com/CloudEngineHub/skills-manager.git -> https://github.com/xingkongliang/skills-manager.git
 CloudEngineHub/Skill_Seekers[development]: https://github.com/CloudEngineHub/Skill_Seekers.git -> https://github.com/yusufkaraaslan/Skill_Seekers.git
 CloudEngineHub/SkyReels-V1[main]: https://github.com/CloudEngineHub/SkyReels-V1.git -> https://github.com/SkyworkAI/SkyReels-V1.git
@@ -2806,7 +2813,7 @@ CloudEngineHub/tauri[dev]: https://github.com/CloudEngineHub/tauri.git -> https:
 CloudEngineHub/tavily-python[master]: https://github.com/CloudEngineHub/tavily-python.git -> https://github.com/tavily-ai/tavily-python.git
 CloudEngineHub/tctip[master]: https://github.com/CloudEngineHub/tctip.git -> https://github.com/greedying/tctip.git
 CloudEngineHub/technical-whitepapers[master]: https://github.com/CloudEngineHub/technical-whitepapers.git -> https://github.com/trimstray/technical-whitepapers.git
-CloudEngineHub/TelegramSwift[master]: https://github.com/CloudEngineHub/TelegramSwift.git -> https://github.com/overtake/TelegramSwift.git
+CloudEngineHub/TelegramSwift[master]: https://github.com/CloudEngineHub/TelegramSwift.git -> https://github.com/andrian7/TelegramSwift.git
 CloudEngineHub/telekinesis-examples[main]: https://github.com/CloudEngineHub/telekinesis-examples.git -> https://github.com/telekinesis-ai/telekinesis-examples.git
 CloudEngineHub/telekinesis-rlbotics[main]: https://github.com/CloudEngineHub/telekinesis-rlbotics.git -> https://github.com/telekinesis-ai/telekinesis-rlbotics.git
 CloudEngineHub/TeleOpBench[main]: https://github.com/CloudEngineHub/TeleOpBench.git -> https://github.com/cyjdlhy/TeleOpBench.git
@@ -2958,6 +2965,8 @@ CloudEngineHub/unitree_mujoco[main]: https://github.com/CloudEngineHub/unitree_m
 CloudEngineHub/unitree_rl_gym[main]: https://github.com/CloudEngineHub/unitree_rl_gym.git -> https://github.com/unitreerobotics/unitree_rl_gym.git
 CloudEngineHub/unitree_ros[master]: https://github.com/CloudEngineHub/unitree_ros.git -> https://github.com/unitreerobotics/unitree_ros.git
 CloudEngineHub/unitree_ros2[master]: https://github.com/CloudEngineHub/unitree_ros2.git -> https://github.com/unitreerobotics/unitree_ros2.git
+CloudEngineHub/unitree_sdk2[main]: https://github.com/CloudEngineHub/unitree_sdk2.git -> https://github.com/unitreerobotics/unitree_sdk2.git
+CloudEngineHub/unitree_sdk2_python[master]: https://github.com/CloudEngineHub/unitree_sdk2_python.git -> https://github.com/unitreerobotics/unitree_sdk2_python.git
 CloudEngineHub/unity-chai3d[master]: https://github.com/CloudEngineHub/unity-chai3d.git -> https://github.com/jangyungi/unity-chai3d.git
 CloudEngineHub/Unity-Robotics-Hub[main]: https://github.com/CloudEngineHub/Unity-Robotics-Hub.git -> https://github.com/Unity-Technologies/Unity-Robotics-Hub.git
 CloudEngineHub/universal_manipulation_interface[main]: https://github.com/CloudEngineHub/universal_manipulation_interface.git -> https://github.com/real-stanford/universal_manipulation_interface.git
