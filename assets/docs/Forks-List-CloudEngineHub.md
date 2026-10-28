@@ -573,6 +573,7 @@ CloudEngineHub/CosyVoice[main]: https://github.com/CloudEngineHub/CosyVoice.git 
 CloudEngineHub/cover-vla[main]: https://github.com/CloudEngineHub/cover-vla.git -> https://github.com/cover-vla/cover-vla.git
 CloudEngineHub/coze-discord-proxy[main]: https://github.com/CloudEngineHub/coze-discord-proxy.git -> https://github.com/deanxv/coze-discord-proxy.git
 CloudEngineHub/coze-studio[main]: https://github.com/CloudEngineHub/coze-studio.git -> https://github.com/coze-dev/coze-studio.git
+CloudEngineHub/cr-dagger[main]: https://github.com/CloudEngineHub/cr-dagger.git -> https://github.com/yifan-hou/cr-dagger.git
 CloudEngineHub/Cradle[main]: https://github.com/CloudEngineHub/Cradle.git -> https://github.com/BAAI-Agents/Cradle.git
 CloudEngineHub/craftgpt[main]: https://github.com/CloudEngineHub/craftgpt.git -> https://github.com/sammyuri/craftgpt.git
 CloudEngineHub/crawl4ai[main]: https://github.com/CloudEngineHub/crawl4ai.git -> https://github.com/unclecode/crawl4ai.git
@@ -692,6 +693,8 @@ CloudEngineHub/DexLearn[main]: https://github.com/CloudEngineHub/DexLearn.git ->
 CloudEngineHub/dexmachina[main]: https://github.com/CloudEngineHub/dexmachina.git -> https://github.com/MandiZhao/dexmachina.git
 CloudEngineHub/dexmimicgen[main]: https://github.com/CloudEngineHub/dexmimicgen.git -> https://github.com/NVlabs/dexmimicgen.git
 CloudEngineHub/Dexonomy[main]: https://github.com/CloudEngineHub/Dexonomy.git -> https://github.com/JYChen18/Dexonomy.git
+CloudEngineHub/DexRoam[main]: https://github.com/CloudEngineHub/DexRoam.git -> https://github.com/zhourui9813/DexRoam.git
+CloudEngineHub/DexRoam-Policy-Training[main]: https://github.com/CloudEngineHub/DexRoam-Policy-Training.git -> https://github.com/zhourui9813/DexRoam-Policy-Training.git
 CloudEngineHub/dexrobot_isaac[main]: https://github.com/CloudEngineHub/dexrobot_isaac.git -> https://github.com/DexRobot/dexrobot_isaac.git
 CloudEngineHub/dexrobot_python_sdk[main]: https://github.com/CloudEngineHub/dexrobot_python_sdk.git -> https://github.com/DexRobot/dexrobot_ecosystem.git
 CloudEngineHub/DexTacWAM[main]: https://github.com/CloudEngineHub/DexTacWAM.git -> https://github.com/dextacwam/DexTacWAM.git
@@ -853,6 +856,10 @@ CloudEngineHub/engineai_legged_gym[master]: https://github.com/CloudEngineHub/en
 CloudEngineHub/EquAct[ICLR2026]: https://github.com/CloudEngineHub/EquAct.git -> https://github.com/ZXP-S-works/EquAct.git
 CloudEngineHub/equibot[main]: https://github.com/CloudEngineHub/equibot.git -> https://github.com/yjy0625/equibot.git
 CloudEngineHub/ERIQ[main]: https://github.com/CloudEngineHub/ERIQ.git -> https://github.com/GenieReasoner/ERIQ.git
+CloudEngineHub/eRob_CANopen_Linux[main]: https://github.com/CloudEngineHub/eRob_CANopen_Linux.git -> https://github.com/ZeroErrControl/eRob_CANopen_Linux.git
+CloudEngineHub/eRob_eCoder[main]: https://github.com/CloudEngineHub/eRob_eCoder.git -> https://github.com/ZeroErrControl/eRob_eCoder.git
+CloudEngineHub/eRob_IGH_EtherCAT[main]: https://github.com/CloudEngineHub/eRob_IGH_EtherCAT.git -> https://github.com/ZeroErrControl/eRob_IGH_EtherCAT.git
+CloudEngineHub/eRob_SOEM_linux[main]: https://github.com/CloudEngineHub/eRob_SOEM_linux.git -> https://github.com/ZeroErrControl/eRob_SOEM_linux.git
 CloudEngineHub/ES-PTAM[main]: https://github.com/CloudEngineHub/ES-PTAM.git -> https://github.com/tub-rip/ES-PTAM.git
 CloudEngineHub/ESAM[main]: https://github.com/CloudEngineHub/ESAM.git -> https://github.com/xuxw98/ESAM.git
 CloudEngineHub/EscherNet[main]: https://github.com/CloudEngineHub/EscherNet.git -> https://github.com/kxhit/EscherNet.git
@@ -1424,6 +1431,8 @@ CloudEngineHub/JoyHallo[main]: https://github.com/CloudEngineHub/JoyHallo.git ->
 CloudEngineHub/JoyVASA[main]: https://github.com/CloudEngineHub/JoyVASA.git -> https://github.com/jdh-algo/JoyVASA.git
 CloudEngineHub/json4u[main]: https://github.com/CloudEngineHub/json4u.git -> https://github.com/loggerhead/json4u.git
 CloudEngineHub/judo[main]: https://github.com/CloudEngineHub/judo.git -> https://github.com/rai-opensource/judo.git
+CloudEngineHub/jumper[main]: https://github.com/CloudEngineHub/jumper.git -> https://github.com/KingKongRobotics/jumper.git
+CloudEngineHub/jumper-design[main]: https://github.com/CloudEngineHub/jumper-design.git -> https://github.com/KingKongRobotics/jumper-design.git
 CloudEngineHub/jumping_cod[master]: https://github.com/CloudEngineHub/jumping_cod.git -> https://github.com/yxyang/jumping_cod.git
 CloudEngineHub/jupyter-ros[main]: https://github.com/CloudEngineHub/jupyter-ros.git -> https://github.com/RoboStack/jupyter-ros.git
 CloudEngineHub/jupyterlab-ros[master]: https://github.com/CloudEngineHub/jupyterlab-ros.git -> https://github.com/RoboStack/jupyterlab-ros.git
@@ -2819,6 +2828,8 @@ CloudEngineHub/telekinesis-rlbotics[main]: https://github.com/CloudEngineHub/tel
 CloudEngineHub/TeleOpBench[main]: https://github.com/CloudEngineHub/TeleOpBench.git -> https://github.com/cyjdlhy/TeleOpBench.git
 CloudEngineHub/teleport[master]: https://github.com/CloudEngineHub/teleport.git -> https://github.com/gravitational/teleport.git
 CloudEngineHub/TeleVision[main]: https://github.com/CloudEngineHub/TeleVision.git -> https://github.com/OpenTeleVision/TeleVision.git
+CloudEngineHub/TEMPO[main]: https://github.com/CloudEngineHub/TEMPO.git -> https://github.com/tempo-robot/TEMPO.git
+CloudEngineHub/TempoBench[main]: https://github.com/CloudEngineHub/TempoBench.git -> https://github.com/tempo-robot/TempoBench.git
 CloudEngineHub/ten-framework[647-feature-hope-to-add-the-sensevoice-multilingual-voice-understanding-model]: https://github.com/CloudEngineHub/ten-framework.git -> https://github.com/TEN-framework/ten-framework.git
 CloudEngineHub/tensor2robot[master]: https://github.com/CloudEngineHub/tensor2robot.git -> https://github.com/google-research/tensor2robot.git
 CloudEngineHub/tensorflow[master]: https://github.com/CloudEngineHub/tensorflow.git -> https://github.com/tensorflow/tensorflow.git
@@ -3191,6 +3202,7 @@ CloudEngineHub/zerox[main]: https://github.com/CloudEngineHub/zerox.git -> https
 CloudEngineHub/zhangxuefeng-skill[main]: https://github.com/CloudEngineHub/zhangxuefeng-skill.git -> https://github.com/alchaincyf/zhangxuefeng-skill.git
 CloudEngineHub/zino[main]: https://github.com/CloudEngineHub/zino.git -> https://github.com/zino-rs/zino.git
 CloudEngineHub/zipline[master]: https://github.com/CloudEngineHub/zipline.git -> https://github.com/quantopian/zipline.git
+CloudEngineHub/ziwei-doushu[main]: https://github.com/CloudEngineHub/ziwei-doushu.git -> https://github.com/Renhuai123/ziwei-doushu.git
 CloudEngineHub/ZLMediaKit[master]: https://github.com/CloudEngineHub/ZLMediaKit.git -> https://github.com/ZLMediaKit/ZLMediaKit.git
 CloudEngineHub/ZPRL[main]: https://github.com/CloudEngineHub/ZPRL.git -> https://github.com/ManUtdMoon/ZPRL.git
 CloudEngineHub/ZyperWinOptimize[main]: https://github.com/CloudEngineHub/ZyperWinOptimize.git -> https://github.com/ZyperWave/ZyperWinOptimize.git
