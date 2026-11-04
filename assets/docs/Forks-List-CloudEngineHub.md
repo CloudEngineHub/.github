@@ -777,6 +777,7 @@ CloudEngineHub/drone-mcp[main]: https://github.com/CloudEngineHub/drone-mcp.git 
 CloudEngineHub/ds4[main]: https://github.com/CloudEngineHub/ds4.git -> https://github.com/antirez/ds4.git
 CloudEngineHub/dsec-det[master]: https://github.com/CloudEngineHub/dsec-det.git -> https://github.com/uzh-rpg/dsec-det.git
 CloudEngineHub/dsh-mobile[main]: https://github.com/CloudEngineHub/dsh-mobile.git -> https://github.com/Clarklevis1995/dsh-mobile.git
+CloudEngineHub/dsh-superagent-prototype[main]: https://github.com/CloudEngineHub/dsh-superagent-prototype.git -> https://github.com/deepseek-ai/dsh-superagent-prototype.git
 CloudEngineHub/dsh-TUI[main]: https://github.com/CloudEngineHub/dsh-TUI.git -> https://github.com/ccch1mneyyy/dsh-TUI.git
 CloudEngineHub/dspy[main]: https://github.com/CloudEngineHub/dspy.git -> https://github.com/stanfordnlp/dspy.git
 CloudEngineHub/dsrl[main]: https://github.com/CloudEngineHub/dsrl.git -> https://github.com/ajwagen/dsrl.git
@@ -2099,6 +2100,7 @@ CloudEngineHub/openvla-oft[main]: https://github.com/CloudEngineHub/openvla-oft.
 CloudEngineHub/OpenVoice[main]: https://github.com/CloudEngineHub/OpenVoice.git -> https://github.com/myshell-ai/OpenVoice.git
 CloudEngineHub/OpenWAM[main]: https://github.com/CloudEngineHub/OpenWAM.git -> https://github.com/OpenWAM-Official/OpenWAM.git
 CloudEngineHub/OpenWBT[main]: https://github.com/CloudEngineHub/OpenWBT.git -> https://github.com/GalaxyGeneralRobotics/OpenWBT.git
+CloudEngineHub/openwhispr[main]: https://github.com/CloudEngineHub/openwhispr.git -> https://github.com/OpenWhispr/openwhispr.git
 CloudEngineHub/openwiki[main]: https://github.com/CloudEngineHub/openwiki.git -> https://github.com/langchain-ai/openwiki.git
 CloudEngineHub/openwolf[main]: https://github.com/CloudEngineHub/openwolf.git -> https://github.com/cytostack/openwolf.git
 CloudEngineHub/openwork[dev]: https://github.com/CloudEngineHub/openwork.git -> https://github.com/different-ai/openwork.git
@@ -2781,9 +2783,10 @@ CloudEngineHub/Streamer-Sales[main]: https://github.com/CloudEngineHub/Streamer-
 CloudEngineHub/streaming-llm[main]: https://github.com/CloudEngineHub/streaming-llm.git -> https://github.com/mit-han-lab/streaming-llm.git
 CloudEngineHub/StreamingAvatar[main]: https://github.com/CloudEngineHub/StreamingAvatar.git -> https://github.com/Iheringb/StreamingAvatar.git
 CloudEngineHub/streamlit[develop]: https://github.com/CloudEngineHub/streamlit.git -> https://github.com/streamlit/streamlit.git
+CloudEngineHub/STS32XX-Firmware[main]: https://github.com/CloudEngineHub/STS32XX-Firmware.git -> https://github.com/roboninecom/STS32XX-Firmware.git
 CloudEngineHub/sumo[main]: https://github.com/CloudEngineHub/sumo.git -> https://github.com/rai-opensource/sumo.git
 CloudEngineHub/sumo-rl[main]: https://github.com/CloudEngineHub/sumo-rl.git -> https://github.com/LucasAlegre/sumo-rl.git
-CloudEngineHub/suna[main]: https://github.com/CloudEngineHub/suna.git -> https://github.com/kortix-ai/suna.git
+CloudEngineHub/suna[main]: https://github.com/CloudEngineHub/suna.git -> https://github.com/kortix-ai/CompanyOS.git
 CloudEngineHub/supabase[master]: https://github.com/CloudEngineHub/supabase.git -> https://github.com/supabase/supabase.git
 CloudEngineHub/SuperAGI[main]: https://github.com/CloudEngineHub/SuperAGI.git -> https://github.com/TransformerOptimus/SuperAGI.git
 CloudEngineHub/SuperCoder[main]: https://github.com/CloudEngineHub/SuperCoder.git -> https://github.com/TransformerOptimus/SuperCoder.git
@@ -2965,6 +2968,7 @@ CloudEngineHub/ultralytics[main]: https://github.com/CloudEngineHub/ultralytics.
 CloudEngineHub/Umi-OCR[main]: https://github.com/CloudEngineHub/Umi-OCR.git -> https://github.com/hiroi-sora/Umi-OCR.git
 CloudEngineHub/UMR[main]: https://github.com/CloudEngineHub/UMR.git -> https://github.com/hanyang9/UMR.git
 CloudEngineHub/Understand-Anything[main]: https://github.com/CloudEngineHub/Understand-Anything.git -> https://github.com/Egonex-AI/Understand-Anything.git
+CloudEngineHub/uni-robot-agent[main]: https://github.com/CloudEngineHub/uni-robot-agent.git -> https://github.com/Open-RUA/uni-robot-agent.git
 CloudEngineHub/Uni3C[main]: https://github.com/CloudEngineHub/Uni3C.git -> https://github.com/alibaba-damo-academy/Uni3C.git
 CloudEngineHub/UniAD[v2.0]: https://github.com/CloudEngineHub/UniAD.git -> https://github.com/OpenDriveLab/UniAD.git
 CloudEngineHub/UniDex[main]: https://github.com/CloudEngineHub/UniDex.git -> https://github.com/unidex-ai/UniDex.git
@@ -3115,6 +3119,7 @@ CloudEngineHub/wechat-article-skills[main]: https://github.com/CloudEngineHub/we
 CloudEngineHub/WeClone[master]: https://github.com/CloudEngineHub/WeClone.git -> https://github.com/xming521/WeClone.git
 CloudEngineHub/WheeledLab[main]: https://github.com/CloudEngineHub/WheeledLab.git -> https://github.com/UWRobotLearning/WheeledLab.git
 CloudEngineHub/whisper[main]: https://github.com/CloudEngineHub/whisper.git -> https://github.com/openai/whisper.git
+CloudEngineHub/whisper-flow[main]: https://github.com/CloudEngineHub/whisper-flow.git -> https://github.com/dimastatz/whisper-flow.git
 CloudEngineHub/Whisper-Input[main]: https://github.com/CloudEngineHub/Whisper-Input.git -> https://github.com/ErlichLiu/Whisper-Input.git
 CloudEngineHub/whisper-keyboard[main]: https://github.com/CloudEngineHub/whisper-keyboard.git -> https://github.com/vlad-ds/whisper-keyboard.git
 CloudEngineHub/WhisperLiveKit[main]: https://github.com/CloudEngineHub/WhisperLiveKit.git -> https://github.com/QuentinFuxa/WhisperLiveKit.git
