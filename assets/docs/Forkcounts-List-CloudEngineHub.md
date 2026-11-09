@@ -10,6 +10,7 @@ CloudEngineHub/daily_stock_analysis[main]: https://github.com/CloudEngineHub/dai
   - wang-ink: https://github.com/wang-ink
 CloudEngineHub/eKalibr[master]: https://github.com/CloudEngineHub/eKalibr.git
   - marenan: https://github.com/marenan
+  - samorr: https://github.com/samorr
 CloudEngineHub/lingbot-vla[main]: https://github.com/CloudEngineHub/lingbot-vla.git
   - E-privo: https://github.com/E-privo
 CloudEngineHub/OrcaLab[main]: https://github.com/CloudEngineHub/OrcaLab.git
