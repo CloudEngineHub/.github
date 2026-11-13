@@ -425,7 +425,7 @@ CloudEngineHub/carbon-lang[trunk]: https://github.com/CloudEngineHub/carbon-lang
 CloudEngineHub/CARI4D[website]: https://github.com/CloudEngineHub/CARI4D.git -> https://github.com/NVlabs/CARI4D.git
 CloudEngineHub/carla[master]: https://github.com/CloudEngineHub/carla.git -> https://github.com/carla-simulator/carla.git
 CloudEngineHub/Cassie_FlatGround_Controller[master]: https://github.com/CloudEngineHub/Cassie_FlatGround_Controller.git -> https://github.com/UMich-BipedLab/Cassie_FlatGround_Controller.git
-CloudEngineHub/CatVTON[main]: https://github.com/CloudEngineHub/CatVTON.git -> https://github.com/Zheng-Chong/CatVTON.git
+CloudEngineHub/CatVTON[main]: https://github.com/CloudEngineHub/CatVTON.git -> https://github.com/Zheng-Chong/CatVTON-Page.git
 CloudEngineHub/CausalVLR[main]: https://github.com/CloudEngineHub/CausalVLR.git -> https://github.com/HCPLab-SYSU/CausalVLR.git
 CloudEngineHub/cbfpy[main]: https://github.com/CloudEngineHub/cbfpy.git -> https://github.com/StanfordASL/cbfpy.git
 CloudEngineHub/cc-gateway[main]: https://github.com/CloudEngineHub/cc-gateway.git -> https://github.com/motiful/cc-gateway.git
@@ -463,6 +463,7 @@ CloudEngineHub/cherry-studio[main]: https://github.com/CloudEngineHub/cherry-stu
 CloudEngineHub/chezmoi[master]: https://github.com/CloudEngineHub/chezmoi.git -> https://github.com/twpayne/chezmoi.git
 CloudEngineHub/CHIEF[main]: https://github.com/CloudEngineHub/CHIEF.git -> https://github.com/hms-dbmi/CHIEF.git
 CloudEngineHub/CHILD[main]: https://github.com/CloudEngineHub/CHILD.git -> https://github.com/uiuckimlab/CHILD.git
+CloudEngineHub/chimera-vocal-synth[main]: https://github.com/CloudEngineHub/chimera-vocal-synth.git -> https://github.com/jamesondh/chimera-vocal-synth.git
 CloudEngineHub/ChinaTextbook[master]: https://github.com/CloudEngineHub/ChinaTextbook.git -> https://github.com/TapXWorld/ChinaTextbook.git
 CloudEngineHub/chinese-independent-developer[master]: https://github.com/CloudEngineHub/chinese-independent-developer.git -> https://github.com/1c7/chinese-independent-developer.git
 CloudEngineHub/ChopperBot[master]: https://github.com/CloudEngineHub/ChopperBot.git -> https://github.com/Geniusay/ChopperBot.git
@@ -679,6 +680,7 @@ CloudEngineHub/DepthAnyVideo[main]: https://github.com/CloudEngineHub/DepthAnyVi
 CloudEngineHub/DepthLab[main]: https://github.com/CloudEngineHub/DepthLab.git -> https://github.com/robbyant-research/DepthLab.git
 CloudEngineHub/design.md[main]: https://github.com/CloudEngineHub/design.md.git -> https://github.com/google-labs-code/design.md.git
 CloudEngineHub/desktop[development]: https://github.com/CloudEngineHub/desktop.git -> https://github.com/desktop/desktop.git
+CloudEngineHub/desktop-icon-billiards[main]: https://github.com/CloudEngineHub/desktop-icon-billiards.git -> https://github.com/liuxiaogang-com/desktop-icon-billiards.git
 CloudEngineHub/detectron2[main]: https://github.com/CloudEngineHub/detectron2.git -> https://github.com/facebookresearch/detectron2.git
 CloudEngineHub/developer-roadmap[develop]: https://github.com/CloudEngineHub/developer-roadmap.git -> https://github.com/nilbuild/developer-roadmap.git
 CloudEngineHub/devportfolio[master]: https://github.com/CloudEngineHub/devportfolio.git -> https://github.com/RyanFitzgerald/devportfolio.git
@@ -1018,6 +1020,7 @@ CloudEngineHub/fnlp[master]: https://github.com/CloudEngineHub/fnlp.git -> https
 CloudEngineHub/fog_x[main]: https://github.com/CloudEngineHub/fog_x.git -> https://github.com/BerkeleyAutomation/robodm.git
 CloudEngineHub/Follow[dev]: https://github.com/CloudEngineHub/Follow.git -> https://github.com/RSSNext/Folo.git
 CloudEngineHub/Followise[main]: https://github.com/CloudEngineHub/Followise.git -> https://github.com/RSSNext/Followise.git
+CloudEngineHub/Folo[dev]: https://github.com/CloudEngineHub/Folo.git -> https://github.com/RSSNext/Folo.git
 CloudEngineHub/FoloUp[main]: https://github.com/CloudEngineHub/FoloUp.git -> https://github.com/FoloUp/FoloUp.git
 CloudEngineHub/folx[main]: https://github.com/CloudEngineHub/folx.git -> https://github.com/microsoft/folx.git
 CloudEngineHub/Fooocus[main]: https://github.com/CloudEngineHub/Fooocus.git -> https://github.com/lllyasviel/Fooocus.git
@@ -1263,6 +1266,7 @@ CloudEngineHub/HelloMeme[main]: https://github.com/CloudEngineHub/HelloMeme.git 
 CloudEngineHub/Helpful-Doggybot[main]: https://github.com/CloudEngineHub/Helpful-Doggybot.git -> https://github.com/WooQi57/Helpful-Doggybot.git
 CloudEngineHub/herdr[master]: https://github.com/CloudEngineHub/herdr.git -> https://github.com/herdrdev/herdr.git
 CloudEngineHub/hermes-agent[main]: https://github.com/CloudEngineHub/hermes-agent.git -> https://github.com/NousResearch/hermes-agent.git
+CloudEngineHub/hermes-agent-self-evolution[main]: https://github.com/CloudEngineHub/hermes-agent-self-evolution.git -> https://github.com/NousResearch/hermes-agent-self-evolution.git
 CloudEngineHub/hermes-desktop[main]: https://github.com/CloudEngineHub/hermes-desktop.git -> https://github.com/fathah/hermes-desktop.git
 CloudEngineHub/hermes-web-ui[main]: https://github.com/CloudEngineHub/hermes-web-ui.git -> https://github.com/EKKOLearnAI/ekko-studio.git
 CloudEngineHub/HermesPet[main]: https://github.com/CloudEngineHub/HermesPet.git -> https://github.com/basionwang-bot/HermesPet.git
@@ -1977,7 +1981,7 @@ CloudEngineHub/nvidia-docker[main]: https://github.com/CloudEngineHub/nvidia-doc
 CloudEngineHub/nvm-desktop[tauri]: https://github.com/CloudEngineHub/nvm-desktop.git -> https://github.com/1111mp/nvm-desktop.git
 CloudEngineHub/obj2mjcf[main]: https://github.com/CloudEngineHub/obj2mjcf.git -> https://github.com/kevinzakka/obj2mjcf.git
 CloudEngineHub/ObjectFolder[main]: https://github.com/CloudEngineHub/ObjectFolder.git -> https://github.com/rhgao/ObjectFolder.git
-CloudEngineHub/obsidian-skills[main]: https://github.com/CloudEngineHub/obsidian-skills.git -> https://github.com/kepano/obsidian-skills.git
+CloudEngineHub/obsidian-skills[main]: https://github.com/CloudEngineHub/obsidian-skills.git -> https://github.com/obsidianmd/obsidian-skills.git
 CloudEngineHub/OCRmyPDF[main]: https://github.com/CloudEngineHub/OCRmyPDF.git -> https://github.com/ocrmypdf/OCRmyPDF.git
 CloudEngineHub/ocs2[main]: https://github.com/CloudEngineHub/ocs2.git -> https://github.com/leggedrobotics/ocs2.git
 CloudEngineHub/octo[main]: https://github.com/CloudEngineHub/octo.git -> https://github.com/octo-models/octo.git
