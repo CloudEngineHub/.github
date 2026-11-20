@@ -4,6 +4,8 @@ CloudEngineHub/aero-hand-open[main]: https://github.com/CloudEngineHub/aero-hand
   - YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
 CloudEngineHub/ai_quant_trade[master]: https://github.com/CloudEngineHub/ai_quant_trade.git
   - sjkdn09867: https://github.com/sjkdn09867
+CloudEngineHub/Apollo-11[master]: https://github.com/CloudEngineHub/Apollo-11.git
+  - erdenekhuu-bot: https://github.com/erdenekhuu-bot
 CloudEngineHub/Awesome-Astra-Embodied-AI[main]: https://github.com/CloudEngineHub/Awesome-Astra-Embodied-AI.git
   - ZheZhang111: https://github.com/ZheZhang111
 CloudEngineHub/awesome-mcp-servers-appcypher[main]: https://github.com/CloudEngineHub/awesome-mcp-servers-appcypher.git
@@ -57,6 +59,8 @@ CloudEngineHub/openhuman[main]: https://github.com/CloudEngineHub/openhuman.git
   - Blackdiamond777: https://github.com/Blackdiamond777
 CloudEngineHub/openwork[dev]: https://github.com/CloudEngineHub/openwork.git
   - Blackdiamond777: https://github.com/Blackdiamond777
+CloudEngineHub/Party_OS[main]: https://github.com/CloudEngineHub/Party_OS.git
+  - mdnegan: https://github.com/mdnegan
 CloudEngineHub/payload[main]: https://github.com/CloudEngineHub/payload.git
   - jensfr1: https://github.com/jensfr1
 CloudEngineHub/phidata[main]: https://github.com/CloudEngineHub/phidata.git
